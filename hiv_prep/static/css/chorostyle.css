@@ -1,0 +1,67 @@
+
+body {
+    background-color: #F0FFFF;
+}
+.jumbotron{
+    background-color: #1B283A;
+    background: url(Images/prepbackground4.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+}
+
+span {
+    color: whitesmoke;
+    text-shadow: 4px 2px #1B283A;
+    font-size: 150px;
+    font-weight: bold;
+}
+
+#services { 
+    background-color:#1B283A
+}
+
+h2 {
+    color: rgb(33,197,233)
+}
+
+/* CSS from the Leaflet-Choropleth documentation */
+.legend {
+    padding: 6px 8px;
+    font: 12px Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #1B283A;
+    background: #fff;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+ 
+.legend ul {
+    padding: 0;
+    margin: 0;
+    clear: both;
+    list-style-type: none;
+}
+  
+.legend li {
+    display: inline-block;
+    width: 30px;
+    height: 22px;
+}
+  
+.legend .min {
+    float: left;
+    padding-bottom: 5px;
+}
+  
+.legend .max {
+    float: right;
+}
+  
+h1 {
+    text-align: center;
+}
+
+
+

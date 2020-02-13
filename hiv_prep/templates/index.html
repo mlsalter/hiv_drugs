@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HIV PrEP</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+  integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+  crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+  integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+  crossorigin=""></script>
+  <!-- stylin' -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+  <link rel="stylesheet" type="text/javascript" href="{{ url_for('static', filename='js/lineGraph_USHIV.js') }}">
+  <link rel="stylesheet" type="text/images" href="{{ url_for('static', filename='images/prepbackground4.jpg') }}">
+  <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans|Raleway|Roboto|Roboto+Mono|Roboto+Slab" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/css/bootstrap-slider.css">
+</head>
+
+<body>
+  <!-- navbar -->
+  <nav id="navbar">
+    <div class="navbar-header">
+      <a class="navbar-brand team-name" href="" style="padding-left:25px">HIV PrEP</a>
+    </div>
+    <div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="nav-item">
+          <a class="nav-link" target="#" href="https://github.com/anblack14/HIV_PrEP"><img src="{{ url_for('static', filename='images/GitHub-Mark-32px.png') }}"></a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+        <div class="hero text-center">
+          <h1>HIV PrEP</h1>
+  </div>
+
+  <!-- Navigation -->
+  <section id="services">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 style="color:whitesmoke" class="section-heading text-uppercase">WHAT IS HIV PrEP?</h2>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/TR8-3uAuZGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h3 class="section-subheading text-muted">Protect yourself, learn about PrEP (Pre-Exposure Prophylaxis), how it works, how to get it, and if it's the right choice for you?!</h3>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col-md-6">
+          <a href="https://www.truvada.com/what-is-truvada/understanding-truvada"><img src="{{ url_for('static', filename='images/prep_truvada_image.jpeg') }}" width=180px alt="Truvada Drug Icon" class="img-fluid"></a>
+          <h4 class="service-heading">Truvada</h4>
+          <p class="text-muted">TRUVADA for PrEP® (pre-exposure prophylaxis) is a prescription medicine that can help reduce the risk of getting HIV-1 through sex, when taken every day and used together with safer sex practices.
+            TRUVADA for PrEP is only for people who are at risk of getting HIV-1 and weigh at least 77 pounds.
+            You must be HIV-negative before you start taking TRUVADA for PrEP.  TRUVADA for PrEP does not prevent other sexually transmitted infections (STIs) or pregnancy.</p>
+        </div>
+        <div class="col-md-6">
+          <a href="https://www.descovy.com/prep?utm_medium=cpc&utm_campaign=71700000061640858&utm_content=Truvada_KW&utm_term=truvada&utm_source=google&gclid=CjwKCAiAyeTxBRBvEiwAuM8dnccIJXw59Sy6t8W_0JuqERNF36z57OoHVrG3weup2sicHiClyUL-2hoCk-sQAvD_BwE&gclsrc=aw.ds"><img src="{{ url_for('static', filename='images/prep_descovy_image.jpeg') }}" width=180px alt="Descovy Drug Icon" class="img-fluid"></a>
+          <h4 class="service-heading">Descovy</h4>
+          <p class="text-muted">DESCOVY for HIV-1 pre-exposure prophylaxis (PrEP) is indicated in at-risk adults and adolescents to reduce the risk of sexually acquired HIV-1 infection, excluding individuals at risk from receptive vaginal sex. HIV-1–negative status must be confirmed immediately prior to initiation.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="container">
+    <div class="row whitespace">
+
+      <div class="col-md-12">
+    <!-- USA choropleth map -->
+    <h2 class="row whitespace" id="statesHIV">HIV CASES BEFORE AND AFTER PrEP</h2>
+    <div class="row whitespace" style="padding-bottom: 0px">
+      <div class="col-md-4" id="choromapSelector">
+        <div align="center" class="form-group">
+          <ul class="list-group" id="filters">
+            <li class="filter list-group-item">
+
+              
+                            
+              <label>Compare before after PrEP/</label><br>
+
+              <select id="dropdown" onchange="updateChoro()">
+                <option value="Before PrEP" selected>Rate of New Cases Before PrEP</option>
+                <option value="After PrEP">Rate of New Cases After PrEP</option>
+                <option value="Diff">How do they compare</option>
+              </select>
+            </li>
+          </ul>
+        </div>
+      </div> 
+    </div>
+    <div class="row whitespace">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div id="choromap" style="height: 650px;" ></div>
+        <p> 
+        <br><i></i>
+        </p>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+  </div>
+
+     
+  <!-- Scatter Plot and Line Graph -->
+  <section id="services">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <h3>LINE GRAPH</h3>
+        <html lang="en">
+
+    <script src="{{ url_for('static', filename='js/plotly-latest.min.js') }}"></script>
+
+    <div id="plot"></div>
+    <script src="{{ url_for('static', filename='js/lineGraph_USHIV.js') }}"></script>
+
+        <p><SOURCE:media>SOURCE: https://www.cdc.gov/GIS/</SOURCE:media>
+      </p>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+  </section>
+  <section id="servicesalt">
+    <!-- scatter plots -->
+    <div class="row whitespace">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <h2>HIV CASE RATE VS INCOME SCATTER PLOT</h2>
+
+          <div id="scatter2"></div>
+          <select id="selDataset">
+            <option value="dataset1">2008-2012 HIV Case Rate vs Average Annual Income</option>
+            <option value="dataset2">2013-2018 HIV Case Rate vs Average Annual Income</option>
+            <!-- <option value="dataset3">2013-2018 vs 2008-2012 HIV Case Rate vs Average Annual Income</option> -->
+          </select>
+
+        <p><SOURCE:media>SOURCE: WHO HAS TIME TO DOCUMENT SOURCES?</SOURCE:media>
+      </p>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+  </section>
+  <section id="services">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <h3>HIV CASE RATE VS UNEMPLOYMENT SCATTER PLOT</h3>
+  
+          <div id="scatter3"></div>
+          <select id="selDataset2">
+            <option value="dataset21" font color="black">2008-2012 HIV Case Rate vs Unemployment Rate</option>
+            <option value="dataset22" font color="black"\>2013-2018 HIV Case Rate vs Unemployment Rate</option>
+            <!-- <option value="dataset23" font color="black"\>2013-2018 vs 2008-2012 HIV Case Rate vs Unemployment Rate</option> -->
+          </select>
+  
+          <p><SOURCE:media>SOURCE: TO BE REMEMBERED LATER</SOURCE:media> </p> 
+        </div>
+        <div class="col-md-1"></div>
+      </div>
+    </section>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">Project Number 2 Brought to you by Team HIV PrEP in the 2020 GW Analytics & Visualization Bootcamp.  Team members include Alex Black, Brett Schneider, Johar Najmi, Manuel Jean, and Michelle Salter</div>
+  <!-- libraries -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script> <!-- chart.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+  <!-- main visualizations -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/bootstrap-slider.js"></script>
+  <script src="{{ url_for('static', filename='js/config.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/choropleth.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/choro.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/scatter_income2.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/scatter_unemploy2.js') }}"></script>
+
+
+ 
+  <!-- fancy gauge CDNs -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/justgage/1.2.9/justgage.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/justgage/1.2.9/justgage.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/justgage/1.2.9/justgage.min.js.map"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.1/raphael-min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.1/raphael.js"></script>
+  
+</body>
+
+</html>

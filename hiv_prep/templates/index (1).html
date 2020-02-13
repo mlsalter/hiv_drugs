@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>HIVprep</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js" integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q==" crossorigin=""></script>
+  <!-- stylin' -->
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <!--<link rel="stylesheet" type="text/css" href="../static/css/agency.css">-->
+  <!-- Custom fonts for this template -->
+  <!-- <link href="../vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css"> -->
+  <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans|Raleway|Roboto|Roboto+Mono|Roboto+Slab" rel="stylesheet">
+  <!-- sliders -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/css/bootstrap-slider.css">
+   <!-- libraries -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script> <!-- chart.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js"></script>
+  <!-- main visualizations -->
+ 
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/bootstrap-slider.js"></script>
+
+
+
+</head>
+
+<body>
+  <!-- navbar -->
+  <nav id="navbar">
+    <div class="navbar-header">
+      <a class="navbar-brand team-name" href="https://morbid-curiosity.herokuapp.com" style="padding-left:25px"></a>
+    </div>
+    <div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="nav-item">
+          <a class="nav-link" target="#" href="https://morbid-curiosity.herokuapp.com/process"></a>
+        </li>
+        <li class="menu">
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- jumbotron & intro -->
+  <div class="row">
+    <div class="jumbotron text-center">
+      <div class="overlay"></div>
+      <div class="inner">
+        <h1><span>HIV PrEP</span></h1>
+        <h3 class="h3-white"></h3>
+      </div>
+    </div>
+  </div>
+
+  <!-- Navigation -->
+  <section id="services">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 style="color:whitesmoke" class="section-heading text-uppercase">Navigate</h2>
+          <h3 class="section-subheading text-muted">Click on any of the icons below to navigate to the section containing visualizations and more details.</h3>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col-md-4">
+          <h4 class="service-heading">HIV PrEP</h4>
+          <p class="text-muted"></p>
+        </div>
+        <div class="col-md-4">
+          <h4 class="service-heading"></h4>
+          <p class="text-muted"></p>
+        </div>
+        <div class="col-md-4">
+          <h4 class="service-heading"></h4>
+          <p class="text-muted"></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="container">
+    <!-- USA choropleth map -->
+    <h2 class="row whitespace" id="statesHIV">Rate of New HIV Cases</h2>
+    <div class="row whitespace" style="padding-bottom: 0px">
+      <div class="col-md-4" id="choromapSelector">
+     
+        </div>
+        <div align="center" class="form-group">
+          <ul class="list-group" id="filters">
+            <li class="filter list-group-item">
+              
+                            
+              <label>Compare before PrEP and after PrEP/</label><br>
+              
+              
+              
+              <select id="dropdown">
+                <option value="Before PrEP" selected>Rate of New Cases Before PrEP</option>
+                <option value="After PrEP">Rate of New Cases After PrEP</option>
+                <option value="Difference"></option>
+              </select>
+            </li>
+          </ul>
+        </div>  
+      </div> 
+      </div>
+    </div>
+    <div class="row whitespace" style="padding-top: -150px">
+      <div class="col-md-12">
+        <div id="choromap" style="height: 650px;" ></div>
+        <p> 
+        <br><i></i>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- scatter plots -->
+  <section class="bg-light" id="vari-data" style="padding: 20px">
+    <div class="container">
+      <div class="row whitespace">
+      <h2>Factors Affecting Use of PrEP</h2>
+      <div class="row" style="padding-top: 25px">
+        <div class="col-md-12">
+          <div id="scatter" class="js-plotly-plot">
+            <div class="plot-container plotly">
+            </div>
+          </div>
+
+
+
+
+
+          <select id="selDataset">
+            <option value="dataset1">Income</option>
+            <option value="dataset2">Unemployment</option>
+          </select> 
+
+
+
+        </div>
+      </div>
+        <div class="row whitespace">
+        <div class="col-md-12 text-left">
+          <p class="text-left">
+            <a
+              target="#_blank"> </a> 
+             
+            </a> 
+            <br><br>
+          </p>
+        </div> 
+      </div>
+    </div>
+  </section>
+    
+    <div class="row whitespace"></div>
+  </div>
+  <div class="footer"></div>
+  <!-- libraries -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script> <!-- chart.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+  <!-- main visualizations -->
+
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/bootstrap-slider.js"></script>
+  
+  <!-- <script src="/static/js/app.js"></script> -->
+
+  <script src="config.js"></script>
+
+  <script src="choropleth.js"></script>
+
+  <script src="scatters.js"></script>
+  
+  <script src="choro.js"></script>
+
+</body>
+
+</html>
