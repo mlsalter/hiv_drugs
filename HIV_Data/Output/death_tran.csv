@@ -1,0 +1,521 @@
+Year,Full Name,M2F Death Cases,ID Death Cases,M2M Death Cases,M2MID Death Cases,O Death Cases
+2008,United States,4912,5205,6767,1449,210
+2009,United States,4705,4947,6719,1504,189
+2010,United States,4431,4405,6410,1353,174
+2011,United States,4288,4180,6330,1334,200
+2012,United States,4299,3965,6285,1290,194
+2013,United States,4133,3878,6401,1335,169
+2014,United States,4241,3869,6538,1346,153
+2015,United States,4065,3638,6575,1402,180
+2016,United States,4226,3661,6883,1387,177
+2017,United States,4163,3451,6855,1327,174
+2008,Alabama,93,45,127,22,1
+2008,Alaska,6,6,8,1,0
+2008,Arizona,28,55,113,36,1
+2008,Arkansas,31,18,54,9,1
+2008,California,212,320,959,266,20
+2008,Colorado,11,18,66,22,1
+2008,Connecticut,54,155,36,12,3
+2008,Delaware,27,38,22,8,0
+2008,District of Columbia,77,118,81,31,1
+2008,Florida,987,414,827,151,29
+2008,Georgia,333,164,346,53,7
+2008,Hawaii,8,11,24,3,0
+2008,Idaho,3,1,9,3,0
+2008,Illinois,109,201,234,59,10
+2008,Indiana,47,34,101,18,2
+2008,Iowa,3,6,13,2,1
+2008,Kansas,3,11,39,5,1
+2008,Kentucky,36,30,60,9,2
+2008,Louisiana,173,99,167,34,11
+2008,Maine,1,11,12,1,1
+2008,Maryland,186,362,153,38,7
+2008,Massachusetts,46,159,73,16,4
+2008,Michigan,69,107,157,35,2
+2008,Minnesota,13,17,42,7,1
+2008,Mississippi,93,48,95,8,3
+2008,Missouri,46,25,123,19,3
+2008,Montana,2,4,9,1,0
+2008,Nebraska,7,4,15,2,1
+2008,Nevada,19,17,92,12,0
+2008,New Hampshire,7,4,2,5,0
+2008,New Jersey,233,410,173,41,10
+2008,New Mexico,5,10,44,6,2
+2008,New York,589,1120,574,148,33
+2008,North Carolina,222,134,187,27,8
+2008,North Dakota,2,1,5,1,1
+2008,Ohio,81,72,184,28,6
+2008,Oklahoma,16,25,64,19,2
+2008,Oregon,6,18,47,8,2
+2008,Pennsylvania,209,294,159,40,3
+2008,Rhode Island,13,14,14,2,1
+2008,South Carolina,152,76,128,16,5
+2008,South Dakota,4,0,5,1,0
+2008,Tennessee,136,66,198,18,1
+2008,Texas,353,298,622,145,10
+2008,Utah,3,12,20,7,0
+2008,Vermont,2,1,3,0,0
+2008,Virginia,113,89,127,24,7
+2008,Washington,23,36,89,22,3
+2008,West Virginia,8,9,23,4,1
+2008,Wisconsin,13,18,43,7,1
+2008,Wyoming,1,1,2,0,0
+2009,Alabama,99,54,130,24,3
+2009,Alaska,4,3,6,0,0
+2009,Arizona,22,34,120,34,3
+2009,Arkansas,23,23,55,10,1
+2009,California,205,279,904,227,17
+2009,Colorado,10,22,89,22,1
+2009,Connecticut,42,140,32,14,6
+2009,Delaware,18,34,25,5,0
+2009,District of Columbia,81,98,92,17,2
+2009,Florida,939,379,736,146,29
+2009,Georgia,314,160,419,68,6
+2009,Hawaii,2,1,18,5,0
+2009,Idaho,4,0,2,1,0
+2009,Illinois,121,189,225,73,6
+2009,Indiana,35,35,121,15,1
+2009,Iowa,5,7,22,3,0
+2009,Kansas,5,6,26,4,0
+2009,Kentucky,15,25,75,9,1
+2009,Louisiana,197,112,180,39,11
+2009,Maine,0,4,15,3,1
+2009,Maryland,175,333,126,41,6
+2009,Massachusetts,52,159,75,12,2
+2009,Michigan,71,69,136,25,3
+2009,Minnesota,24,16,49,11,1
+2009,Mississippi,83,33,92,17,3
+2009,Missouri,40,33,123,17,3
+2009,Montana,1,3,5,0,0
+2009,Nebraska,3,3,18,5,3
+2009,Nevada,10,28,70,14,1
+2009,New Hampshire,3,7,9,3,0
+2009,New Jersey,190,380,161,38,3
+2009,New Mexico,6,14,28,8,0
+2009,New York,561,1070,528,164,27
+2009,North Carolina,233,154,201,28,7
+2009,North Dakota,0,1,3,1,0
+2009,Ohio,66,49,184,31,3
+2009,Oklahoma,15,31,60,23,0
+2009,Oregon,10,18,46,17,2
+2009,Pennsylvania,222,286,171,40,7
+2009,Rhode Island,9,19,9,5,0
+2009,South Carolina,135,74,118,36,8
+2009,South Dakota,3,0,8,2,0
+2009,Tennessee,122,70,204,26,5
+2009,Texas,358,323,665,152,12
+2009,Utah,6,7,15,4,0
+2009,Vermont,1,0,5,2,1
+2009,Virginia,110,89,151,28,2
+2009,Washington,22,39,107,24,0
+2009,West Virginia,13,7,16,0,0
+2009,Wisconsin,19,29,45,12,1
+2009,Wyoming,0,0,4,0,0
+2010,Alabama,91,50,110,21,2
+2010,Alaska,5,2,8,1,0
+2010,Arizona,26,29,111,32,2
+2010,Arkansas,26,19,60,9,0
+2010,California,194,249,877,207,17
+2010,Colorado,18,25,78,15,1
+2010,Connecticut,43,116,39,9,1
+2010,Delaware,26,22,28,1,1
+2010,District of Columbia,84,86,70,15,2
+2010,Florida,810,330,726,131,21
+2010,Georgia,319,150,361,61,5
+2010,Hawaii,5,5,24,3,0
+2010,Idaho,2,2,7,4,0
+2010,Illinois,121,199,260,70,8
+2010,Indiana,34,25,95,16,2
+2010,Iowa,2,7,15,3,0
+2010,Kansas,5,5,33,5,1
+2010,Kentucky,28,22,52,17,0
+2010,Louisiana,160,106,151,33,6
+2010,Maine,3,3,11,4,0
+2010,Maryland,160,290,123,31,8
+2010,Massachusetts,38,150,75,14,4
+2010,Michigan,67,89,129,22,6
+2010,Minnesota,18,13,40,4,1
+2010,Mississippi,77,28,91,8,3
+2010,Missouri,42,20,120,26,1
+2010,Montana,1,2,5,3,0
+2010,Nebraska,5,5,18,2,1
+2010,Nevada,22,16,77,12,0
+2010,New Hampshire,8,1,7,1,0
+2010,New Jersey,229,354,167,36,9
+2010,New Mexico,5,7,38,14,0
+2010,New York,512,985,544,149,28
+2010,North Carolina,216,130,193,31,4
+2010,North Dakota,1,1,2,1,1
+2010,Ohio,54,40,165,19,10
+2010,Oklahoma,15,11,66,14,0
+2010,Oregon,5,15,65,11,1
+2010,Pennsylvania,207,247,195,41,8
+2010,Rhode Island,7,16,10,5,0
+2010,South Carolina,138,56,117,21,4
+2010,South Dakota,3,3,5,1,0
+2010,Tennessee,126,58,162,22,3
+2010,Texas,324,289,590,146,8
+2010,Utah,2,4,16,3,0
+2010,Vermont,0,2,11,2,0
+2010,Virginia,99,70,121,25,1
+2010,Washington,22,27,88,18,0
+2010,West Virginia,6,2,15,4,0
+2010,Wisconsin,22,22,41,7,1
+2010,Wyoming,2,2,2,3,0
+2011,Alabama,84,38,117,13,3
+2011,Alaska,3,3,6,0,0
+2011,Arizona,22,25,118,26,0
+2011,Arkansas,34,11,60,5,2
+2011,California,171,273,912,232,16
+2011,Colorado,18,23,64,21,0
+2011,Connecticut,44,110,54,6,1
+2011,Delaware,17,35,15,3,0
+2011,District of Columbia,90,89,80,15,5
+2011,Florida,841,354,678,113,26
+2011,Georgia,295,130,337,42,13
+2011,Hawaii,2,9,24,5,1
+2011,Idaho,3,0,8,3,0
+2011,Illinois,109,155,231,66,5
+2011,Indiana,44,30,110,13,3
+2011,Iowa,4,10,20,2,0
+2011,Kansas,7,7,21,11,0
+2011,Kentucky,22,16,67,3,2
+2011,Louisiana,180,93,161,34,6
+2011,Maine,2,3,15,4,0
+2011,Maryland,155,258,125,39,6
+2011,Massachusetts,47,125,58,27,5
+2011,Michigan,55,73,148,26,4
+2011,Minnesota,13,17,49,8,1
+2011,Mississippi,76,35,87,8,3
+2011,Missouri,31,27,99,24,2
+2011,Montana,2,1,4,1,0
+2011,Nebraska,4,6,13,1,0
+2011,Nevada,21,20,79,11,0
+2011,New Hampshire,2,4,5,2,1
+2011,New Jersey,210,336,160,35,8
+2011,New Mexico,5,7,31,8,1
+2011,New York,511,906,543,163,34
+2011,North Carolina,186,118,194,36,8
+2011,North Dakota,2,0,2,0,0
+2011,Ohio,79,41,168,23,5
+2011,Oklahoma,16,19,68,18,0
+2011,Oregon,7,18,55,16,3
+2011,Pennsylvania,192,230,180,43,7
+2011,Rhode Island,10,19,15,2,0
+2011,South Carolina,128,62,110,23,5
+2011,South Dakota,0,2,3,1,1
+2011,Tennessee,111,47,143,19,3
+2011,Texas,299,267,582,124,13
+2011,Utah,1,3,10,8,0
+2011,Vermont,2,3,0,1,0
+2011,Virginia,90,57,138,23,4
+2011,Washington,21,40,83,20,3
+2011,West Virginia,7,3,24,4,0
+2011,Wisconsin,16,22,52,6,1
+2011,Wyoming,1,0,5,0,0
+2012,Alabama,92,38,127,19,5
+2012,Alaska,1,3,4,3,0
+2012,Arizona,26,40,117,26,1
+2012,Arkansas,16,9,58,7,0
+2012,California,182,261,887,208,18
+2012,Colorado,5,21,65,20,1
+2012,Connecticut,43,101,34,10,3
+2012,Delaware,21,31,20,4,0
+2012,District of Columbia,76,64,71,17,3
+2012,Florida,841,314,660,120,28
+2012,Georgia,298,133,337,48,12
+2012,Hawaii,7,10,29,4,1
+2012,Idaho,4,5,12,2,1
+2012,Illinois,113,153,226,51,8
+2012,Indiana,27,31,93,15,4
+2012,Iowa,5,9,23,5,1
+2012,Kansas,9,5,22,8,0
+2012,Kentucky,24,17,67,8,1
+2012,Louisiana,193,95,147,30,6
+2012,Maine,2,4,11,1,1
+2012,Maryland,178,267,141,40,6
+2012,Massachusetts,42,135,69,17,4
+2012,Michigan,68,78,159,30,5
+2012,Minnesota,14,15,46,9,2
+2012,Mississippi,82,31,73,9,3
+2012,Missouri,37,26,109,17,1
+2012,Montana,0,1,3,1,0
+2012,Nebraska,5,8,18,2,1
+2012,Nevada,25,23,96,14,1
+2012,New Hampshire,3,5,10,3,0
+2012,New Jersey,175,288,138,31,13
+2012,New Mexico,13,12,20,11,2
+2012,New York,476,858,505,160,24
+2012,North Carolina,193,95,207,24,4
+2012,North Dakota,1,0,2,0,0
+2012,Ohio,83,49,188,29,2
+2012,Oklahoma,17,20,58,20,0
+2012,Oregon,15,18,61,15,1
+2012,Pennsylvania,177,204,165,30,7
+2012,Rhode Island,9,24,10,0,0
+2012,South Carolina,124,46,120,22,4
+2012,South Dakota,0,1,8,1,0
+2012,Tennessee,106,56,160,15,6
+2012,Texas,309,248,627,120,7
+2012,Utah,3,3,12,8,0
+2012,Vermont,1,2,3,0,0
+2012,Virginia,112,57,128,29,3
+2012,Washington,17,28,82,24,1
+2012,West Virginia,9,9,17,3,0
+2012,Wisconsin,23,19,40,3,1
+2012,Wyoming,0,0,2,0,0
+2013,Alabama,81,33,109,18,2
+2013,Alaska,4,5,4,2,1
+2013,Arizona,22,35,127,28,2
+2013,Arkansas,35,14,60,11,0
+2013,California,159,282,950,206,10
+2013,Colorado,7,16,72,18,1
+2013,Connecticut,33,97,31,13,0
+2013,Delaware,22,27,18,5,1
+2013,District of Columbia,63,60,59,19,0
+2013,Florida,802,349,708,125,16
+2013,Georgia,289,127,367,46,7
+2013,Hawaii,2,6,28,2,0
+2013,Idaho,3,2,7,1,0
+2013,Illinois,91,146,217,50,9
+2013,Indiana,38,16,108,17,2
+2013,Iowa,11,8,17,7,1
+2013,Kansas,13,8,26,8,0
+2013,Kentucky,19,31,58,11,1
+2013,Louisiana,163,89,134,23,7
+2013,Maine,4,7,16,3,0
+2013,Maryland,175,247,151,37,4
+2013,Massachusetts,42,128,80,14,5
+2013,Michigan,61,55,133,26,5
+2013,Minnesota,18,6,48,5,0
+2013,Mississippi,85,28,96,16,4
+2013,Missouri,26,22,117,20,1
+2013,Montana,2,2,8,0,1
+2013,Nebraska,8,7,12,4,1
+2013,Nevada,21,28,76,19,0
+2013,New Hampshire,1,7,5,0,1
+2013,New Jersey,213,324,142,36,12
+2013,New Mexico,7,8,24,5,2
+2013,New York,494,769,529,155,22
+2013,North Carolina,164,114,204,34,11
+2013,North Dakota,1,2,2,0,0
+2013,Ohio,69,46,172,24,3
+2013,Oklahoma,19,23,68,14,1
+2013,Oregon,11,15,63,22,0
+2013,Pennsylvania,208,221,158,37,6
+2013,Rhode Island,9,16,6,2,0
+2013,South Carolina,110,48,135,24,3
+2013,South Dakota,3,2,2,1,1
+2013,Tennessee,107,41,161,19,3
+2013,Texas,275,223,580,134,11
+2013,Utah,2,10,19,12,1
+2013,Vermont,1,3,3,0,1
+2013,Virginia,87,77,137,21,2
+2013,Washington,22,26,87,29,2
+2013,West Virginia,3,5,30,3,0
+2013,Wisconsin,26,18,39,7,3
+2013,Wyoming,1,2,2,1,0
+2014,Alabama,89,45,121,18,5
+2014,Alaska,5,0,6,2,0
+2014,Arizona,32,33,123,28,3
+2014,Arkansas,37,13,58,12,1
+2014,California,179,247,974,228,8
+2014,Colorado,19,12,91,23,1
+2014,Connecticut,25,105,39,12,2
+2014,Delaware,20,35,26,6,1
+2014,District of Columbia,65,61,69,15,0
+2014,Florida,768,350,681,149,16
+2014,Georgia,324,147,386,50,6
+2014,Hawaii,2,8,29,5,0
+2014,Idaho,2,4,11,3,2
+2014,Illinois,98,136,220,60,9
+2014,Indiana,34,19,107,18,2
+2014,Iowa,9,7,33,4,1
+2014,Kansas,8,3,28,7,0
+2014,Kentucky,32,18,62,6,0
+2014,Louisiana,164,89,146,21,2
+2014,Maine,2,3,12,1,0
+2014,Maryland,167,272,121,27,5
+2014,Massachusetts,35,124,82,16,6
+2014,Michigan,67,59,138,22,3
+2014,Minnesota,29,8,51,8,1
+2014,Mississippi,92,34,94,16,2
+2014,Missouri,23,23,100,19,5
+2014,Montana,2,2,4,1,1
+2014,Nebraska,7,5,15,3,0
+2014,Nevada,18,14,85,13,0
+2014,New Hampshire,1,7,3,2,0
+2014,New Jersey,186,295,149,26,6
+2014,New Mexico,12,6,37,12,0
+2014,New York,481,757,505,144,24
+2014,North Carolina,186,119,197,36,5
+2014,North Dakota,2,0,3,2,0
+2014,Ohio,74,47,199,24,5
+2014,Oklahoma,25,24,72,19,1
+2014,Oregon,10,16,59,16,1
+2014,Pennsylvania,200,220,179,43,1
+2014,Rhode Island,9,15,9,2,1
+2014,South Carolina,128,65,119,16,3
+2014,South Dakota,0,1,5,3,0
+2014,Tennessee,117,42,152,19,1
+2014,Texas,327,252,631,121,15
+2014,Utah,3,1,10,6,1
+2014,Vermont,0,1,2,0,0
+2014,Virginia,86,70,133,16,3
+2014,Washington,21,27,99,27,0
+2014,West Virginia,3,8,24,2,1
+2014,Wisconsin,17,16,40,14,3
+2014,Wyoming,0,2,2,1,0
+2015,Alabama,94,31,123,25,4
+2015,Alaska,4,0,4,3,0
+2015,Arizona,21,39,123,27,2
+2015,Arkansas,27,12,56,14,2
+2015,California,169,283,987,242,17
+2015,Colorado,12,12,82,17,1
+2015,Connecticut,48,82,43,7,3
+2015,Delaware,26,27,14,4,0
+2015,District of Columbia,72,63,93,23,4
+2015,Florida,767,324,825,144,21
+2015,Georgia,251,128,386,51,7
+2015,Hawaii,5,3,15,9,0
+2015,Idaho,4,2,6,3,0
+2015,Illinois,110,137,239,53,7
+2015,Indiana,45,28,88,13,2
+2015,Iowa,9,2,21,4,0
+2015,Kansas,9,7,29,6,0
+2015,Kentucky,22,17,63,17,4
+2015,Louisiana,177,78,129,29,7
+2015,Maine,1,5,12,0,1
+2015,Maryland,155,242,112,33,5
+2015,Massachusetts,46,141,93,15,4
+2015,Michigan,63,63,146,23,3
+2015,Minnesota,18,13,58,8,1
+2015,Mississippi,82,18,99,9,7
+2015,Missouri,34,17,102,19,1
+2015,Montana,2,2,7,2,0
+2015,Nebraska,5,4,15,2,3
+2015,Nevada,28,18,59,20,1
+2015,New Hampshire,3,7,15,3,0
+2015,New Jersey,179,262,152,36,10
+2015,New Mexico,10,8,45,12,1
+2015,New York,451,691,476,154,26
+2015,North Carolina,191,120,210,32,5
+2015,North Dakota,2,1,5,0,0
+2015,Ohio,66,45,155,36,5
+2015,Oklahoma,11,29,75,23,5
+2015,Oregon,14,13,60,24,0
+2015,Pennsylvania,167,201,182,35,2
+2015,Rhode Island,3,13,7,2,0
+2015,South Carolina,111,61,100,18,2
+2015,South Dakota,3,1,3,0,0
+2015,Tennessee,113,50,150,21,7
+2015,Texas,304,235,641,126,4
+2015,Utah,2,2,20,7,0
+2015,Vermont,2,1,3,0,0
+2015,Virginia,91,48,115,21,3
+2015,Washington,22,21,78,26,1
+2015,West Virginia,7,10,13,0,0
+2015,Wisconsin,11,22,41,8,2
+2015,Wyoming,0,2,2,0,0
+2016,Alabama,87,34,120,22,2
+2016,Alaska,4,1,7,1,0
+2016,Arizona,35,38,129,38,2
+2016,Arkansas,25,9,52,7,1
+2016,California,198,257,1053,240,17
+2016,Colorado,14,14,80,18,1
+2016,Connecticut,46,88,48,11,2
+2016,Delaware,15,18,17,3,2
+2016,District of Columbia,74,61,96,20,2
+2016,Florida,838,363,805,146,16
+2016,Georgia,286,113,377,38,7
+2016,Hawaii,4,2,30,2,0
+2016,Idaho,1,4,3,4,0
+2016,Illinois,93,141,234,46,11
+2016,Indiana,54,33,94,14,2
+2016,Iowa,5,4,21,3,0
+2016,Kansas,7,6,31,5,0
+2016,Kentucky,21,20,72,8,0
+2016,Louisiana,163,77,149,27,3
+2016,Maine,3,7,14,0,0
+2016,Maryland,170,272,153,41,5
+2016,Massachusetts,48,136,88,18,2
+2016,Michigan,46,58,150,27,4
+2016,Minnesota,13,15,38,7,2
+2016,Mississippi,95,20,77,11,5
+2016,Missouri,31,18,115,27,4
+2016,Montana,0,1,10,2,0
+2016,Nebraska,10,1,13,4,0
+2016,Nevada,24,21,90,14,2
+2016,New Hampshire,2,7,9,0,1
+2016,New Jersey,194,270,156,28,7
+2016,New Mexico,3,5,30,10,0
+2016,New York,462,691,542,141,24
+2016,North Carolina,157,106,206,39,11
+2016,North Dakota,1,1,2,0,0
+2016,Ohio,72,48,195,30,3
+2016,Oklahoma,16,18,66,19,4
+2016,Oregon,7,16,55,22,2
+2016,Pennsylvania,184,196,163,49,11
+2016,Rhode Island,11,14,10,2,1
+2016,South Carolina,134,53,125,22,2
+2016,South Dakota,3,0,7,1,0
+2016,Tennessee,103,43,159,19,2
+2016,Texas,317,249,655,129,6
+2016,Utah,10,8,20,9,1
+2016,Vermont,1,1,5,4,0
+2016,Virginia,97,54,134,28,4
+2016,Washington,14,26,119,18,0
+2016,West Virginia,5,6,22,4,3
+2016,Wisconsin,24,15,38,9,1
+2016,Wyoming,0,0,3,2,0
+2017,Alabama,71,23,127,19,3
+2017,Alaska,1,4,3,0,0
+2017,Arizona,24,29,118,27,0
+2017,Arkansas,19,11,60,13,1
+2017,California,168,231,1052,242,15
+2017,Colorado,15,21,78,19,1
+2017,Connecticut,39,105,43,8,3
+2017,Delaware,13,27,20,5,0
+2017,District of Columbia,82,70,63,12,3
+2017,Florida,833,324,779,125,16
+2017,Georgia,259,96,381,50,5
+2017,Hawaii,9,3,16,6,2
+2017,Idaho,5,3,7,3,0
+2017,Illinois,107,113,219,47,9
+2017,Indiana,36,30,110,14,1
+2017,Iowa,9,3,23,7,0
+2017,Kansas,10,4,29,4,0
+2017,Kentucky,28,21,71,10,1
+2017,Louisiana,167,64,138,26,4
+2017,Maine,7,8,16,3,2
+2017,Maryland,181,228,136,44,7
+2017,Massachusetts,51,129,87,24,5
+2017,Michigan,61,48,148,11,4
+2017,Minnesota,19,11,50,11,1
+2017,Mississippi,78,29,93,10,4
+2017,Missouri,43,25,123,18,0
+2017,Montana,2,2,7,2,0
+2017,Nebraska,7,7,14,6,0
+2017,Nevada,24,25,92,28,2
+2017,New Hampshire,2,5,13,1,0
+2017,New Jersey,182,260,157,34,6
+2017,New Mexico,1,4,18,4,0
+2017,New York,433,649,514,139,26
+2017,North Carolina,172,114,225,23,6
+2017,North Dakota,1,0,1,1,0
+2017,Ohio,66,57,214,30,6
+2017,Oklahoma,21,13,57,12,3
+2017,Oregon,13,14,70,19,1
+2017,Pennsylvania,204,186,192,40,8
+2017,Rhode Island,6,9,12,4,0
+2017,South Carolina,136,45,129,16,2
+2017,South Dakota,3,3,2,0,0
+2017,Tennessee,96,43,154,16,5
+2017,Texas,335,237,685,130,13
+2017,Utah,4,2,14,2,0
+2017,Vermont,2,3,7,1,0
+2017,Virginia,84,66,109,23,3
+2017,Washington,18,29,104,23,0
+2017,West Virginia,3,4,20,4,0
+2017,Wisconsin,15,14,56,13,3
+2017,Wyoming,0,2,1,2,1

@@ -1,0 +1,521 @@
+Indicator,Year,Full Name,FIPS,All Deaths,All Death Rates,Population
+HIV deaths,2017,United States,,15969,5.9,272460904
+HIV deaths,2016,United States,,16334,6.0,270301427
+HIV deaths,2015,United States,,15859,5.9,268005522
+HIV deaths,2014,United States,,16148,6.1,265732678
+HIV deaths,2013,United States,,15917,6.0,263356005
+HIV deaths,2012,United States,,16034,6.1,261032045
+HIV deaths,2011,United States,,16331,6.3,258666188
+HIV deaths,2010,United States,,16774,6.5,256390428
+HIV deaths,2009,United States,,18064,7.1,253253138
+HIV deaths,2008,United States,,18544,7.4,251009998
+HIV deaths,2017,Alabama,1.0,244,6.0,4094777
+HIV deaths,2016,Alabama,1.0,266,6.5,4082972
+HIV deaths,2015,Alabama,1.0,276,6.8,4070748
+HIV deaths,2014,Alabama,1.0,279,6.9,4059211
+HIV deaths,2013,Alabama,1.0,244,6.0,4041871
+HIV deaths,2012,Alabama,1.0,281,7.0,4019335
+HIV deaths,2011,Alabama,1.0,255,6.4,3997493
+HIV deaths,2010,Alabama,1.0,274,6.9,3980625
+HIV deaths,2009,Alabama,1.0,310,8.0,3898688
+HIV deaths,2008,Alabama,1.0,288,7.4,3870996
+HIV deaths,2017,Alaska,2.0,8,1.3,603161
+HIV deaths,2016,Alaska,2.0,13,2.2,604157
+HIV deaths,2015,Alaska,2.0,12,2.0,600941
+HIV deaths,2014,Alaska,2.0,12,2.0,599474
+HIV deaths,2013,Alaska,2.0,16,2.7,599385
+HIV deaths,2012,Alaska,2.0,11,1.9,592771
+HIV deaths,2011,Alaska,2.0,12,2.1,584567
+HIV deaths,2010,Alaska,2.0,16,2.8,577749
+HIV deaths,2009,Alaska,2.0,13,2.3,565800
+HIV deaths,2008,Alaska,2.0,21,3.8,559346
+HIV deaths,2017,Arizona,4.0,197,3.4,5874596
+HIV deaths,2016,Arizona,4.0,242,4.2,5770861
+HIV deaths,2015,Arizona,4.0,213,3.8,5663944
+HIV deaths,2014,Arizona,4.0,220,4.0,5567140
+HIV deaths,2013,Arizona,4.0,214,3.9,5469060
+HIV deaths,2012,Arizona,4.0,211,3.9,5388365
+HIV deaths,2011,Arizona,4.0,191,3.6,5304658
+HIV deaths,2010,Arizona,4.0,199,3.8,5229908
+HIV deaths,2009,Arizona,4.0,213,4.0,5316387
+HIV deaths,2008,Arizona,4.0,233,4.5,5235123
+HIV deaths,2017,Arkansas,5.0,104,4.2,2495932
+HIV deaths,2016,Arkansas,5.0,94,3.8,2482955
+HIV deaths,2015,Arkansas,5.0,110,4.5,2470760
+HIV deaths,2014,Arkansas,5.0,120,4.9,2459895
+HIV deaths,2013,Arkansas,5.0,120,4.9,2449550
+HIV deaths,2012,Arkansas,5.0,90,3.7,2438682
+HIV deaths,2011,Arkansas,5.0,111,4.6,2426548
+HIV deaths,2010,Arkansas,5.0,114,4.7,2407988
+HIV deaths,2009,Arkansas,5.0,112,4.7,2374089
+HIV deaths,2008,Arkansas,5.0,113,4.8,2357363
+HIV deaths,2017,California,6.0,1708,5.2,32888662
+HIV deaths,2016,California,6.0,1765,5.4,32663036
+HIV deaths,2015,California,6.0,1698,5.2,32390164
+HIV deaths,2014,California,6.0,1635,5.1,32069627
+HIV deaths,2013,California,6.0,1607,5.1,31722579
+HIV deaths,2012,California,6.0,1555,5.0,31393072
+HIV deaths,2011,California,6.0,1605,5.2,31068145
+HIV deaths,2010,California,6.0,1543,5.0,30753805
+HIV deaths,2009,California,6.0,1632,5.4,30167113
+HIV deaths,2008,California,6.0,1777,6.0,29836645
+HIV deaths,2017,Colorado,8.0,133,2.8,4710781
+HIV deaths,2016,Colorado,8.0,127,2.7,4632063
+HIV deaths,2015,Colorado,8.0,124,2.7,4542949
+HIV deaths,2014,Colorado,8.0,146,3.3,4447355
+HIV deaths,2013,Colorado,8.0,114,2.6,4367984
+HIV deaths,2012,Colorado,8.0,112,2.6,4290960
+HIV deaths,2011,Colorado,8.0,126,3.0,4220896
+HIV deaths,2010,Colorado,8.0,137,3.3,4152382
+HIV deaths,2009,Colorado,8.0,144,3.5,4120964
+HIV deaths,2008,Colorado,8.0,118,2.9,4049693
+HIV deaths,2017,Connecticut,9.0,197,6.4,3060949
+HIV deaths,2016,Connecticut,9.0,195,6.4,3060226
+HIV deaths,2015,Connecticut,9.0,183,6.0,3061946
+HIV deaths,2014,Connecticut,9.0,184,6.0,3061978
+HIV deaths,2013,Connecticut,9.0,175,5.7,3054288
+HIV deaths,2012,Connecticut,9.0,191,6.3,3043910
+HIV deaths,2011,Connecticut,9.0,214,7.1,3029649
+HIV deaths,2010,Connecticut,9.0,209,6.9,3013777
+HIV deaths,2009,Connecticut,9.0,234,7.9,2951882
+HIV deaths,2008,Connecticut,9.0,260,8.9,2932812
+HIV deaths,2017,Delaware,10.0,65,8.0,811576
+HIV deaths,2016,Delaware,10.0,55,6.8,803341
+HIV deaths,2015,Delaware,10.0,70,8.8,795441
+HIV deaths,2014,Delaware,10.0,88,11.2,786714
+HIV deaths,2013,Delaware,10.0,72,9.3,777619
+HIV deaths,2012,Delaware,10.0,77,10.0,768406
+HIV deaths,2011,Delaware,10.0,70,9.2,760646
+HIV deaths,2010,Delaware,10.0,77,10.2,752949
+HIV deaths,2009,Delaware,10.0,82,11.1,736007
+HIV deaths,2008,Delaware,10.0,95,13.0,728265
+HIV deaths,2017,District of Columbia,11.0,230,38.5,596785
+HIV deaths,2016,District of Columbia,11.0,253,42.8,590875
+HIV deaths,2015,District of Columbia,11.0,255,43.8,582251
+HIV deaths,2014,District of Columbia,11.0,210,36.7,572788
+HIV deaths,2013,District of Columbia,11.0,200,35.5,564030
+HIV deaths,2012,District of Columbia,11.0,231,41.8,552642
+HIV deaths,2011,District of Columbia,11.0,279,51.5,541801
+HIV deaths,2010,District of Columbia,11.0,258,48.6,530795
+HIV deaths,2009,District of Columbia,11.0,290,56.2,515989
+HIV deaths,2008,District of Columbia,11.0,308,60.6,508021
+HIV deaths,2017,Florida,12.0,2077,11.6,17971716
+HIV deaths,2016,Florida,12.0,2168,12.3,17658611
+HIV deaths,2015,Florida,12.0,2080,12.0,17305349
+HIV deaths,2014,Florida,12.0,1963,11.6,16983458
+HIV deaths,2013,Florida,12.0,2000,12.0,16709125
+HIV deaths,2012,Florida,12.0,1963,11.9,16480031
+HIV deaths,2011,Florida,12.0,2012,12.4,16258521
+HIV deaths,2010,Florida,12.0,2018,12.6,16018609
+HIV deaths,2009,Florida,12.0,2229,14.3,15614290
+HIV deaths,2008,Florida,12.0,2408,15.5,15508944
+HIV deaths,2017,Georgia,13.0,791,9.2,8627633
+HIV deaths,2016,Georgia,13.0,822,9.7,8516944
+HIV deaths,2015,Georgia,13.0,822,9.8,8397538
+HIV deaths,2014,Georgia,13.0,913,11.0,8288270
+HIV deaths,2013,Georgia,13.0,836,10.2,8187895
+HIV deaths,2012,Georgia,13.0,827,10.2,8106476
+HIV deaths,2011,Georgia,13.0,816,10.2,8003157
+HIV deaths,2010,Georgia,13.0,897,11.3,7912814
+HIV deaths,2009,Georgia,13.0,967,12.2,7937181
+HIV deaths,2008,Georgia,13.0,904,11.5,7826920
+HIV deaths,2017,Hawaii,15.0,36,3.0,1198339
+HIV deaths,2016,Hawaii,15.0,39,3.2,1200302
+HIV deaths,2015,Hawaii,15.0,32,2.7,1193935
+HIV deaths,2014,Hawaii,15.0,44,3.7,1187196
+HIV deaths,2013,Hawaii,15.0,39,3.3,1180667
+HIV deaths,2012,Hawaii,15.0,51,4.4,1168924
+HIV deaths,2011,Hawaii,15.0,41,3.5,1155908
+HIV deaths,2010,Hawaii,15.0,36,3.1,1144087
+HIV deaths,2009,Hawaii,15.0,26,2.4,1083032
+HIV deaths,2008,Hawaii,15.0,46,4.3,1077785
+HIV deaths,2017,Idaho,16.0,19,1.4,1402234
+HIV deaths,2016,Idaho,16.0,12,0.9,1369107
+HIV deaths,2015,Idaho,16.0,14,1.0,1339988
+HIV deaths,2014,Idaho,16.0,21,1.6,1320877
+HIV deaths,2013,Idaho,16.0,14,1.1,1301066
+HIV deaths,2012,Idaho,16.0,24,1.9,1283965
+HIV deaths,2011,Idaho,16.0,14,1.1,1270672
+HIV deaths,2010,Idaho,16.0,15,1.2,1256890
+HIV deaths,2009,Idaho,16.0,7,0.6,1238079
+HIV deaths,2008,Idaho,16.0,16,1.3,1223541
+HIV deaths,2017,Illinois,17.0,494,4.6,10731215
+HIV deaths,2016,Illinois,17.0,524,4.9,10743318
+HIV deaths,2015,Illinois,17.0,545,5.1,10756428
+HIV deaths,2014,Illinois,17.0,523,4.9,10759859
+HIV deaths,2013,Illinois,17.0,512,4.8,10744121
+HIV deaths,2012,Illinois,17.0,551,5.1,10704446
+HIV deaths,2011,Illinois,17.0,565,5.3,10668059
+HIV deaths,2010,Illinois,17.0,659,6.2,10623897
+HIV deaths,2009,Illinois,17.0,615,5.8,10626004
+HIV deaths,2008,Illinois,17.0,613,5.8,10563388
+HIV deaths,2017,Indiana,18.0,190,3.4,5540003
+HIV deaths,2016,Indiana,18.0,197,3.6,5510511
+HIV deaths,2015,Indiana,18.0,177,3.2,5483619
+HIV deaths,2014,Indiana,18.0,180,3.3,5466488
+HIV deaths,2013,Indiana,18.0,181,3.3,5436314
+HIV deaths,2012,Indiana,18.0,169,3.1,5399958
+HIV deaths,2011,Indiana,18.0,199,3.7,5371451
+HIV deaths,2010,Indiana,18.0,171,3.2,5340692
+HIV deaths,2009,Indiana,18.0,206,3.9,5279967
+HIV deaths,2008,Indiana,18.0,202,3.9,5246323
+HIV deaths,2017,Iowa,19.0,43,1.6,2617029
+HIV deaths,2016,Iowa,19.0,33,1.3,2605250
+HIV deaths,2015,Iowa,19.0,36,1.4,2595775
+HIV deaths,2014,Iowa,19.0,54,2.1,2585119
+HIV deaths,2013,Iowa,19.0,43,1.7,2570198
+HIV deaths,2012,Iowa,19.0,43,1.7,2553591
+HIV deaths,2011,Iowa,19.0,37,1.5,2543043
+HIV deaths,2010,Iowa,19.0,28,1.1,2526684
+HIV deaths,2009,Iowa,19.0,37,1.5,2496048
+HIV deaths,2008,Iowa,19.0,25,1.0,2486127
+HIV deaths,2017,Kansas,20.0,47,2.0,2397743
+HIV deaths,2016,Kansas,20.0,49,2.0,2393712
+HIV deaths,2015,Kansas,20.0,51,2.1,2388086
+HIV deaths,2014,Kansas,20.0,46,1.9,2377652
+HIV deaths,2013,Kansas,20.0,56,2.4,2367607
+HIV deaths,2012,Kansas,20.0,44,1.9,2356616
+HIV deaths,2011,Kansas,20.0,46,2.0,2340115
+HIV deaths,2010,Kansas,20.0,49,2.1,2329143
+HIV deaths,2009,Kansas,20.0,41,1.8,2305964
+HIV deaths,2008,Kansas,20.0,58,2.5,2290014
+HIV deaths,2017,Kentucky,21.0,130,3.5,3728831
+HIV deaths,2016,Kentucky,21.0,122,3.3,3712013
+HIV deaths,2015,Kentucky,21.0,123,3.3,3699491
+HIV deaths,2014,Kentucky,21.0,119,3.2,3686449
+HIV deaths,2013,Kentucky,21.0,120,3.3,3673716
+HIV deaths,2012,Kentucky,21.0,117,3.2,3652563
+HIV deaths,2011,Kentucky,21.0,110,3.0,3632735
+HIV deaths,2010,Kentucky,21.0,119,3.3,3610828
+HIV deaths,2009,Kentucky,21.0,125,3.5,3583570
+HIV deaths,2008,Kentucky,21.0,137,3.8,3559663
+HIV deaths,2017,Louisiana,22.0,399,10.3,3868605
+HIV deaths,2016,Louisiana,22.0,419,10.8,3871344
+HIV deaths,2015,Louisiana,22.0,420,10.9,3858097
+HIV deaths,2014,Louisiana,22.0,422,11.0,3839337
+HIV deaths,2013,Louisiana,22.0,416,10.9,3819669
+HIV deaths,2012,Louisiana,22.0,470,12.4,3793129
+HIV deaths,2011,Louisiana,22.0,473,12.6,3766665
+HIV deaths,2010,Louisiana,22.0,456,12.2,3737428
+HIV deaths,2009,Louisiana,22.0,539,14.6,3680921
+HIV deaths,2008,Louisiana,22.0,484,13.3,3648291
+HIV deaths,2017,Maine,23.0,35,3.0,1157986
+HIV deaths,2016,Maine,23.0,23,2.0,1153307
+HIV deaths,2015,Maine,23.0,19,1.7,1149501
+HIV deaths,2014,Maine,23.0,19,1.7,1150000
+HIV deaths,2013,Maine,23.0,30,2.6,1145689
+HIV deaths,2012,Maine,23.0,19,1.7,1142956
+HIV deaths,2011,Maine,23.0,24,2.1,1140816
+HIV deaths,2010,Maine,23.0,22,1.9,1137673
+HIV deaths,2009,Maine,23.0,24,2.1,1130458
+HIV deaths,2008,Maine,23.0,26,2.3,1129848
+HIV deaths,2017,Maryland,24.0,595,11.8,5060236
+HIV deaths,2016,Maryland,24.0,641,12.7,5039003
+HIV deaths,2015,Maryland,24.0,546,10.9,5021726
+HIV deaths,2014,Maryland,24.0,591,11.8,4994516
+HIV deaths,2013,Maryland,24.0,614,12.4,4962705
+HIV deaths,2012,Maryland,24.0,632,12.8,4924611
+HIV deaths,2011,Maryland,24.0,583,12.0,4877694
+HIV deaths,2010,Maryland,24.0,613,12.7,4830144
+HIV deaths,2009,Maryland,24.0,680,14.4,4733633
+HIV deaths,2008,Maryland,24.0,745,15.9,4697010
+HIV deaths,2017,Massachusetts,25.0,297,5.0,5899032
+HIV deaths,2016,Massachusetts,25.0,292,5.0,5857445
+HIV deaths,2015,Massachusetts,25.0,298,5.1,5821545
+HIV deaths,2014,Massachusetts,25.0,263,4.5,5785038
+HIV deaths,2013,Massachusetts,25.0,269,4.7,5730770
+HIV deaths,2012,Massachusetts,25.0,267,4.7,5676159
+HIV deaths,2011,Massachusetts,25.0,261,4.6,5622961
+HIV deaths,2010,Massachusetts,25.0,281,5.0,5573257
+HIV deaths,2009,Massachusetts,25.0,299,5.4,5580663
+HIV deaths,2008,Massachusetts,25.0,297,5.4,5531920
+HIV deaths,2017,Michigan,26.0,272,3.2,8441967
+HIV deaths,2016,Michigan,26.0,285,3.4,8409723
+HIV deaths,2015,Michigan,26.0,296,3.5,8383578
+HIV deaths,2014,Michigan,26.0,288,3.4,8369488
+HIV deaths,2013,Michigan,26.0,279,3.3,8337871
+HIV deaths,2012,Michigan,26.0,339,4.1,8304912
+HIV deaths,2011,Michigan,26.0,306,3.7,8271309
+HIV deaths,2010,Michigan,26.0,312,3.8,8247420
+HIV deaths,2009,Michigan,26.0,305,3.7,8324039
+HIV deaths,2008,Michigan,26.0,370,4.4,8335602
+HIV deaths,2017,Minnesota,27.0,92,2.0,4631396
+HIV deaths,2016,Minnesota,27.0,75,1.6,4589546
+HIV deaths,2015,Minnesota,27.0,98,2.2,4553008
+HIV deaths,2014,Minnesota,27.0,97,2.1,4524856
+HIV deaths,2013,Minnesota,27.0,77,1.7,4489740
+HIV deaths,2012,Minnesota,27.0,86,1.9,4453587
+HIV deaths,2011,Minnesota,27.0,88,2.0,4422318
+HIV deaths,2010,Minnesota,27.0,76,1.7,4388574
+HIV deaths,2009,Minnesota,27.0,100,2.3,4358038
+HIV deaths,2008,Minnesota,27.0,80,1.8,4327416
+HIV deaths,2017,Mississippi,28.0,215,8.7,2479041
+HIV deaths,2016,Mississippi,28.0,207,8.4,2472164
+HIV deaths,2015,Mississippi,28.0,215,8.7,2468675
+HIV deaths,2014,Mississippi,28.0,237,9.6,2467100
+HIV deaths,2013,Mississippi,28.0,229,9.3,2460749
+HIV deaths,2012,Mississippi,28.0,198,8.1,2449062
+HIV deaths,2011,Mississippi,28.0,209,8.6,2439866
+HIV deaths,2010,Mississippi,28.0,207,8.5,2429159
+HIV deaths,2009,Mississippi,28.0,228,9.5,2397287
+HIV deaths,2008,Mississippi,28.0,246,10.3,2389085
+HIV deaths,2017,Missouri,29.0,209,4.1,5117892
+HIV deaths,2016,Missouri,29.0,194,3.8,5094029
+HIV deaths,2015,Missouri,29.0,172,3.4,5076572
+HIV deaths,2014,Missouri,29.0,171,3.4,5059205
+HIV deaths,2013,Missouri,29.0,186,3.7,5039202
+HIV deaths,2012,Missouri,29.0,190,3.8,5016085
+HIV deaths,2011,Missouri,29.0,184,3.7,4996001
+HIV deaths,2010,Missouri,29.0,209,4.2,4977086
+HIV deaths,2009,Missouri,29.0,216,4.4,4962937
+HIV deaths,2008,Missouri,29.0,216,4.4,4934901
+HIV deaths,2017,Montana,30.0,13,1.5,887128
+HIV deaths,2016,Montana,30.0,13,1.5,875704
+HIV deaths,2015,Montana,30.0,13,1.5,866602
+HIV deaths,2014,Montana,30.0,10,1.2,858974
+HIV deaths,2013,Montana,30.0,13,1.5,851634
+HIV deaths,2012,Montana,30.0,5,0.6,843229
+HIV deaths,2011,Montana,30.0,8,1.0,837028
+HIV deaths,2010,Montana,30.0,11,1.3,831037
+HIV deaths,2009,Montana,30.0,9,1.1,818891
+HIV deaths,2008,Montana,30.0,15,1.8,813046
+HIV deaths,2017,Nebraska,31.0,34,2.2,1571827
+HIV deaths,2016,Nebraska,31.0,28,1.8,1560378
+HIV deaths,2015,Nebraska,31.0,28,1.8,1547705
+HIV deaths,2014,Nebraska,31.0,30,2.0,1537771
+HIV deaths,2013,Nebraska,31.0,32,2.1,1525123
+HIV deaths,2012,Nebraska,31.0,33,2.2,1514247
+HIV deaths,2011,Nebraska,31.0,24,1.6,1503223
+HIV deaths,2010,Nebraska,31.0,31,2.1,1494005
+HIV deaths,2009,Nebraska,31.0,31,2.1,1467198
+HIV deaths,2008,Nebraska,31.0,28,1.9,1457464
+HIV deaths,2017,Nevada,32.0,171,6.9,2480508
+HIV deaths,2016,Nevada,32.0,151,6.2,2432399
+HIV deaths,2015,Nevada,32.0,126,5.3,2386830
+HIV deaths,2014,Nevada,32.0,130,5.5,2343130
+HIV deaths,2013,Nevada,32.0,143,6.2,2303590
+HIV deaths,2012,Nevada,32.0,159,7.0,2271241
+HIV deaths,2011,Nevada,32.0,131,5.9,2237368
+HIV deaths,2010,Nevada,32.0,126,5.7,2223329
+HIV deaths,2009,Nevada,32.0,122,5.7,2141833
+HIV deaths,2008,Nevada,32.0,140,6.6,2118616
+HIV deaths,2017,New Hampshire,33.0,21,1.8,1170090
+HIV deaths,2016,New Hampshire,33.0,19,1.6,1161178
+HIV deaths,2015,New Hampshire,33.0,29,2.5,1153654
+HIV deaths,2014,New Hampshire,33.0,13,1.1,1148650
+HIV deaths,2013,New Hampshire,33.0,15,1.3,1139264
+HIV deaths,2012,New Hampshire,33.0,22,1.9,1133890
+HIV deaths,2011,New Hampshire,33.0,14,1.2,1126337
+HIV deaths,2010,New Hampshire,33.0,17,1.5,1120212
+HIV deaths,2009,New Hampshire,33.0,22,2.0,1124301
+HIV deaths,2008,New Hampshire,33.0,18,1.6,1119153
+HIV deaths,2017,New Jersey,34.0,638,8.5,7499348
+HIV deaths,2016,New Jersey,34.0,654,8.7,7478521
+HIV deaths,2015,New Jersey,34.0,638,8.5,7466207
+HIV deaths,2014,New Jersey,34.0,661,8.9,7453225
+HIV deaths,2013,New Jersey,34.0,727,9.8,7434824
+HIV deaths,2012,New Jersey,34.0,644,8.7,7408872
+HIV deaths,2011,New Jersey,34.0,748,10.1,7380087
+HIV deaths,2010,New Jersey,34.0,795,10.8,7345376
+HIV deaths,2009,New Jersey,34.0,772,10.6,7249862
+HIV deaths,2008,New Jersey,34.0,868,12.0,7204858
+HIV deaths,2017,New Mexico,35.0,26,1.5,1744348
+HIV deaths,2016,New Mexico,35.0,48,2.8,1738281
+HIV deaths,2015,New Mexico,35.0,75,4.3,1731404
+HIV deaths,2014,New Mexico,35.0,67,3.9,1727337
+HIV deaths,2013,New Mexico,35.0,46,2.7,1724605
+HIV deaths,2012,New Mexico,35.0,57,3.3,1715621
+HIV deaths,2011,New Mexico,35.0,51,3.0,1705610
+HIV deaths,2010,New Mexico,35.0,63,3.7,1690231
+HIV deaths,2009,New Mexico,35.0,56,3.4,1636757
+HIV deaths,2008,New Mexico,35.0,67,4.1,1620429
+HIV deaths,2017,New York,36.0,1761,10.6,16640405
+HIV deaths,2016,New York,36.0,1859,11.2,16665101
+HIV deaths,2015,New York,36.0,1797,10.8,16665971
+HIV deaths,2014,New York,36.0,1911,11.5,16650830
+HIV deaths,2013,New York,36.0,1969,11.9,16606696
+HIV deaths,2012,New York,36.0,2023,12.2,16540669
+HIV deaths,2011,New York,36.0,2156,13.1,16458143
+HIV deaths,2010,New York,36.0,2217,13.6,16361187
+HIV deaths,2009,New York,36.0,2350,14.3,16409802
+HIV deaths,2008,New York,36.0,2465,15.1,16332205
+HIV deaths,2017,North Carolina,37.0,540,6.3,8633016
+HIV deaths,2016,North Carolina,37.0,519,6.1,8522014
+HIV deaths,2015,North Carolina,37.0,559,6.7,8401711
+HIV deaths,2014,North Carolina,37.0,544,6.6,8300834
+HIV deaths,2013,North Carolina,37.0,528,6.4,8203696
+HIV deaths,2012,North Carolina,37.0,522,6.4,8101318
+HIV deaths,2011,North Carolina,37.0,541,6.8,8004877
+HIV deaths,2010,North Carolina,37.0,573,7.2,7922895
+HIV deaths,2009,North Carolina,37.0,623,8.1,7713809
+HIV deaths,2008,North Carolina,37.0,577,7.6,7607202
+HIV deaths,2017,North Dakota,38.0,3,0.5,622525
+HIV deaths,2016,North Dakota,38.0,4,0.6,622315
+HIV deaths,2015,North Dakota,38.0,8,1.3,623158
+HIV deaths,2014,North Dakota,38.0,7,1.1,611504
+HIV deaths,2013,North Dakota,38.0,5,0.8,600804
+HIV deaths,2012,North Dakota,38.0,3,0.5,585281
+HIV deaths,2011,North Dakota,38.0,4,0.7,573759
+HIV deaths,2010,North Dakota,38.0,6,1.1,565830
+HIV deaths,2009,North Dakota,38.0,5,0.9,543743
+HIV deaths,2008,North Dakota,38.0,10,1.9,539992
+HIV deaths,2017,Ohio,39.0,372,3.8,9813290
+HIV deaths,2016,Ohio,39.0,347,3.5,9777971
+HIV deaths,2015,Ohio,39.0,306,3.1,9754188
+HIV deaths,2014,Ohio,39.0,349,3.6,9732167
+HIV deaths,2013,Ohio,39.0,313,3.2,9696486
+HIV deaths,2012,Ohio,39.0,351,3.6,9655211
+HIV deaths,2011,Ohio,39.0,315,3.3,9633071
+HIV deaths,2010,Ohio,39.0,288,3.0,9610790
+HIV deaths,2009,Ohio,39.0,334,3.5,9616569
+HIV deaths,2008,Ohio,39.0,371,3.9,9592881
+HIV deaths,2017,Oklahoma,40.0,106,3.3,3238135
+HIV deaths,2016,Oklahoma,40.0,122,3.8,3228505
+HIV deaths,2015,Oklahoma,40.0,143,4.5,3211563
+HIV deaths,2014,Oklahoma,40.0,140,4.4,3184247
+HIV deaths,2013,Oklahoma,40.0,126,4.0,3161412
+HIV deaths,2012,Oklahoma,40.0,115,3.7,3131983
+HIV deaths,2011,Oklahoma,40.0,121,3.9,3104403
+HIV deaths,2010,Oklahoma,40.0,107,3.5,3079818
+HIV deaths,2009,Oklahoma,40.0,128,4.2,3014967
+HIV deaths,2008,Oklahoma,40.0,126,4.2,2985437
+HIV deaths,2017,Oregon,41.0,116,3.3,3519405
+HIV deaths,2016,Oregon,41.0,103,3.0,3466235
+HIV deaths,2015,Oregon,41.0,111,3.3,3397526
+HIV deaths,2014,Oregon,41.0,102,3.0,3348642
+HIV deaths,2013,Oregon,41.0,111,3.4,3309074
+HIV deaths,2012,Oregon,41.0,109,3.3,3282121
+HIV deaths,2011,Oregon,41.0,99,3.0,3252260
+HIV deaths,2010,Oregon,41.0,97,3.0,3217465
+HIV deaths,2009,Oregon,41.0,92,2.9,3197425
+HIV deaths,2008,Oregon,41.0,80,2.5,3159664
+HIV deaths,2017,Pennsylvania,42.0,630,5.8,10902840
+HIV deaths,2016,Pennsylvania,42.0,602,5.5,10888364
+HIV deaths,2015,Pennsylvania,42.0,587,5.4,10881745
+HIV deaths,2014,Pennsylvania,42.0,644,5.9,10879461
+HIV deaths,2013,Pennsylvania,42.0,630,5.8,10857460
+HIV deaths,2012,Pennsylvania,42.0,583,5.4,10832936
+HIV deaths,2011,Pennsylvania,42.0,652,6.0,10800820
+HIV deaths,2010,Pennsylvania,42.0,698,6.5,10759979
+HIV deaths,2009,Pennsylvania,42.0,725,6.8,10659191
+HIV deaths,2008,Pennsylvania,42.0,705,6.6,10618093
+HIV deaths,2017,Rhode Island,44.0,31,3.4,911239
+HIV deaths,2016,Rhode Island,44.0,38,4.2,910326
+HIV deaths,2015,Rhode Island,44.0,26,2.9,908366
+HIV deaths,2014,Rhode Island,44.0,37,4.1,907072
+HIV deaths,2013,Rhode Island,44.0,33,3.6,904623
+HIV deaths,2012,Rhode Island,44.0,43,4.8,902455
+HIV deaths,2011,Rhode Island,44.0,46,5.1,899628
+HIV deaths,2010,Rhode Island,44.0,37,4.1,898501
+HIV deaths,2009,Rhode Island,44.0,42,4.7,894466
+HIV deaths,2008,Rhode Island,44.0,45,5.0,893608
+HIV deaths,2017,South Carolina,45.0,328,7.8,4230737
+HIV deaths,2016,South Carolina,45.0,336,8.1,4171070
+HIV deaths,2015,South Carolina,45.0,291,7.1,4109463
+HIV deaths,2014,South Carolina,45.0,331,8.2,4046632
+HIV deaths,2013,South Carolina,45.0,320,8.0,3988907
+HIV deaths,2012,South Carolina,45.0,315,8.0,3939204
+HIV deaths,2011,South Carolina,45.0,328,8.4,3893958
+HIV deaths,2010,South Carolina,45.0,336,8.7,3857440
+HIV deaths,2009,South Carolina,45.0,370,9.8,3780746
+HIV deaths,2008,South Carolina,45.0,375,10.0,3732320
+HIV deaths,2017,South Dakota,46.0,8,1.1,713932
+HIV deaths,2016,South Dakota,46.0,11,1.6,704961
+HIV deaths,2015,South Dakota,46.0,7,1.0,697811
+HIV deaths,2014,South Dakota,46.0,10,1.4,694500
+HIV deaths,2013,South Dakota,46.0,9,1.3,689289
+HIV deaths,2012,South Dakota,46.0,10,1.5,682418
+HIV deaths,2011,South Dakota,46.0,7,1.0,673889
+HIV deaths,2010,South Dakota,46.0,12,1.8,668043
+HIV deaths,2009,South Dakota,46.0,13,1.9,667951
+HIV deaths,2008,South Dakota,46.0,10,1.5,661864
+HIV deaths,2017,Tennessee,47.0,314,5.6,5631232
+HIV deaths,2016,Tennessee,47.0,327,5.9,5570308
+HIV deaths,2015,Tennessee,47.0,341,6.2,5518921
+HIV deaths,2014,Tennessee,47.0,331,6.0,5471517
+HIV deaths,2013,Tennessee,47.0,331,6.1,5424065
+HIV deaths,2012,Tennessee,47.0,342,6.4,5379876
+HIV deaths,2011,Tennessee,47.0,323,6.1,5326756
+HIV deaths,2010,Tennessee,47.0,371,7.0,5282732
+HIV deaths,2009,Tennessee,47.0,427,8.2,5219117
+HIV deaths,2008,Tennessee,47.0,419,8.1,5169975
+HIV deaths,2017,Texas,48.0,1399,6.1,23007851
+HIV deaths,2016,Texas,48.0,1356,6.0,22647866
+HIV deaths,2015,Texas,48.0,1310,5.9,22243749
+HIV deaths,2014,Texas,48.0,1346,6.2,21802872
+HIV deaths,2013,Texas,48.0,1223,5.7,21367395
+HIV deaths,2012,Texas,48.0,1311,6.2,20998376
+HIV deaths,2011,Texas,48.0,1284,6.2,20595015
+HIV deaths,2010,Texas,48.0,1356,6.7,20237059
+HIV deaths,2009,Texas,48.0,1509,7.7,19664635
+HIV deaths,2008,Texas,48.0,1427,7.4,19307235
+HIV deaths,2017,Utah,49.0,22,0.9,2430127
+HIV deaths,2016,Utah,49.0,47,2.0,2371090
+HIV deaths,2015,Utah,49.0,31,1.3,2314417
+HIV deaths,2014,Utah,49.0,22,1.0,2271476
+HIV deaths,2013,Utah,49.0,44,2.0,2233017
+HIV deaths,2012,Utah,49.0,26,1.2,2191305
+HIV deaths,2011,Utah,49.0,22,1.0,2154045
+HIV deaths,2010,Utah,49.0,25,1.2,2119571
+HIV deaths,2009,Utah,49.0,32,1.5,2126805
+HIV deaths,2008,Utah,49.0,42,2.0,2086097
+HIV deaths,2017,Vermont,50.0,12,2.2,542961
+HIV deaths,2016,Vermont,50.0,11,2.0,541260
+HIV deaths,2015,Vermont,50.0,5,0.9,541601
+HIV deaths,2014,Vermont,50.0,3,0.6,540870
+HIV deaths,2013,Vermont,50.0,8,1.5,540922
+HIV deaths,2012,Vermont,50.0,6,1.1,539641
+HIV deaths,2011,Vermont,50.0,6,1.1,539325
+HIV deaths,2010,Vermont,50.0,15,2.8,537095
+HIV deaths,2009,Vermont,50.0,9,1.7,535123
+HIV deaths,2008,Vermont,50.0,6,1.1,533825
+HIV deaths,2017,Virginia,51.0,285,4.0,7121557
+HIV deaths,2016,Virginia,51.0,317,4.5,7066986
+HIV deaths,2015,Virginia,51.0,277,3.9,7020016
+HIV deaths,2014,Virginia,51.0,308,4.4,6970605
+HIV deaths,2013,Virginia,51.0,324,4.7,6909745
+HIV deaths,2012,Virginia,51.0,329,4.8,6842130
+HIV deaths,2011,Virginia,51.0,312,4.6,6763179
+HIV deaths,2010,Virginia,51.0,316,4.7,6692503
+HIV deaths,2009,Virginia,51.0,380,5.8,6543736
+HIV deaths,2008,Virginia,51.0,360,5.6,6472126
+HIV deaths,2017,Washington,53.0,174,2.8,6224655
+HIV deaths,2016,Washington,53.0,177,2.9,6109614
+HIV deaths,2015,Washington,53.0,148,2.5,5995009
+HIV deaths,2014,Washington,53.0,174,3.0,5896287
+HIV deaths,2013,Washington,53.0,165,2.8,5813109
+HIV deaths,2012,Washington,53.0,151,2.6,5746623
+HIV deaths,2011,Washington,53.0,168,3.0,5679657
+HIV deaths,2010,Washington,53.0,155,2.8,5607944
+HIV deaths,2009,Washington,53.0,193,3.5,5532584
+HIV deaths,2008,Washington,53.0,173,3.2,5451257
+HIV deaths,2017,West Virginia,54.0,31,2.0,1554542
+HIV deaths,2016,West Virginia,54.0,40,2.6,1564167
+HIV deaths,2015,West Virginia,54.0,30,1.9,1572368
+HIV deaths,2014,West Virginia,54.0,38,2.4,1578153
+HIV deaths,2013,West Virginia,54.0,41,2.6,1581193
+HIV deaths,2012,West Virginia,54.0,38,2.4,1582449
+HIV deaths,2011,West Virginia,54.0,37,2.3,1581533
+HIV deaths,2010,West Virginia,54.0,27,1.7,1578821
+HIV deaths,2009,West Virginia,54.0,36,2.3,1544706
+HIV deaths,2008,West Virginia,54.0,45,2.9,1540309
+HIV deaths,2017,Wisconsin,55.0,101,2.1,4881522
+HIV deaths,2016,Wisconsin,55.0,88,1.8,4857498
+HIV deaths,2015,Wisconsin,55.0,84,1.7,4840448
+HIV deaths,2014,Wisconsin,55.0,90,1.9,4825931
+HIV deaths,2013,Wisconsin,55.0,92,1.9,4804606
+HIV deaths,2012,Wisconsin,55.0,86,1.8,4779842
+HIV deaths,2011,Wisconsin,55.0,97,2.0,4758800
+HIV deaths,2010,Wisconsin,55.0,92,1.9,4739083
+HIV deaths,2009,Wisconsin,55.0,106,2.2,4722053
+HIV deaths,2008,Wisconsin,55.0,82,1.7,4697333
+HIV deaths,2017,Wyoming,56.0,6,1.3,479567
+HIV deaths,2016,Wyoming,56.0,5,1.0,482500
+HIV deaths,2015,Wyoming,56.0,4,0.8,483034
+HIV deaths,2014,Wyoming,56.0,5,1.0,480901
+HIV deaths,2013,Wyoming,56.0,6,1.2,480996
+HIV deaths,2012,Wyoming,56.0,2,0.4,475893
+HIV deaths,2011,Wyoming,56.0,6,1.3,467723
+HIV deaths,2010,Wyoming,56.0,8,1.7,465119
+HIV deaths,2009,Wyoming,56.0,4,0.9,447838
+HIV deaths,2008,Wyoming,56.0,4,0.9,439967

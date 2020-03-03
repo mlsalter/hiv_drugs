@@ -1,0 +1,562 @@
+﻿Year,Geography,FIPS,Cases,Rate per 100000,Population,Indicator
+2018,Alabama,1,572,13.9,"4,109,359",HIV diagnoses
+2017,Alabama,1,651,15.9,"4,094,777",HIV diagnoses
+2016,Alabama,1,663,16.2,"4,082,972",HIV diagnoses
+2015,Alabama,1,663,16.3,"4,070,748",HIV diagnoses
+2014,Alabama,1,669,16.5,"4,059,211",HIV diagnoses
+2013,Alabama,1,635,15.7,"4,041,871",HIV diagnoses
+2012,Alabama,1,666,16.6,"4,019,335",HIV diagnoses
+2011,Alabama,1,683,17.1,"3,997,493",HIV diagnoses
+2010,Alabama,1,681,17.1,"3,980,625",HIV diagnoses
+2009,Alabama,1,695,17.8,"3,898,688",HIV diagnoses
+2008,Alabama,1,709,18.3,"3,870,996",HIV diagnoses
+2018,Alaska,2,20,3.3,"602,095",HIV diagnoses
+2017,Alaska,2,34,5.6,"603,161",HIV diagnoses
+2016,Alaska,2,37,6.1,"604,157",HIV diagnoses
+2015,Alaska,2,25,4.2,"600,941",HIV diagnoses
+2014,Alaska,2,38,6.3,"599,474",HIV diagnoses
+2013,Alaska,2,23,3.8,"599,385",HIV diagnoses
+2012,Alaska,2,28,4.7,"592,771",HIV diagnoses
+2011,Alaska,2,24,4.1,"584,567",HIV diagnoses
+2010,Alaska,2,35,6.1,"577,749",HIV diagnoses
+2009,Alaska,2,21,3.7,"565,800",HIV diagnoses
+2008,Alaska,2,39,7,"559,346",HIV diagnoses
+2018,Arizona,4,806,13.4,"5,996,296",HIV diagnoses
+2017,Arizona,4,725,12.3,"5,874,596",HIV diagnoses
+2016,Arizona,4,714,12.4,"5,770,861",HIV diagnoses
+2015,Arizona,4,690,12.2,"5,663,944",HIV diagnoses
+2014,Arizona,4,741,13.3,"5,567,140",HIV diagnoses
+2013,Arizona,4,689,12.6,"5,469,060",HIV diagnoses
+2012,Arizona,4,620,11.5,"5,388,365",HIV diagnoses
+2011,Arizona,4,563,10.6,"5,304,658",HIV diagnoses
+2010,Arizona,4,619,11.8,"5,229,908",HIV diagnoses
+2009,Arizona,4,642,12.1,"5,316,387",HIV diagnoses
+2008,Arizona,4,679,13,"5,235,123",HIV diagnoses
+2018,Arkansas,5,281,11.2,"2,508,847",HIV diagnoses
+2017,Arkansas,5,287,11.5,"2,495,932",HIV diagnoses
+2016,Arkansas,5,312,12.6,"2,482,955",HIV diagnoses
+2015,Arkansas,5,273,11,"2,470,760",HIV diagnoses
+2014,Arkansas,5,312,12.7,"2,459,895",HIV diagnoses
+2013,Arkansas,5,262,10.7,"2,449,550",HIV diagnoses
+2012,Arkansas,5,247,10.1,"2,438,682",HIV diagnoses
+2011,Arkansas,5,241,9.9,"2,426,548",HIV diagnoses
+2010,Arkansas,5,234,9.7,"2,407,988",HIV diagnoses
+2009,Arkansas,5,280,11.8,"2,374,089",HIV diagnoses
+2008,Arkansas,5,238,10.1,"2,357,363",HIV diagnoses
+2018,California,6,"4,398",13.3,"33,089,613",HIV diagnoses
+2017,California,6,"4,766",14.5,"32,888,662",HIV diagnoses
+2016,California,6,"5,172",15.8,"32,663,036",HIV diagnoses
+2015,California,6,"5,108",15.8,"32,390,164",HIV diagnoses
+2014,California,6,"5,169",16.1,"32,069,627",HIV diagnoses
+2013,California,6,"4,711",14.9,"31,722,579",HIV diagnoses
+2012,California,6,"5,050",16.1,"31,393,072",HIV diagnoses
+2011,California,6,"5,044",16.2,"31,068,145",HIV diagnoses
+2010,California,6,"5,272",17.1,"30,753,805",HIV diagnoses
+2009,California,6,"5,417",18,"30,167,113",HIV diagnoses
+2008,California,6,"5,719",19.2,"29,836,645",HIV diagnoses
+2018,Colorado,8,409,8.5,"4,791,744",HIV diagnoses
+2017,Colorado,8,442,9.4,"4,710,781",HIV diagnoses
+2016,Colorado,8,423,9.1,"4,632,063",HIV diagnoses
+2015,Colorado,8,377,8.3,"4,542,949",HIV diagnoses
+2014,Colorado,8,378,8.5,"4,447,355",HIV diagnoses
+2013,Colorado,8,312,7.1,"4,367,984",HIV diagnoses
+2012,Colorado,8,371,8.6,"4,290,960",HIV diagnoses
+2011,Colorado,8,363,8.6,"4,220,896",HIV diagnoses
+2010,Colorado,8,419,10.1,"4,152,382",HIV diagnoses
+2009,Colorado,8,370,9,"4,120,964",HIV diagnoses
+2008,Colorado,8,451,11.1,"4,049,693",HIV diagnoses
+2018,Connecticut,9,250,8.2,"3,065,086",HIV diagnoses
+2017,Connecticut,9,275,9,"3,060,949",HIV diagnoses
+2016,Connecticut,9,258,8.4,"3,060,226",HIV diagnoses
+2015,Connecticut,9,279,9.1,"3,061,946",HIV diagnoses
+2014,Connecticut,9,293,9.6,"3,061,978",HIV diagnoses
+2013,Connecticut,9,327,10.7,"3,054,288",HIV diagnoses
+2012,Connecticut,9,291,9.6,"3,043,910",HIV diagnoses
+2011,Connecticut,9,350,11.6,"3,029,649",HIV diagnoses
+2010,Connecticut,9,388,12.9,"3,013,777",HIV diagnoses
+2009,Connecticut,9,341,11.6,"2,951,882",HIV diagnoses
+2008,Connecticut,9,347,11.8,"2,932,812",HIV diagnoses
+2018,Delaware,10,91,11.1,"821,504",HIV diagnoses
+2017,Delaware,10,126,15.5,"811,576",HIV diagnoses
+2016,Delaware,10,112,13.9,"803,341",HIV diagnoses
+2015,Delaware,10,103,12.9,"795,441",HIV diagnoses
+2014,Delaware,10,115,14.6,"786,714",HIV diagnoses
+2013,Delaware,10,109,14,"777,619",HIV diagnoses
+2012,Delaware,10,137,17.8,"768,406",HIV diagnoses
+2011,Delaware,10,114,15,"760,646",HIV diagnoses
+2010,Delaware,10,123,16.3,"752,949",HIV diagnoses
+2009,Delaware,10,150,20.4,"736,007",HIV diagnoses
+2008,Delaware,10,153,21,"728,265",HIV diagnoses
+2018,District of Columbia,11,208,34.6,"601,238",HIV diagnoses
+2017,District of Columbia,11,305,51.1,"596,785",HIV diagnoses
+2016,District of Columbia,11,348,58.9,"590,875",HIV diagnoses
+2015,District of Columbia,11,369,63.4,"582,251",HIV diagnoses
+2014,District of Columbia,11,418,73,"572,788",HIV diagnoses
+2013,District of Columbia,11,487,86.3,"564,030",HIV diagnoses
+2012,District of Columbia,11,570,103.1,"552,642",HIV diagnoses
+2011,District of Columbia,11,638,117.8,"541,801",HIV diagnoses
+2010,District of Columbia,11,799,150.5,"530,795",HIV diagnoses
+2009,District of Columbia,11,833,161.4,"515,989",HIV diagnoses
+2008,District of Columbia,11,"1,029",202.6,"508,021",HIV diagnoses
+2018,Florida,12,"4,683",25.6,"18,271,712",HIV diagnoses
+2017,Florida,12,"4,563",25.4,"17,971,716",HIV diagnoses
+2016,Florida,12,"4,662",26.4,"17,658,611",HIV diagnoses
+2015,Florida,12,"4,571",26.4,"17,305,349",HIV diagnoses
+2014,Florida,12,"4,476",26.4,"16,983,458",HIV diagnoses
+2013,Florida,12,"4,296",25.7,"16,709,125",HIV diagnoses
+2012,Florida,12,"4,375",26.5,"16,480,031",HIV diagnoses
+2011,Florida,12,"4,570",28.1,"16,258,521",HIV diagnoses
+2010,Florida,12,"4,632",28.9,"16,018,609",HIV diagnoses
+2009,Florida,12,"5,034",32.2,"15,614,290",HIV diagnoses
+2008,Florida,12,"5,775",37.2,"15,508,944",HIV diagnoses
+2018,Georgia,13,"2,552",29.2,"8,737,682",HIV diagnoses
+2017,Georgia,13,"2,564",29.7,"8,627,633",HIV diagnoses
+2016,Georgia,13,"2,495",29.3,"8,516,944",HIV diagnoses
+2015,Georgia,13,"2,624",31.2,"8,397,538",HIV diagnoses
+2014,Georgia,13,"2,380",28.7,"8,288,270",HIV diagnoses
+2013,Georgia,13,"2,338",28.6,"8,187,895",HIV diagnoses
+2012,Georgia,13,"2,618",32.3,"8,106,476",HIV diagnoses
+2011,Georgia,13,"2,662",33.3,"8,003,157",HIV diagnoses
+2010,Georgia,13,"2,653",33.5,"7,912,814",HIV diagnoses
+2009,Georgia,13,"2,910",36.7,"7,937,181",HIV diagnoses
+2008,Georgia,13,"3,158",40.3,"7,826,920",HIV diagnoses
+2018,Hawaii,15,66,5.5,"1,196,330",HIV diagnoses
+2017,Hawaii,15,78,6.5,"1,198,339",HIV diagnoses
+2016,Hawaii,15,78,6.5,"1,200,302",HIV diagnoses
+2015,Hawaii,15,119,10,"1,193,935",HIV diagnoses
+2014,Hawaii,15,99,8.3,"1,187,196",HIV diagnoses
+2013,Hawaii,15,95,8,"1,180,667",HIV diagnoses
+2012,Hawaii,15,82,7,"1,168,924",HIV diagnoses
+2011,Hawaii,15,81,7,"1,155,908",HIV diagnoses
+2010,Hawaii,15,102,8.9,"1,144,087",HIV diagnoses
+2009,Hawaii,15,87,8,"1,083,032",HIV diagnoses
+2008,Hawaii,15,83,7.7,"1,077,785",HIV diagnoses
+2018,Idaho,16,37,2.6,"1,436,081",HIV diagnoses
+2017,Idaho,16,46,3.3,"1,402,234",HIV diagnoses
+2016,Idaho,16,45,3.3,"1,369,107",HIV diagnoses
+2015,Idaho,16,40,3,"1,339,988",HIV diagnoses
+2014,Idaho,16,22,1.7,"1,320,877",HIV diagnoses
+2013,Idaho,16,27,2.1,"1,301,066",HIV diagnoses
+2012,Idaho,16,37,2.9,"1,283,965",HIV diagnoses
+2011,Idaho,16,35,2.8,"1,270,672",HIV diagnoses
+2010,Idaho,16,44,3.5,"1,256,890",HIV diagnoses
+2009,Idaho,16,48,3.9,"1,238,079",HIV diagnoses
+2008,Idaho,16,49,4,"1,223,541",HIV diagnoses
+2018,Illinois,17,"1,352",12.6,"10,713,681",HIV diagnoses
+2017,Illinois,17,"1,352",12.6,"10,731,215",HIV diagnoses
+2016,Illinois,17,"1,483",13.8,"10,743,318",HIV diagnoses
+2015,Illinois,17,"1,550",14.4,"10,756,428",HIV diagnoses
+2014,Illinois,17,"1,533",14.2,"10,759,859",HIV diagnoses
+2013,Illinois,17,"1,582",14.7,"10,744,121",HIV diagnoses
+2012,Illinois,17,"1,647",15.4,"10,704,446",HIV diagnoses
+2011,Illinois,17,"1,617",15.2,"10,668,059",HIV diagnoses
+2010,Illinois,17,"1,657",15.6,"10,623,897",HIV diagnoses
+2009,Illinois,17,"1,728",16.3,"10,626,004",HIV diagnoses
+2008,Illinois,17,"1,806",17.1,"10,563,388",HIV diagnoses
+2018,Indiana,18,510,9.1,"5,574,116",HIV diagnoses
+2017,Indiana,18,516,9.3,"5,540,003",HIV diagnoses
+2016,Indiana,18,484,8.8,"5,510,511",HIV diagnoses
+2015,Indiana,18,632,11.5,"5,483,619",HIV diagnoses
+2014,Indiana,18,466,8.5,"5,466,488",HIV diagnoses
+2013,Indiana,18,472,8.7,"5,436,314",HIV diagnoses
+2012,Indiana,18,491,9.1,"5,399,958",HIV diagnoses
+2011,Indiana,18,465,8.7,"5,371,451",HIV diagnoses
+2010,Indiana,18,486,9.1,"5,340,692",HIV diagnoses
+2009,Indiana,18,463,8.8,"5,279,967",HIV diagnoses
+2008,Indiana,18,463,8.8,"5,246,323",HIV diagnoses
+2018,Iowa,19,116,4.4,"2,630,539",HIV diagnoses
+2017,Iowa,19,124,4.7,"2,617,029",HIV diagnoses
+2016,Iowa,19,133,5.1,"2,605,250",HIV diagnoses
+2015,Iowa,19,124,4.8,"2,595,775",HIV diagnoses
+2014,Iowa,19,94,3.6,"2,585,119",HIV diagnoses
+2013,Iowa,19,120,4.7,"2,570,198",HIV diagnoses
+2012,Iowa,19,116,4.5,"2,553,591",HIV diagnoses
+2011,Iowa,19,112,4.4,"2,543,043",HIV diagnoses
+2010,Iowa,19,114,4.5,"2,526,684",HIV diagnoses
+2009,Iowa,19,123,4.9,"2,496,048",HIV diagnoses
+2008,Iowa,19,95,3.8,"2,486,127",HIV diagnoses
+2018,Kansas,20,154,6.4,"2,403,453",HIV diagnoses
+2017,Kansas,20,119,5,"2,397,743",HIV diagnoses
+2016,Kansas,20,147,6.1,"2,393,712",HIV diagnoses
+2015,Kansas,20,154,6.4,"2,388,086",HIV diagnoses
+2014,Kansas,20,131,5.5,"2,377,652",HIV diagnoses
+2013,Kansas,20,147,6.2,"2,367,607",HIV diagnoses
+2012,Kansas,20,151,6.4,"2,356,616",HIV diagnoses
+2011,Kansas,20,135,5.8,"2,340,115",HIV diagnoses
+2010,Kansas,20,136,5.8,"2,329,143",HIV diagnoses
+2009,Kansas,20,152,6.6,"2,305,964",HIV diagnoses
+2008,Kansas,20,139,6.1,"2,290,014",HIV diagnoses
+2018,Kentucky,21,360,9.6,"3,744,646",HIV diagnoses
+2017,Kentucky,21,365,9.8,"3,728,831",HIV diagnoses
+2016,Kentucky,21,337,9.1,"3,712,013",HIV diagnoses
+2015,Kentucky,21,341,9.2,"3,699,491",HIV diagnoses
+2014,Kentucky,21,344,9.3,"3,686,449",HIV diagnoses
+2013,Kentucky,21,354,9.6,"3,673,716",HIV diagnoses
+2012,Kentucky,21,360,9.9,"3,652,563",HIV diagnoses
+2011,Kentucky,21,310,8.5,"3,632,735",HIV diagnoses
+2010,Kentucky,21,331,9.2,"3,610,828",HIV diagnoses
+2009,Kentucky,21,344,9.6,"3,583,570",HIV diagnoses
+2008,Kentucky,21,355,10,"3,559,663",HIV diagnoses
+2018,Louisiana,22,986,25.5,"3,864,525",HIV diagnoses
+2017,Louisiana,22,"1,011",26.1,"3,868,605",HIV diagnoses
+2016,Louisiana,22,"1,110",28.7,"3,871,344",HIV diagnoses
+2015,Louisiana,22,"1,098",28.5,"3,858,097",HIV diagnoses
+2014,Louisiana,22,"1,198",31.2,"3,839,337",HIV diagnoses
+2013,Louisiana,22,"1,129",29.6,"3,819,669",HIV diagnoses
+2012,Louisiana,22,"1,020",26.9,"3,793,129",HIV diagnoses
+2011,Louisiana,22,"1,192",31.6,"3,766,665",HIV diagnoses
+2010,Louisiana,22,"1,112",29.8,"3,737,428",HIV diagnoses
+2009,Louisiana,22,"1,172",31.8,"3,680,921",HIV diagnoses
+2008,Louisiana,22,"1,071",29.4,"3,648,291",HIV diagnoses
+2018,Maine,23,28,2.4,"1,162,948",HIV diagnoses
+2017,Maine,23,30,2.6,"1,157,986",HIV diagnoses
+2016,Maine,23,53,4.6,"1,153,307",HIV diagnoses
+2015,Maine,23,46,4,"1,149,501",HIV diagnoses
+2014,Maine,23,57,5,"1,150,000",HIV diagnoses
+2013,Maine,23,35,3.1,"1,145,689",HIV diagnoses
+2012,Maine,23,48,4.2,"1,142,956",HIV diagnoses
+2011,Maine,23,52,4.6,"1,140,816",HIV diagnoses
+2010,Maine,23,56,4.9,"1,137,673",HIV diagnoses
+2009,Maine,23,54,4.8,"1,130,458",HIV diagnoses
+2008,Maine,23,45,4,"1,129,848",HIV diagnoses
+2018,Maryland,24,979,19.3,"5,079,641",HIV diagnoses
+2017,Maryland,24,"1,021",20.2,"5,060,236",HIV diagnoses
+2016,Maryland,24,"1,100",21.8,"5,039,003",HIV diagnoses
+2015,Maryland,24,"1,176",23.4,"5,021,726",HIV diagnoses
+2014,Maryland,24,"1,235",24.7,"4,994,516",HIV diagnoses
+2013,Maryland,24,"1,300",26.2,"4,962,705",HIV diagnoses
+2012,Maryland,24,"1,326",26.9,"4,924,611",HIV diagnoses
+2011,Maryland,24,"1,420",29.1,"4,877,694",HIV diagnoses
+2010,Maryland,24,"1,740",36,"4,830,144",HIV diagnoses
+2009,Maryland,24,"1,678",35.4,"4,733,633",HIV diagnoses
+2008,Maryland,24,"2,034",43.3,"4,697,010",HIV diagnoses
+2018,Massachusetts,25,654,11,"5,941,124",HIV diagnoses
+2017,Massachusetts,25,596,10.1,"5,899,032",HIV diagnoses
+2016,Massachusetts,25,638,10.9,"5,857,445",HIV diagnoses
+2015,Massachusetts,25,598,10.3,"5,821,545",HIV diagnoses
+2014,Massachusetts,25,643,11.1,"5,785,038",HIV diagnoses
+2013,Massachusetts,25,669,11.7,"5,730,770",HIV diagnoses
+2012,Massachusetts,25,704,12.4,"5,676,159",HIV diagnoses
+2011,Massachusetts,25,678,12.1,"5,622,961",HIV diagnoses
+2010,Massachusetts,25,708,12.7,"5,573,257",HIV diagnoses
+2009,Massachusetts,25,691,12.4,"5,580,663",HIV diagnoses
+2008,Massachusetts,25,741,13.4,"5,531,920",HIV diagnoses
+2018,Michigan,26,718,8.5,"8,468,998",HIV diagnoses
+2017,Michigan,26,778,9.2,"8,441,967",HIV diagnoses
+2016,Michigan,26,745,8.9,"8,409,723",HIV diagnoses
+2015,Michigan,26,725,8.6,"8,383,578",HIV diagnoses
+2014,Michigan,26,781,9.3,"8,369,488",HIV diagnoses
+2013,Michigan,26,748,9,"8,337,871",HIV diagnoses
+2012,Michigan,26,789,9.5,"8,304,912",HIV diagnoses
+2011,Michigan,26,771,9.3,"8,271,309",HIV diagnoses
+2010,Michigan,26,762,9.2,"8,247,420",HIV diagnoses
+2009,Michigan,26,803,9.6,"8,324,039",HIV diagnoses
+2008,Michigan,26,774,9.3,"8,335,602",HIV diagnoses
+2018,Minnesota,27,283,6.1,"4,672,696",HIV diagnoses
+2017,Minnesota,27,273,5.9,"4,631,396",HIV diagnoses
+2016,Minnesota,27,296,6.4,"4,589,546",HIV diagnoses
+2015,Minnesota,27,296,6.5,"4,553,008",HIV diagnoses
+2014,Minnesota,27,311,6.9,"4,524,856",HIV diagnoses
+2013,Minnesota,27,306,6.8,"4,489,740",HIV diagnoses
+2012,Minnesota,27,314,7.1,"4,453,587",HIV diagnoses
+2011,Minnesota,27,295,6.7,"4,422,318",HIV diagnoses
+2010,Minnesota,27,335,7.6,"4,388,574",HIV diagnoses
+2009,Minnesota,27,380,8.7,"4,358,038",HIV diagnoses
+2008,Minnesota,27,330,7.6,"4,327,416",HIV diagnoses
+2018,Mississippi,28,479,19.3,"2,481,945",HIV diagnoses
+2017,Mississippi,28,427,17.2,"2,479,041",HIV diagnoses
+2016,Mississippi,28,425,17.2,"2,472,164",HIV diagnoses
+2015,Mississippi,28,506,20.5,"2,468,675",HIV diagnoses
+2014,Mississippi,28,474,19.2,"2,467,100",HIV diagnoses
+2013,Mississippi,28,470,19.1,"2,460,749",HIV diagnoses
+2012,Mississippi,28,443,18.1,"2,449,062",HIV diagnoses
+2011,Mississippi,28,525,21.5,"2,439,866",HIV diagnoses
+2010,Mississippi,28,452,18.6,"2,429,159",HIV diagnoses
+2009,Mississippi,28,497,20.7,"2,397,287",HIV diagnoses
+2008,Mississippi,28,517,21.6,"2,389,085",HIV diagnoses
+2018,Missouri,29,446,8.7,"5,139,738",HIV diagnoses
+2017,Missouri,29,504,9.8,"5,117,892",HIV diagnoses
+2016,Missouri,29,510,10,"5,094,029",HIV diagnoses
+2015,Missouri,29,463,9.1,"5,076,572",HIV diagnoses
+2014,Missouri,29,466,9.2,"5,059,205",HIV diagnoses
+2013,Missouri,29,465,9.2,"5,039,202",HIV diagnoses
+2012,Missouri,29,529,10.5,"5,016,085",HIV diagnoses
+2011,Missouri,29,524,10.5,"4,996,001",HIV diagnoses
+2010,Missouri,29,569,11.4,"4,977,086",HIV diagnoses
+2009,Missouri,29,520,10.5,"4,962,937",HIV diagnoses
+2008,Missouri,29,544,11,"4,934,901",HIV diagnoses
+2018,Montana,30,23,2.6,"896,526",HIV diagnoses
+2017,Montana,30,31,3.5,"887,128",HIV diagnoses
+2016,Montana,30,20,2.3,"875,704",HIV diagnoses
+2015,Montana,30,18,2.1,"866,602",HIV diagnoses
+2014,Montana,30,14,1.6,"858,974",HIV diagnoses
+2013,Montana,30,22,2.6,"851,634",HIV diagnoses
+2012,Montana,30,20,2.4,"843,229",HIV diagnoses
+2011,Montana,30,22,2.6,"837,028",HIV diagnoses
+2010,Montana,30,20,2.4,"831,037",HIV diagnoses
+2009,Montana,30,31,3.8,"818,891",HIV diagnoses
+2008,Montana,30,22,2.7,"813,046",HIV diagnoses
+2018,Nebraska,31,79,5,"1,583,601",HIV diagnoses
+2017,Nebraska,31,88,5.6,"1,571,827",HIV diagnoses
+2016,Nebraska,31,76,4.9,"1,560,378",HIV diagnoses
+2015,Nebraska,31,79,5.1,"1,547,705",HIV diagnoses
+2014,Nebraska,31,88,5.7,"1,537,771",HIV diagnoses
+2013,Nebraska,31,79,5.2,"1,525,123",HIV diagnoses
+2012,Nebraska,31,82,5.4,"1,514,247",HIV diagnoses
+2011,Nebraska,31,79,5.3,"1,503,223",HIV diagnoses
+2010,Nebraska,31,115,7.7,"1,494,005",HIV diagnoses
+2009,Nebraska,31,108,7.4,"1,467,198",HIV diagnoses
+2008,Nebraska,31,97,6.7,"1,457,464",HIV diagnoses
+2018,Nevada,32,508,20,"2,536,932",HIV diagnoses
+2017,Nevada,32,491,19.8,"2,480,508",HIV diagnoses
+2016,Nevada,32,512,21,"2,432,399",HIV diagnoses
+2015,Nevada,32,476,19.9,"2,386,830",HIV diagnoses
+2014,Nevada,32,428,18.3,"2,343,130",HIV diagnoses
+2013,Nevada,32,432,18.8,"2,303,590",HIV diagnoses
+2012,Nevada,32,362,15.9,"2,271,241",HIV diagnoses
+2011,Nevada,32,382,17.1,"2,237,368",HIV diagnoses
+2010,Nevada,32,373,16.8,"2,223,329",HIV diagnoses
+2009,Nevada,32,362,16.9,"2,141,833",HIV diagnoses
+2008,Nevada,32,387,18.3,"2,118,616",HIV diagnoses
+2018,New Hampshire,33,36,3.1,"1,178,301",HIV diagnoses
+2017,New Hampshire,33,34,2.9,"1,170,090",HIV diagnoses
+2016,New Hampshire,33,40,3.4,"1,161,178",HIV diagnoses
+2015,New Hampshire,33,25,2.2,"1,153,654",HIV diagnoses
+2014,New Hampshire,33,40,3.5,"1,148,650",HIV diagnoses
+2013,New Hampshire,33,35,3.1,"1,139,264",HIV diagnoses
+2012,New Hampshire,33,47,4.1,"1,133,890",HIV diagnoses
+2011,New Hampshire,33,39,3.5,"1,126,337",HIV diagnoses
+2010,New Hampshire,33,50,4.5,"1,120,212",HIV diagnoses
+2009,New Hampshire,33,39,3.5,"1,124,301",HIV diagnoses
+2008,New Hampshire,33,43,3.8,"1,119,153",HIV diagnoses
+2018,New Jersey,34,"1,044",13.9,"7,523,799",HIV diagnoses
+2017,New Jersey,34,"1,125",15,"7,499,348",HIV diagnoses
+2016,New Jersey,34,"1,196",16,"7,478,521",HIV diagnoses
+2015,New Jersey,34,"1,200",16.1,"7,466,207",HIV diagnoses
+2014,New Jersey,34,"1,242",16.7,"7,453,225",HIV diagnoses
+2013,New Jersey,34,"1,208",16.2,"7,434,824",HIV diagnoses
+2012,New Jersey,34,"1,274",17.2,"7,408,872",HIV diagnoses
+2011,New Jersey,34,"1,175",15.9,"7,380,087",HIV diagnoses
+2010,New Jersey,34,"1,348",18.4,"7,345,376",HIV diagnoses
+2009,New Jersey,34,"1,398",19.3,"7,249,862",HIV diagnoses
+2008,New Jersey,34,"1,431",19.9,"7,204,858",HIV diagnoses
+2018,New Mexico,35,121,6.9,"1,751,920",HIV diagnoses
+2017,New Mexico,35,136,7.8,"1,744,348",HIV diagnoses
+2016,New Mexico,35,144,8.3,"1,738,281",HIV diagnoses
+2015,New Mexico,35,135,7.8,"1,731,404",HIV diagnoses
+2014,New Mexico,35,133,7.7,"1,727,337",HIV diagnoses
+2013,New Mexico,35,141,8.2,"1,724,605",HIV diagnoses
+2012,New Mexico,35,117,6.8,"1,715,621",HIV diagnoses
+2011,New Mexico,35,138,8.1,"1,705,610",HIV diagnoses
+2010,New Mexico,35,147,8.7,"1,690,231",HIV diagnoses
+2009,New Mexico,35,160,9.8,"1,636,757",HIV diagnoses
+2008,New Mexico,35,152,9.4,"1,620,429",HIV diagnoses
+2018,New York,36,"2,470",14.9,"16,615,927",HIV diagnoses
+2017,New York,36,"2,730",16.4,"16,640,405",HIV diagnoses
+2016,New York,36,"2,820",16.9,"16,665,101",HIV diagnoses
+2015,New York,36,"3,051",18.3,"16,665,971",HIV diagnoses
+2014,New York,36,"3,324",20,"16,650,830",HIV diagnoses
+2013,New York,36,"3,252",19.6,"16,606,696",HIV diagnoses
+2012,New York,36,"3,520",21.3,"16,540,669",HIV diagnoses
+2011,New York,36,"3,772",22.9,"16,458,143",HIV diagnoses
+2010,New York,36,"3,915",23.9,"16,361,187",HIV diagnoses
+2009,New York,36,"4,175",25.4,"16,409,802",HIV diagnoses
+2008,New York,36,"4,590",28.1,"16,332,205",HIV diagnoses
+2018,North Carolina,37,"1,200",13.7,"8,745,091",HIV diagnoses
+2017,North Carolina,37,"1,297",15,"8,633,016",HIV diagnoses
+2016,North Carolina,37,"1,386",16.3,"8,522,014",HIV diagnoses
+2015,North Carolina,37,"1,327",15.8,"8,401,711",HIV diagnoses
+2014,North Carolina,37,"1,311",15.8,"8,300,834",HIV diagnoses
+2013,North Carolina,37,"1,276",15.6,"8,203,696",HIV diagnoses
+2012,North Carolina,37,"1,230",15.2,"8,101,318",HIV diagnoses
+2011,North Carolina,37,"1,433",17.9,"8,004,877",HIV diagnoses
+2010,North Carolina,37,"1,436",18.1,"7,922,895",HIV diagnoses
+2009,North Carolina,37,"1,577",20.4,"7,713,809",HIV diagnoses
+2008,North Carolina,37,"1,701",22.4,"7,607,202",HIV diagnoses
+2018,North Dakota,38,36,5.8,"625,978",HIV diagnoses
+2017,North Dakota,38,37,5.9,"622,525",HIV diagnoses
+2016,North Dakota,38,46,7.4,"622,315",HIV diagnoses
+2015,North Dakota,38,20,3.2,"623,158",HIV diagnoses
+2014,North Dakota,38,20,3.3,"611,504",HIV diagnoses
+2013,North Dakota,38,19,3.2,"600,804",HIV diagnoses
+2012,North Dakota,38,11,1.9,"585,281",HIV diagnoses
+2011,North Dakota,38,12,2.1,"573,759",HIV diagnoses
+2010,North Dakota,38,13,2.3,"565,830",HIV diagnoses
+2009,North Dakota,38,14,2.6,"543,743",HIV diagnoses
+2008,North Dakota,38,13,2.4,"539,992",HIV diagnoses
+2018,Ohio,39,984,10,"9,844,655",HIV diagnoses
+2017,Ohio,39,986,10,"9,813,290",HIV diagnoses
+2016,Ohio,39,961,9.8,"9,777,971",HIV diagnoses
+2015,Ohio,39,925,9.5,"9,754,188",HIV diagnoses
+2014,Ohio,39,946,9.7,"9,732,167",HIV diagnoses
+2013,Ohio,39,"1,037",10.7,"9,696,486",HIV diagnoses
+2012,Ohio,39,"1,017",10.5,"9,655,211",HIV diagnoses
+2011,Ohio,39,"1,042",10.8,"9,633,071",HIV diagnoses
+2010,Ohio,39,982,10.2,"9,610,790",HIV diagnoses
+2009,Ohio,39,"1,045",10.9,"9,616,569",HIV diagnoses
+2008,Ohio,39,"1,056",11,"9,592,881",HIV diagnoses
+2018,Oklahoma,40,234,7.2,"3,251,579",HIV diagnoses
+2017,Oklahoma,40,299,9.2,"3,238,135",HIV diagnoses
+2016,Oklahoma,40,293,9.1,"3,228,505",HIV diagnoses
+2015,Oklahoma,40,314,9.8,"3,211,563",HIV diagnoses
+2014,Oklahoma,40,304,9.5,"3,184,247",HIV diagnoses
+2013,Oklahoma,40,332,10.5,"3,161,412",HIV diagnoses
+2012,Oklahoma,40,284,9.1,"3,131,983",HIV diagnoses
+2011,Oklahoma,40,311,10,"3,104,403",HIV diagnoses
+2010,Oklahoma,40,286,9.3,"3,079,818",HIV diagnoses
+2009,Oklahoma,40,295,9.8,"3,014,967",HIV diagnoses
+2008,Oklahoma,40,287,9.6,"2,985,437",HIV diagnoses
+2018,Oregon,41,230,6.5,"3,563,199",HIV diagnoses
+2017,Oregon,41,203,5.8,"3,519,405",HIV diagnoses
+2016,Oregon,41,226,6.5,"3,466,235",HIV diagnoses
+2015,Oregon,41,222,6.5,"3,397,526",HIV diagnoses
+2014,Oregon,41,239,7.1,"3,348,642",HIV diagnoses
+2013,Oregon,41,228,6.9,"3,309,074",HIV diagnoses
+2012,Oregon,41,270,8.2,"3,282,121",HIV diagnoses
+2011,Oregon,41,239,7.3,"3,252,260",HIV diagnoses
+2010,Oregon,41,237,7.4,"3,217,465",HIV diagnoses
+2009,Oregon,41,249,7.8,"3,197,425",HIV diagnoses
+2008,Oregon,41,286,9.1,"3,159,664",HIV diagnoses
+2018,Pennsylvania,42,"1,002",9.2,"10,927,119",HIV diagnoses
+2017,Pennsylvania,42,"1,088",10,"10,902,840",HIV diagnoses
+2016,Pennsylvania,42,"1,131",10.4,"10,888,364",HIV diagnoses
+2015,Pennsylvania,42,"1,173",10.8,"10,881,745",HIV diagnoses
+2014,Pennsylvania,42,"1,197",11,"10,879,461",HIV diagnoses
+2013,Pennsylvania,42,"1,292",11.9,"10,857,460",HIV diagnoses
+2012,Pennsylvania,42,"1,415",13.1,"10,832,936",HIV diagnoses
+2011,Pennsylvania,42,"1,380",12.8,"10,800,820",HIV diagnoses
+2010,Pennsylvania,42,"1,480",13.8,"10,759,979",HIV diagnoses
+2009,Pennsylvania,42,"1,658",15.6,"10,659,191",HIV diagnoses
+2008,Pennsylvania,42,"1,773",16.7,"10,618,093",HIV diagnoses
+2018,Rhode Island,44,76,8.3,"913,274",HIV diagnoses
+2017,Rhode Island,44,83,9.1,"911,239",HIV diagnoses
+2016,Rhode Island,44,71,7.8,"910,326",HIV diagnoses
+2015,Rhode Island,44,64,7,"908,366",HIV diagnoses
+2014,Rhode Island,44,89,9.8,"907,072",HIV diagnoses
+2013,Rhode Island,44,78,8.6,"904,623",HIV diagnoses
+2012,Rhode Island,44,78,8.6,"902,455",HIV diagnoses
+2011,Rhode Island,44,100,11.1,"899,628",HIV diagnoses
+2010,Rhode Island,44,115,12.8,"898,501",HIV diagnoses
+2009,Rhode Island,44,119,13.3,"894,466",HIV diagnoses
+2008,Rhode Island,44,123,13.8,"893,608",HIV diagnoses
+2018,South Carolina,45,719,16.8,"4,291,438",HIV diagnoses
+2017,South Carolina,45,711,16.8,"4,230,737",HIV diagnoses
+2016,South Carolina,45,746,17.9,"4,171,070",HIV diagnoses
+2015,South Carolina,45,667,16.2,"4,109,463",HIV diagnoses
+2014,South Carolina,45,763,18.9,"4,046,632",HIV diagnoses
+2013,South Carolina,45,707,17.7,"3,988,907",HIV diagnoses
+2012,South Carolina,45,700,17.8,"3,939,204",HIV diagnoses
+2011,South Carolina,45,741,19,"3,893,958",HIV diagnoses
+2010,South Carolina,45,767,19.9,"3,857,440",HIV diagnoses
+2009,South Carolina,45,759,20.1,"3,780,746",HIV diagnoses
+2008,South Carolina,45,709,19,"3,732,320",HIV diagnoses
+2018,South Dakota,46,28,3.9,"722,303",HIV diagnoses
+2017,South Dakota,46,40,5.6,"713,932",HIV diagnoses
+2016,South Dakota,46,43,6.1,"704,961",HIV diagnoses
+2015,South Dakota,46,23,3.3,"697,811",HIV diagnoses
+2014,South Dakota,46,29,4.2,"694,500",HIV diagnoses
+2013,South Dakota,46,32,4.6,"689,289",HIV diagnoses
+2012,South Dakota,46,25,3.7,"682,418",HIV diagnoses
+2011,South Dakota,46,20,3,"673,889",HIV diagnoses
+2010,South Dakota,46,32,4.8,"668,043",HIV diagnoses
+2009,South Dakota,46,22,3.3,"667,951",HIV diagnoses
+2008,South Dakota,46,28,4.2,"661,864",HIV diagnoses
+2018,Tennessee,47,759,13.3,"5,691,344",HIV diagnoses
+2017,Tennessee,47,731,13,"5,631,232",HIV diagnoses
+2016,Tennessee,47,713,12.8,"5,570,308",HIV diagnoses
+2015,Tennessee,47,739,13.4,"5,518,921",HIV diagnoses
+2014,Tennessee,47,754,13.8,"5,471,517",HIV diagnoses
+2013,Tennessee,47,770,14.2,"5,424,065",HIV diagnoses
+2012,Tennessee,47,853,15.9,"5,379,876",HIV diagnoses
+2011,Tennessee,47,844,15.8,"5,326,756",HIV diagnoses
+2010,Tennessee,47,856,16.2,"5,282,732",HIV diagnoses
+2009,Tennessee,47,931,17.8,"5,219,117",HIV diagnoses
+2008,Tennessee,47,998,19.3,"5,169,975",HIV diagnoses
+2018,Texas,48,"4,483",19.2,"23,369,741",HIV diagnoses
+2017,Texas,48,"4,358",18.9,"23,007,851",HIV diagnoses
+2016,Texas,48,"4,523",20,"22,647,866",HIV diagnoses
+2015,Texas,48,"4,532",20.4,"22,243,749",HIV diagnoses
+2014,Texas,48,"4,417",20.3,"21,802,872",HIV diagnoses
+2013,Texas,48,"4,340",20.3,"21,367,395",HIV diagnoses
+2012,Texas,48,"4,324",20.6,"20,998,376",HIV diagnoses
+2011,Texas,48,"4,280",20.8,"20,595,015",HIV diagnoses
+2010,Texas,48,"4,455",22,"20,237,059",HIV diagnoses
+2009,Texas,48,"4,356",22.2,"19,664,635",HIV diagnoses
+2008,Texas,48,"4,171",21.6,"19,307,235",HIV diagnoses
+2018,Utah,49,121,4.9,"2,487,739",HIV diagnoses
+2017,Utah,49,117,4.8,"2,430,127",HIV diagnoses
+2016,Utah,49,139,5.9,"2,371,090",HIV diagnoses
+2015,Utah,49,122,5.3,"2,314,417",HIV diagnoses
+2014,Utah,49,114,5,"2,271,476",HIV diagnoses
+2013,Utah,49,109,4.9,"2,233,017",HIV diagnoses
+2012,Utah,49,122,5.6,"2,191,305",HIV diagnoses
+2011,Utah,49,107,5,"2,154,045",HIV diagnoses
+2010,Utah,49,85,4,"2,119,571",HIV diagnoses
+2009,Utah,49,122,5.7,"2,126,805",HIV diagnoses
+2008,Utah,49,131,6.3,"2,086,097",HIV diagnoses
+2018,Vermont,50,18,3.3,"545,217",HIV diagnoses
+2017,Vermont,50,20,3.7,"542,961",HIV diagnoses
+2016,Vermont,50,5,0.9,"541,260",HIV diagnoses
+2015,Vermont,50,14,2.6,"541,601",HIV diagnoses
+2014,Vermont,50,17,3.1,"540,870",HIV diagnoses
+2013,Vermont,50,13,2.4,"540,922",HIV diagnoses
+2012,Vermont,50,14,2.6,"539,641",HIV diagnoses
+2011,Vermont,50,13,2.4,"539,325",HIV diagnoses
+2010,Vermont,50,20,3.7,"537,095",HIV diagnoses
+2009,Vermont,50,18,3.4,"535,123",HIV diagnoses
+2008,Vermont,50,18,3.4,"533,825",HIV diagnoses
+2018,Virginia,51,867,12.1,"7,174,624",HIV diagnoses
+2017,Virginia,51,865,12.1,"7,121,557",HIV diagnoses
+2016,Virginia,51,906,12.8,"7,066,986",HIV diagnoses
+2015,Virginia,51,955,13.6,"7,020,016",HIV diagnoses
+2014,Virginia,51,901,12.9,"6,970,605",HIV diagnoses
+2013,Virginia,51,944,13.7,"6,909,745",HIV diagnoses
+2012,Virginia,51,934,13.7,"6,842,130",HIV diagnoses
+2011,Virginia,51,897,13.3,"6,763,179",HIV diagnoses
+2010,Virginia,51,994,14.9,"6,692,503",HIV diagnoses
+2009,Virginia,51,980,15,"6,543,736",HIV diagnoses
+2008,Virginia,51,"1,067",16.5,"6,472,126",HIV diagnoses
+2018,Washington,53,503,8,"6,325,104",HIV diagnoses
+2017,Washington,53,433,7,"6,224,655",HIV diagnoses
+2016,Washington,53,425,7,"6,109,614",HIV diagnoses
+2015,Washington,53,451,7.5,"5,995,009",HIV diagnoses
+2014,Washington,53,439,7.4,"5,896,287",HIV diagnoses
+2013,Washington,53,444,7.6,"5,813,109",HIV diagnoses
+2012,Washington,53,496,8.6,"5,746,623",HIV diagnoses
+2011,Washington,53,479,8.4,"5,679,657",HIV diagnoses
+2010,Washington,53,538,9.6,"5,607,944",HIV diagnoses
+2009,Washington,53,526,9.5,"5,532,584",HIV diagnoses
+2008,Washington,53,523,9.6,"5,451,257",HIV diagnoses
+2018,West Virginia,54,85,5.5,"1,546,902",HIV diagnoses
+2017,West Virginia,54,76,4.9,"1,554,542",HIV diagnoses
+2016,West Virginia,54,68,4.3,"1,564,167",HIV diagnoses
+2015,West Virginia,54,72,4.6,"1,572,368",HIV diagnoses
+2014,West Virginia,54,84,5.3,"1,578,153",HIV diagnoses
+2013,West Virginia,54,73,4.6,"1,581,193",HIV diagnoses
+2012,West Virginia,54,80,5.1,"1,582,449",HIV diagnoses
+2011,West Virginia,54,85,5.4,"1,581,533",HIV diagnoses
+2010,West Virginia,54,73,4.6,"1,578,821",HIV diagnoses
+2009,West Virginia,54,76,4.9,"1,544,706",HIV diagnoses
+2008,West Virginia,54,82,5.3,"1,540,309",HIV diagnoses
+2018,Wisconsin,55,210,4.3,"4,907,884",HIV diagnoses
+2017,Wisconsin,55,259,5.3,"4,881,522",HIV diagnoses
+2016,Wisconsin,55,229,4.7,"4,857,498",HIV diagnoses
+2015,Wisconsin,55,225,4.6,"4,840,448",HIV diagnoses
+2014,Wisconsin,55,217,4.5,"4,825,931",HIV diagnoses
+2013,Wisconsin,55,243,5.1,"4,804,606",HIV diagnoses
+2012,Wisconsin,55,217,4.5,"4,779,842",HIV diagnoses
+2011,Wisconsin,55,242,5.1,"4,758,800",HIV diagnoses
+2010,Wisconsin,55,252,5.3,"4,739,083",HIV diagnoses
+2009,Wisconsin,55,278,5.9,"4,722,053",HIV diagnoses
+2008,Wisconsin,55,236,5,"4,697,333",HIV diagnoses
+2018,Wyoming,56,12,2.5,"480,114",HIV diagnoses
+2017,Wyoming,56,10,2.1,"479,567",HIV diagnoses
+2016,Wyoming,56,21,4.4,"482,500",HIV diagnoses
+2015,Wyoming,56,17,3.5,"483,034",HIV diagnoses
+2014,Wyoming,56,10,2.1,"480,901",HIV diagnoses
+2013,Wyoming,56,16,3.3,"480,996",HIV diagnoses
+2012,Wyoming,56,7,1.5,"475,893",HIV diagnoses
+2011,Wyoming,56,15,3.2,"467,723",HIV diagnoses
+2010,Wyoming,56,19,4.1,"465,119",HIV diagnoses
+2009,Wyoming,56,20,4.5,"447,838",HIV diagnoses
+2008,Wyoming,56,23,5.2,"439,967",HIV diagnoses
