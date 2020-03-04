@@ -1,6 +1,7 @@
-from sqlalchemy import func
-import pandas as pd
+#Dependencies/Libraries necessary
 import os
+import pandas as pd
+from sqlalchemy import func
 
 # SQL Alchemy
 from sqlalchemy import create_engine
@@ -14,7 +15,16 @@ from flask import (
     render_template,
     jsonify)
 
+
+#################################################
+# Flask Setup
+#################################################
+
 app = Flask(__name__)
+
+#################################################
+# Database Setup
+#################################################
 
 username = os.environ.get('remote_hiv_dbuser')
 password = os.environ.get('remote_hiv_dbpwd')
@@ -31,25 +41,25 @@ conn = engine.connect()
 def home():
     return render_template("index.html")
 
-@app.route("/income")
-def income_data():
-    income = pd.read_sql("SELECT * FROM income_data", conn)
-    return income.to_json(orient='records')  
+@app.route("/prep")
+def prep_data():
+    prep = pd.read_sql("SELECT * FROM prep_data", conn)
+    return prep.to_json(orient='records')  
 
-@app.route("/unemployment")
-def unemployement_data():
-    unemployment = pd.read_sql("SELECT * FROM unemployment_data", conn)
-    return unemployment.to_json(orient='records')   
+@app.route("/prevalence")
+def prev_data():
+    prevalence = pd.read_sql("SELECT * FROM prevalence_data", conn)
+    return prevalence.to_json(orient='records')   
 
 @app.route("/death")
-def education_data():
-    deaths = pd.read_sql("SELECT * FROM death_data", conn)
-    return education.to_json(orient='records') 
+def death_data():
+    death = pd.read_sql("SELECT * FROM death_data", conn)
+    return death.to_json(orient='records') 
 
 @app.route("/diagnosis")
-def hivcase_data():
-    hivcase = pd.read_sql("SELECT * FROM diagnosis_data", conn)
-    return hivcase.to_json(orient='records')
+def diagnosis_data():
+    diagnosis = pd.read_sql("SELECT * FROM diagnosis_data", conn)
+    return diagnosis.to_json(orient='records')
 
 if __name__ == "__main__":
     app.run(debug=True)
