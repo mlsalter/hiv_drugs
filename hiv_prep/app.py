@@ -16,11 +16,11 @@ from flask import (
 
 app = Flask(__name__)
 
-username = os.environ.get('remote_gwsis_dbuser')
-password = os.environ.get('remote_gwsis_dbpwd')
+username = os.environ.get('remote_hiv_dbuser')
+password = os.environ.get('remote_hiv_dbpwd')
 port = os.environ.get('remote_db_port')
 endpoint = os.environ.get('remote_db_endpoint')
-db = os.environ.get('remote_gwsis_dbname')
+db = os.environ.get('remote_hiv_dbname')
 
 engine = create_engine(f"mysql://{username}:{password}@{endpoint}:{port}/{db}")
 
@@ -41,14 +41,14 @@ def unemployement_data():
     unemployment = pd.read_sql("SELECT * FROM unemployment_data", conn)
     return unemployment.to_json(orient='records')   
 
-@app.route("/education")
+@app.route("/death")
 def education_data():
-    education = pd.read_sql("SELECT * FROM education_data", conn)
+    deaths = pd.read_sql("SELECT * FROM death_data", conn)
     return education.to_json(orient='records') 
 
-@app.route("/hivcase")
+@app.route("/diagnosis")
 def hivcase_data():
-    hivcase = pd.read_sql("SELECT * FROM hiv_rates_data", conn)
+    hivcase = pd.read_sql("SELECT * FROM diagnosis_data", conn)
     return hivcase.to_json(orient='records')
 
 if __name__ == "__main__":
