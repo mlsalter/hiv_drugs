@@ -1,0 +1,511 @@
+﻿Year,Geography,Cases,Rate per 100000
+2017,Alabama,244,6
+2016,Alabama,266,6.5
+2015,Alabama,276,6.8
+2014,Alabama,279,6.9
+2013,Alabama,244,6
+2012,Alabama,281,7
+2011,Alabama,255,6.4
+2010,Alabama,274,6.9
+2009,Alabama,310,8
+2008,Alabama,288,7.4
+2017,Alaska,8,1.3
+2016,Alaska,13,2.2
+2015,Alaska,12,2
+2014,Alaska,12,2
+2013,Alaska,16,2.7
+2012,Alaska,11,1.9
+2011,Alaska,12,2.1
+2010,Alaska,16,2.8
+2009,Alaska,13,2.3
+2008,Alaska,21,3.8
+2017,Arizona,197,3.4
+2016,Arizona,242,4.2
+2015,Arizona,213,3.8
+2014,Arizona,220,4
+2013,Arizona,214,3.9
+2012,Arizona,211,3.9
+2011,Arizona,191,3.6
+2010,Arizona,199,3.8
+2009,Arizona,213,4
+2008,Arizona,233,4.5
+2017,Arkansas,104,4.2
+2016,Arkansas,94,3.8
+2015,Arkansas,110,4.5
+2014,Arkansas,120,4.9
+2013,Arkansas,120,4.9
+2012,Arkansas,90,3.7
+2011,Arkansas,111,4.6
+2010,Arkansas,114,4.7
+2009,Arkansas,112,4.7
+2008,Arkansas,113,4.8
+2017,California,"1,708",5.2
+2016,California,"1,765",5.4
+2015,California,"1,698",5.2
+2014,California,"1,635",5.1
+2013,California,"1,607",5.1
+2012,California,"1,555",5
+2011,California,"1,605",5.2
+2010,California,"1,543",5
+2009,California,"1,632",5.4
+2008,California,"1,777",6
+2017,Colorado,133,2.8
+2016,Colorado,127,2.7
+2015,Colorado,124,2.7
+2014,Colorado,146,3.3
+2013,Colorado,114,2.6
+2012,Colorado,112,2.6
+2011,Colorado,126,3
+2010,Colorado,137,3.3
+2009,Colorado,144,3.5
+2008,Colorado,118,2.9
+2017,Connecticut,197,6.4
+2016,Connecticut,195,6.4
+2015,Connecticut,183,6
+2014,Connecticut,184,6
+2013,Connecticut,175,5.7
+2012,Connecticut,191,6.3
+2011,Connecticut,214,7.1
+2010,Connecticut,209,6.9
+2009,Connecticut,234,7.9
+2008,Connecticut,260,8.9
+2017,Delaware,65,8
+2016,Delaware,55,6.8
+2015,Delaware,70,8.8
+2014,Delaware,88,11.2
+2013,Delaware,72,9.3
+2012,Delaware,77,10
+2011,Delaware,70,9.2
+2010,Delaware,77,10.2
+2009,Delaware,82,11.1
+2008,Delaware,95,13
+2017,District of Columbia,230,38.5
+2016,District of Columbia,253,42.8
+2015,District of Columbia,255,43.8
+2014,District of Columbia,210,36.7
+2013,District of Columbia,200,35.5
+2012,District of Columbia,231,41.8
+2011,District of Columbia,279,51.5
+2010,District of Columbia,258,48.6
+2009,District of Columbia,290,56.2
+2008,District of Columbia,308,60.6
+2017,Florida,"2,077",11.6
+2016,Florida,"2,168",12.3
+2015,Florida,"2,080",12
+2014,Florida,"1,963",11.6
+2013,Florida,"2,000",12
+2012,Florida,"1,963",11.9
+2011,Florida,"2,012",12.4
+2010,Florida,"2,018",12.6
+2009,Florida,"2,229",14.3
+2008,Florida,"2,408",15.5
+2017,Georgia,791,9.2
+2016,Georgia,822,9.7
+2015,Georgia,822,9.8
+2014,Georgia,913,11
+2013,Georgia,836,10.2
+2012,Georgia,827,10.2
+2011,Georgia,816,10.2
+2010,Georgia,897,11.3
+2009,Georgia,967,12.2
+2008,Georgia,904,11.5
+2017,Hawaii,36,3
+2016,Hawaii,39,3.2
+2015,Hawaii,32,2.7
+2014,Hawaii,44,3.7
+2013,Hawaii,39,3.3
+2012,Hawaii,51,4.4
+2011,Hawaii,41,3.5
+2010,Hawaii,36,3.1
+2009,Hawaii,26,2.4
+2008,Hawaii,46,4.3
+2017,Idaho,19,1.4
+2016,Idaho,12,0.9
+2015,Idaho,14,1
+2014,Idaho,21,1.6
+2013,Idaho,14,1.1
+2012,Idaho,24,1.9
+2011,Idaho,14,1.1
+2010,Idaho,15,1.2
+2009,Idaho,7,0.6
+2008,Idaho,16,1.3
+2017,Illinois,494,4.6
+2016,Illinois,524,4.9
+2015,Illinois,545,5.1
+2014,Illinois,523,4.9
+2013,Illinois,512,4.8
+2012,Illinois,551,5.1
+2011,Illinois,565,5.3
+2010,Illinois,659,6.2
+2009,Illinois,615,5.8
+2008,Illinois,613,5.8
+2017,Indiana,190,3.4
+2016,Indiana,197,3.6
+2015,Indiana,177,3.2
+2014,Indiana,180,3.3
+2013,Indiana,181,3.3
+2012,Indiana,169,3.1
+2011,Indiana,199,3.7
+2010,Indiana,171,3.2
+2009,Indiana,206,3.9
+2008,Indiana,202,3.9
+2017,Iowa,43,1.6
+2016,Iowa,33,1.3
+2015,Iowa,36,1.4
+2014,Iowa,54,2.1
+2013,Iowa,43,1.7
+2012,Iowa,43,1.7
+2011,Iowa,37,1.5
+2010,Iowa,28,1.1
+2009,Iowa,37,1.5
+2008,Iowa,25,1
+2017,Kansas,47,2
+2016,Kansas,49,2
+2015,Kansas,51,2.1
+2014,Kansas,46,1.9
+2013,Kansas,56,2.4
+2012,Kansas,44,1.9
+2011,Kansas,46,2
+2010,Kansas,49,2.1
+2009,Kansas,41,1.8
+2008,Kansas,58,2.5
+2017,Kentucky,130,3.5
+2016,Kentucky,122,3.3
+2015,Kentucky,123,3.3
+2014,Kentucky,119,3.2
+2013,Kentucky,120,3.3
+2012,Kentucky,117,3.2
+2011,Kentucky,110,3
+2010,Kentucky,119,3.3
+2009,Kentucky,125,3.5
+2008,Kentucky,137,3.8
+2017,Louisiana,399,10.3
+2016,Louisiana,419,10.8
+2015,Louisiana,420,10.9
+2014,Louisiana,422,11
+2013,Louisiana,416,10.9
+2012,Louisiana,470,12.4
+2011,Louisiana,473,12.6
+2010,Louisiana,456,12.2
+2009,Louisiana,539,14.6
+2008,Louisiana,484,13.3
+2017,Maine,35,3
+2016,Maine,23,2
+2015,Maine,19,1.7
+2014,Maine,19,1.7
+2013,Maine,30,2.6
+2012,Maine,19,1.7
+2011,Maine,24,2.1
+2010,Maine,22,1.9
+2009,Maine,24,2.1
+2008,Maine,26,2.3
+2017,Maryland,595,11.8
+2016,Maryland,641,12.7
+2015,Maryland,546,10.9
+2014,Maryland,591,11.8
+2013,Maryland,614,12.4
+2012,Maryland,632,12.8
+2011,Maryland,583,12
+2010,Maryland,613,12.7
+2009,Maryland,680,14.4
+2008,Maryland,745,15.9
+2017,Massachusetts,297,5
+2016,Massachusetts,292,5
+2015,Massachusetts,298,5.1
+2014,Massachusetts,263,4.5
+2013,Massachusetts,269,4.7
+2012,Massachusetts,267,4.7
+2011,Massachusetts,261,4.6
+2010,Massachusetts,281,5
+2009,Massachusetts,299,5.4
+2008,Massachusetts,297,5.4
+2017,Michigan,272,3.2
+2016,Michigan,285,3.4
+2015,Michigan,296,3.5
+2014,Michigan,288,3.4
+2013,Michigan,279,3.3
+2012,Michigan,339,4.1
+2011,Michigan,306,3.7
+2010,Michigan,312,3.8
+2009,Michigan,305,3.7
+2008,Michigan,370,4.4
+2017,Minnesota,92,2
+2016,Minnesota,75,1.6
+2015,Minnesota,98,2.2
+2014,Minnesota,97,2.1
+2013,Minnesota,77,1.7
+2012,Minnesota,86,1.9
+2011,Minnesota,88,2
+2010,Minnesota,76,1.7
+2009,Minnesota,100,2.3
+2008,Minnesota,80,1.8
+2017,Mississippi,215,8.7
+2016,Mississippi,207,8.4
+2015,Mississippi,215,8.7
+2014,Mississippi,237,9.6
+2013,Mississippi,229,9.3
+2012,Mississippi,198,8.1
+2011,Mississippi,209,8.6
+2010,Mississippi,207,8.5
+2009,Mississippi,228,9.5
+2008,Mississippi,246,10.3
+2017,Missouri,209,4.1
+2016,Missouri,194,3.8
+2015,Missouri,172,3.4
+2014,Missouri,171,3.4
+2013,Missouri,186,3.7
+2012,Missouri,190,3.8
+2011,Missouri,184,3.7
+2010,Missouri,209,4.2
+2009,Missouri,216,4.4
+2008,Missouri,216,4.4
+2017,Montana,13,1.5
+2016,Montana,13,1.5
+2015,Montana,13,1.5
+2014,Montana,10,1.2
+2013,Montana,13,1.5
+2012,Montana,5,0.6
+2011,Montana,8,1
+2010,Montana,11,1.3
+2009,Montana,9,1.1
+2008,Montana,15,1.8
+2017,Nebraska,34,2.2
+2016,Nebraska,28,1.8
+2015,Nebraska,28,1.8
+2014,Nebraska,30,2
+2013,Nebraska,32,2.1
+2012,Nebraska,33,2.2
+2011,Nebraska,24,1.6
+2010,Nebraska,31,2.1
+2009,Nebraska,31,2.1
+2008,Nebraska,28,1.9
+2017,Nevada,171,6.9
+2016,Nevada,151,6.2
+2015,Nevada,126,5.3
+2014,Nevada,130,5.5
+2013,Nevada,143,6.2
+2012,Nevada,159,7
+2011,Nevada,131,5.9
+2010,Nevada,126,5.7
+2009,Nevada,122,5.7
+2008,Nevada,140,6.6
+2017,New Hampshire,21,1.8
+2016,New Hampshire,19,1.6
+2015,New Hampshire,29,2.5
+2014,New Hampshire,13,1.1
+2013,New Hampshire,15,1.3
+2012,New Hampshire,22,1.9
+2011,New Hampshire,14,1.2
+2010,New Hampshire,17,1.5
+2009,New Hampshire,22,2
+2008,New Hampshire,18,1.6
+2017,New Jersey,638,8.5
+2016,New Jersey,654,8.7
+2015,New Jersey,638,8.5
+2014,New Jersey,661,8.9
+2013,New Jersey,727,9.8
+2012,New Jersey,644,8.7
+2011,New Jersey,748,10.1
+2010,New Jersey,795,10.8
+2009,New Jersey,772,10.6
+2008,New Jersey,868,12
+2017,New Mexico,26,1.5
+2016,New Mexico,48,2.8
+2015,New Mexico,75,4.3
+2014,New Mexico,67,3.9
+2013,New Mexico,46,2.7
+2012,New Mexico,57,3.3
+2011,New Mexico,51,3
+2010,New Mexico,63,3.7
+2009,New Mexico,56,3.4
+2008,New Mexico,67,4.1
+2017,New York,"1,761",10.6
+2016,New York,"1,859",11.2
+2015,New York,"1,797",10.8
+2014,New York,"1,911",11.5
+2013,New York,"1,969",11.9
+2012,New York,"2,023",12.2
+2011,New York,"2,156",13.1
+2010,New York,"2,217",13.6
+2009,New York,"2,350",14.3
+2008,New York,"2,465",15.1
+2017,North Carolina,540,6.3
+2016,North Carolina,519,6.1
+2015,North Carolina,559,6.7
+2014,North Carolina,544,6.6
+2013,North Carolina,528,6.4
+2012,North Carolina,522,6.4
+2011,North Carolina,541,6.8
+2010,North Carolina,573,7.2
+2009,North Carolina,623,8.1
+2008,North Carolina,577,7.6
+2017,North Dakota,3,0.5
+2016,North Dakota,4,0.6
+2015,North Dakota,8,1.3
+2014,North Dakota,7,1.1
+2013,North Dakota,5,0.8
+2012,North Dakota,3,0.5
+2011,North Dakota,4,0.7
+2010,North Dakota,6,1.1
+2009,North Dakota,5,0.9
+2008,North Dakota,10,1.9
+2017,Ohio,372,3.8
+2016,Ohio,347,3.5
+2015,Ohio,306,3.1
+2014,Ohio,349,3.6
+2013,Ohio,313,3.2
+2012,Ohio,351,3.6
+2011,Ohio,315,3.3
+2010,Ohio,288,3
+2009,Ohio,334,3.5
+2008,Ohio,371,3.9
+2017,Oklahoma,106,3.3
+2016,Oklahoma,122,3.8
+2015,Oklahoma,143,4.5
+2014,Oklahoma,140,4.4
+2013,Oklahoma,126,4
+2012,Oklahoma,115,3.7
+2011,Oklahoma,121,3.9
+2010,Oklahoma,107,3.5
+2009,Oklahoma,128,4.2
+2008,Oklahoma,126,4.2
+2017,Oregon,116,3.3
+2016,Oregon,103,3
+2015,Oregon,111,3.3
+2014,Oregon,102,3
+2013,Oregon,111,3.4
+2012,Oregon,109,3.3
+2011,Oregon,99,3
+2010,Oregon,97,3
+2009,Oregon,92,2.9
+2008,Oregon,80,2.5
+2017,Pennsylvania,630,5.8
+2016,Pennsylvania,602,5.5
+2015,Pennsylvania,587,5.4
+2014,Pennsylvania,644,5.9
+2013,Pennsylvania,630,5.8
+2012,Pennsylvania,583,5.4
+2011,Pennsylvania,652,6
+2010,Pennsylvania,698,6.5
+2009,Pennsylvania,725,6.8
+2008,Pennsylvania,705,6.6
+2017,Rhode Island,31,3.4
+2016,Rhode Island,38,4.2
+2015,Rhode Island,26,2.9
+2014,Rhode Island,37,4.1
+2013,Rhode Island,33,3.6
+2012,Rhode Island,43,4.8
+2011,Rhode Island,46,5.1
+2010,Rhode Island,37,4.1
+2009,Rhode Island,42,4.7
+2008,Rhode Island,45,5
+2017,South Carolina,328,7.8
+2016,South Carolina,336,8.1
+2015,South Carolina,291,7.1
+2014,South Carolina,331,8.2
+2013,South Carolina,320,8
+2012,South Carolina,315,8
+2011,South Carolina,328,8.4
+2010,South Carolina,336,8.7
+2009,South Carolina,370,9.8
+2008,South Carolina,375,10
+2017,South Dakota,8,1.1
+2016,South Dakota,11,1.6
+2015,South Dakota,7,1
+2014,South Dakota,10,1.4
+2013,South Dakota,9,1.3
+2012,South Dakota,10,1.5
+2011,South Dakota,7,1
+2010,South Dakota,12,1.8
+2009,South Dakota,13,1.9
+2008,South Dakota,10,1.5
+2017,Tennessee,314,5.6
+2016,Tennessee,327,5.9
+2015,Tennessee,341,6.2
+2014,Tennessee,331,6
+2013,Tennessee,331,6.1
+2012,Tennessee,342,6.4
+2011,Tennessee,323,6.1
+2010,Tennessee,371,7
+2009,Tennessee,427,8.2
+2008,Tennessee,419,8.1
+2017,Texas,"1,399",6.1
+2016,Texas,"1,356",6
+2015,Texas,"1,310",5.9
+2014,Texas,"1,346",6.2
+2013,Texas,"1,223",5.7
+2012,Texas,"1,311",6.2
+2011,Texas,"1,284",6.2
+2010,Texas,"1,356",6.7
+2009,Texas,"1,509",7.7
+2008,Texas,"1,427",7.4
+2017,Utah,22,0.9
+2016,Utah,47,2
+2015,Utah,31,1.3
+2014,Utah,22,1
+2013,Utah,44,2
+2012,Utah,26,1.2
+2011,Utah,22,1
+2010,Utah,25,1.2
+2009,Utah,32,1.5
+2008,Utah,42,2
+2017,Vermont,12,2.2
+2016,Vermont,11,2
+2015,Vermont,5,0.9
+2014,Vermont,3,0.6
+2013,Vermont,8,1.5
+2012,Vermont,6,1.1
+2011,Vermont,6,1.1
+2010,Vermont,15,2.8
+2009,Vermont,9,1.7
+2008,Vermont,6,1.1
+2017,Virginia,285,4
+2016,Virginia,317,4.5
+2015,Virginia,277,3.9
+2014,Virginia,308,4.4
+2013,Virginia,324,4.7
+2012,Virginia,329,4.8
+2011,Virginia,312,4.6
+2010,Virginia,316,4.7
+2009,Virginia,380,5.8
+2008,Virginia,360,5.6
+2017,Washington,174,2.8
+2016,Washington,177,2.9
+2015,Washington,148,2.5
+2014,Washington,174,3
+2013,Washington,165,2.8
+2012,Washington,151,2.6
+2011,Washington,168,3
+2010,Washington,155,2.8
+2009,Washington,193,3.5
+2008,Washington,173,3.2
+2017,West Virginia,31,2
+2016,West Virginia,40,2.6
+2015,West Virginia,30,1.9
+2014,West Virginia,38,2.4
+2013,West Virginia,41,2.6
+2012,West Virginia,38,2.4
+2011,West Virginia,37,2.3
+2010,West Virginia,27,1.7
+2009,West Virginia,36,2.3
+2008,West Virginia,45,2.9
+2017,Wisconsin,101,2.1
+2016,Wisconsin,88,1.8
+2015,Wisconsin,84,1.7
+2014,Wisconsin,90,1.9
+2013,Wisconsin,92,1.9
+2012,Wisconsin,86,1.8
+2011,Wisconsin,97,2
+2010,Wisconsin,92,1.9
+2009,Wisconsin,106,2.2
+2008,Wisconsin,82,1.7
+2017,Wyoming,6,1.3
+2016,Wyoming,5,1
+2015,Wyoming,4,0.8
+2014,Wyoming,5,1
+2013,Wyoming,6,1.2
+2012,Wyoming,2,0.4
+2011,Wyoming,6,1.3
+2010,Wyoming,8,1.7
+2009,Wyoming,4,0.9
+2008,Wyoming,4,0.9
