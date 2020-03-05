@@ -61,5 +61,20 @@ def diagnosis_data():
     diagnosis = pd.read_sql("SELECT * FROM diagnosis_data", conn)
     return diagnosis.to_json(orient='records')
 
+@app.route("/income")
+def income_data():
+    income = pd.read_sql("SELECT * FROM income_data", conn)
+    return income.to_json(orient='records')  
+
+@app.route("/unemployment")
+def unemployement_data():
+    unemployment = pd.read_sql("SELECT * FROM unemployment_data", conn)
+    return unemployment.to_json(orient='records')   
+
+@app.route("/education")
+def education_data():
+    education = pd.read_sql("SELECT * FROM education_data", conn)
+    return education.to_json(orient='records') 
+
 if __name__ == "__main__":
     app.run(debug=True)
