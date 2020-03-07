@@ -16,16 +16,18 @@ from flask import (
     jsonify)
 
 
-#################################################
-# Flask Setup
-#################################################
+# is_heroku = False
+# if 'IS_HEROKU' in os.environ:
+#     is_heroku = True
 
-app = Flask(__name__)
+print(os.environ)
 
 #################################################
 # Database Setup
 #################################################
-
+# if is_heroku == False:
+#     from config import remote_db_endpoint, remote_db_port, remote_hiv_dbname, remote_hiv_dbpwd, remote_hiv_dbuser
+# else:
 username = os.environ.get('remote_hiv_dbuser')
 password = os.environ.get('remote_hiv_dbpwd')
 port = os.environ.get('remote_db_port')
@@ -36,6 +38,12 @@ engine = create_engine(f"mysql://{username}:{password}@{endpoint}:{port}/{db}")
 
 conn = engine.connect()
 
+
+#################################################
+# Flask Setup
+#################################################
+
+app = Flask(__name__)
 # Create a route that renders index.html template
 @app.route("/")
 def home():
