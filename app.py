@@ -26,7 +26,7 @@ print(os.environ)
 # Database Setup
 #################################################
 if is_heroku == False:
-        username = os.environ.get('remote_hiv_dbuser')
+    username = os.environ.get('remote_hiv_dbuser')
     password = os.environ.get('remote_hiv_dbpwd')
     port = os.environ.get('remote_db_port')
     endpoint = os.environ.get('remote_db_endpoint')
