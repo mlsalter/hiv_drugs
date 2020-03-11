@@ -1,0 +1,699 @@
+,Drugs,Side_Effects
+0,Combivir,"headache,"
+1,Combivir,"dizziness,"
+2,Combivir,"nausea,"
+3,Combivir,"loss of appetite,"
+4,Combivir,"diarrhea,"
+5,Combivir,"trouble sleeping,"
+6,Combivir,"cold symptoms (stuffy nose, sneezing, sinus pain, cough), or"
+7,Combivir,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and trunk)."
+8,Combivir,"mental/mood changes (such as depression),"
+9,Combivir,"signs of pancreatitis (such as vomiting, stomach/abdominal/back pain, fever),"
+10,Combivir,"easy bruising or bleeding, or"
+11,Combivir,skin or nail color changes.
+12,Emtriva,headache
+13,Emtriva,nausea
+14,Emtriva,upset stomach
+15,Emtriva,diarrhea
+16,Emtriva,trouble sleeping
+17,Emtriva,darkening skin color on palms of hands and soles of feet
+18,Emtriva,dizziness
+19,Emtriva,strange dreams
+20,Emtriva,cough
+21,Emtriva,runny nose
+22,Emtriva,"skin rash or changes in the shape or location of body fat (especially in the arms legs face neck breasts 
+	and trunk)"
+23,Emtriva,"unexplained weight loss,"
+24,Emtriva,"persistent muscle aches or weakness,"
+25,Emtriva,"joint pain,"
+26,Emtriva,"numbness or tingling of the hands/feet/arms/legs,"
+27,Emtriva,"severe tiredness,"
+28,Emtriva,"vision changes,"
+29,Emtriva,"severe or persistent headaches,"
+30,Emtriva,"signs of infection (such as fever, chills, trouble breathing, cough, non-healing skin sores),"
+31,Emtriva,"signs of an overactive thyroid (such as irritability, nervousness, heat intolerance, fast/pounding/irregular heartbeat, bulging eyes, unusual growth in the neck/thyroid known as a goiter),"
+32,Emtriva,"signs of a certain nerve problem known as Guillain-Barre Syndrome (such as difficulty breathing/swallowing/moving your eyes, drooping face, paralysis, slurred speech), or"
+33,Emtriva,mental/mood changes (such as depression).
+34,Epivir,"headache,"
+35,Epivir,"dizziness,"
+36,Epivir,"nausea,"
+37,Epivir,"diarrhea,"
+38,Epivir,"trouble sleeping,"
+39,Epivir,"cough,"
+40,Epivir,"tired feeling,"
+41,Epivir,"runny or stuffy nose, or"
+42,Epivir,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and trunk)."
+43,Epivir,"mental/mood changes (such as depression), or"
+44,Epivir,stomach or back pain with nausea (pancreatitis).
+45,Epizicom,"Drugs A-Z List - by drug brand and generic 
+	name."
+46,Epizicom,"Pill Identifier Tool 
+	- identify drugs and medications by imprint, color, or shape. Includes drug 
+	pictures."
+47,Epizicom,"Picture Slideshows - 
+	interactive medical slideshow on important medical topics."
+48,Epizicom,"Image Gallery - 
+	learn about skin disorder, medical anatomy, tumors and more through images and illustrations ."
+49,Epizicom,"Latest Drug News - 
+	WebMD & FDA Updates and news releases on prescription medications and drug 
+	manufacturing/distribution."
+50,Epizicom,"Diseases, 
+	Condition and Tests - The RxList disease and condition listing contains 
+	explanations of many diseases, conditions, medical procedures and tests."
+51,Epizicom,"Drug Medical Dictionary 
+	- definitions and explanations of many medical terms including prescription 
+	medication abbreviations."
+52,Epizicom,Neurontin (gabapentin)
+53,Epizicom,Celexa (citalopram hydrobromide)
+54,Epizicom,Xanax (CIV alprazolam)
+55,Epizicom,Klonopin (clonazepam)
+56,Epizicom,Cipro (ciprofloxacin hydrochloride)
+57,Epizicom,Percocet (oxycodone and acetaminophen)
+58,Epizicom,"Vicodin ((hydrocodone bitartrate and 
+		acetaminophen)"
+59,Epizicom,Ultram (tramadol hydrochloride)
+60,Epizicom,Ativan (lorazepam)
+61,Epizicom,Lexapro (escitalopram oxalate)
+62,Hivid,nausea
+63,Hivid,vomiting
+64,Hivid,stomach or abdominal pain
+65,Hivid,diarrhea
+66,Hivid,constipation
+67,Hivid,headache
+68,Hivid,fatigue
+69,Hivid,tired feeling
+70,Hivid,skin rash
+71,Hivid,itching
+72,Hivid,hives
+73,Hivid,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and trunk)"
+74,Hivid,fever
+75,Hivid,mouth sores
+76,Hivid,abnormal liver function
+77,Hivid,numbness or tingling in the hands and feet
+78,Hivid,depression
+79,Hivid,convulsions
+80,Hivid,"dizziness, or"
+81,Hivid,painful and swollen joints
+82,Trizivir,"headache,"
+83,Trizivir,"tiredness,"
+84,Trizivir,"weakness,"
+85,Trizivir,"nausea,"
+86,Trizivir,"vomiting,"
+87,Trizivir,"loss of appetite,"
+88,Trizivir,"diarrhea,"
+89,Trizivir,"dizziness,"
+90,Trizivir,"trouble sleeping,"
+91,Trizivir,"joint pain,"
+92,Trizivir,"depression,"
+93,Trizivir,"nervousness,"
+94,Trizivir,"cold symptoms (stuffy nose, sneezing, sinus pain), or"
+95,Trizivir,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and trunk)."
+96,Trizivir,"unexplained weight loss,"
+97,Trizivir,"persistent muscle aches or weakness,"
+98,Trizivir,"joint pain,"
+99,Trizivir,"numbness or tingling of the hands/feet/arms/legs,"
+100,Trizivir,"severe tiredness,"
+101,Trizivir,"vision changes,"
+102,Trizivir,"severe or persistent headaches,"
+103,Trizivir,"signs of infection (such as fever, chills, trouble breathing, cough, non-healing skin sores),"
+104,Trizivir,"signs of an overactive thyroid (such as irritability, nervousness, heat intolerance, fast/pounding/irregular heartbeat, bulging eyes, unusual growth in the neck/thyroid known as a goiter),"
+105,Trizivir,"signs of a certain nerve problem known as Guillain-Barre Syndrome (such as difficulty breathing/swallowing/moving your eyes, drooping face, paralysis, slurred speech),"
+106,Trizivir,"mental/mood changes (such as depression, anxiety),"
+107,Trizivir,"easy bruising or bleeding, or"
+108,Trizivir,skin and nail color changes.
+109,Truvada,"nausea,"
+110,Truvada,"vomiting,"
+111,Truvada,"stomach pain,"
+112,Truvada,"diarrhea,"
+113,Truvada,"headache,"
+114,Truvada,"dizziness,"
+115,Truvada,"depression,"
+116,Truvada,"joint pain,"
+117,Truvada,"trouble sleeping,"
+118,Truvada,"strange dreams,"
+119,Truvada,"back pain,"
+120,Truvada,"itching or skin rash,"
+121,Truvada,"changes in the color of skin on your palms or soles of your feet, or"
+122,Truvada,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist)."
+123,Truvada,"mental/mood changes (such as depression, anxiety),"
+124,Truvada,"loss of appetite,"
+125,Truvada,"stomach or abdominal pain,"
+126,Truvada,"pink or bloody urine, or"
+127,Truvada,changes in the amount of urine.
+128,Videx,headache
+129,Videx,diarrhea
+130,Videx,"mild skin rash, or"
+131,Videx,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist)."
+132,Viread,"nausea,"
+133,Viread,"stomach pain,"
+134,Viread,"diarrhea,"
+135,Viread,"depression,"
+136,Viread,"headache,"
+137,Viread,"dizziness,"
+138,Viread,"weakness,"
+139,Viread,"trouble sleeping,"
+140,Viread,"itching or rash, or"
+141,Viread,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist)."
+142,Viread,"mental/mood changes (such as depression, anxiety, confusion)."
+143,Viread,"signs of kidney problems (such as a change in the amount of urine), or"
+144,Viread,unusual thirst.
+145,Ziagen,"trouble sleeping,"
+146,Ziagen,"loss of appetite,"
+147,Ziagen,"strange dreams,"
+148,Ziagen,"headache,"
+149,Ziagen,"ear pain,"
+150,Ziagen,"cold symptoms (stuffy nose, sneezing, sinus pain), or"
+151,Ziagen,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and trunk)."
+152,Ziagen,"unexplained weight loss,"
+153,Ziagen,"persistent muscle aches or weakness,"
+154,Ziagen,"joint pain,"
+155,Ziagen,"numbness or tingling of the hands/feet/arms/legs,"
+156,Ziagen,"severe tiredness,"
+157,Ziagen,"vision changes,"
+158,Ziagen,"severe or persistent headaches,"
+159,Ziagen,"signs of infection (such as fever, chills, trouble breathing, cough, non-healing skin sores),"
+160,Ziagen,"signs of an overactive thyroid (such as irritability, nervousness, heat intolerance, fast/pounding/irregular heartbeat, bulging eyes, unusual growth in the neck/thyroid known as a goiter),"
+161,Ziagen,"signs of a certain nerve problem known as Guillain-Barre Syndrome (such as difficulty breathing/swallowing/moving your eyes, drooping face, paralysis, slurred speech), or"
+162,Ziagen,"mental/mood changes (depression, anxiety)."
+163,Edurant,"nausea,"
+164,Edurant,"vomiting,"
+165,Edurant,"stomach pain,"
+166,Edurant,"diarrhea,"
+167,Edurant,"fatigue,"
+168,Edurant,"tiredness,"
+169,Edurant,"headache,"
+170,Edurant,"dizziness,"
+171,Edurant,"skin rash,"
+172,Edurant,"depressive disorders,"
+173,Edurant,"sleep problems (insomnia),"
+174,Edurant,"unusual dreams,"
+175,Edurant,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist), and"
+176,Edurant,wasting
+177,Edurant,"mood changes,"
+178,Edurant,"anxiety,"
+179,Edurant,"severe depression,"
+180,Edurant,"feeling hopeless,"
+181,Edurant,"thoughts about suicide or hurting yourself,"
+182,Edurant,"fever,"
+183,Edurant,"chills,"
+184,Edurant,"cough with yellow or green mucus,"
+185,Edurant,"stabbing chest pain,"
+186,Edurant,"wheezing,"
+187,Edurant,"feeling short of breath,"
+188,Edurant,"itching,"
+189,Edurant,"loss of appetite,"
+190,Edurant,"dark urine,"
+191,Edurant,"clay-colored stools,"
+192,Edurant,"yellowing of the skin or eyes (jaundice),"
+193,Edurant,"severe pain in your upper stomach spreading to your shoulder or back,"
+194,Edurant,"stomach bloating,"
+195,Edurant,"sweating, or"
+196,Edurant,chills
+197,Rescriptor,nausea
+198,Rescriptor,diarrhea
+199,Rescriptor,headache
+200,Rescriptor,tiredness
+201,Rescriptor,"changes in the shape and location of body fat (especially in your arms, legs, face, neck, breasts, and waist)"
+202,Rescriptor,worsening of a previous medical condition (such as an old infection)
+203,Rescriptor,itching
+204,Rescriptor,"rash, or"
+205,Rescriptor,"cold symptoms (stuffy nose, sneezing, or sore throat)."
+206,Pifeltro,"nausea,"
+207,Pifeltro,"dizziness,"
+208,Pifeltro,"headache,"
+209,Pifeltro,"fatigue,"
+210,Pifeltro,"diarrhea,"
+211,Pifeltro,"abdominal pain,"
+212,Pifeltro,"abnormal dreams, and"
+213,Pifeltro,insomnia.
+214,Sustiva,"dizziness,"
+215,Sustiva,"trouble sleeping (insomnia),"
+216,Sustiva,"drowsiness,"
+217,Sustiva,"unusual dreams,"
+218,Sustiva,"trouble concentrating,"
+219,Sustiva,"nausea,"
+220,Sustiva,"vomiting,"
+221,Sustiva,"stomach pain,"
+222,Sustiva,"diarrhea,"
+223,Sustiva,"constipation,"
+224,Sustiva,"cough,"
+225,Sustiva,"blurred vision,"
+226,Sustiva,"headache,"
+227,Sustiva,"tired feeling,"
+228,Sustiva,"spinning sensation,"
+229,Sustiva,"problems with balance or coordination,"
+230,Sustiva,"muscle or joint pain, or"
+231,Sustiva,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist)."
+232,Sustiva,"persistent nausea or vomiting,"
+233,Sustiva,"stomach or abdominal pain,"
+234,Sustiva,"severe tiredness,"
+235,Sustiva,"yellowing eyes or skin, or"
+236,Sustiva,dark urine
+237,Sustiva,"cyclosporine,"
+238,Sustiva,"itraconazole,"
+239,Sustiva,"sirolimus,"
+240,Sustiva,"tacrolimus,"
+241,Sustiva,"St. John's wort,"
+242,Sustiva,"voriconazole,"
+243,Sustiva,"blood thinners,"
+244,Sustiva,"cholesterol medications,"
+245,Sustiva,"antibiotics,"
+246,Sustiva,"heart or blood pressure medications,"
+247,Sustiva,"other HIV medicines, or"
+248,Sustiva,seizure medications
+249,Viramune,"tiredness,"
+250,Viramune,"nausea,"
+251,Viramune,"vomiting,"
+252,Viramune,"diarrhea,"
+253,Viramune,"stomach pain,"
+254,Viramune,"muscle pain,"
+255,Viramune,"headache,"
+256,Viramune,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist), or"
+257,Viramune,"rarely, drowsiness"
+258,Invirase,"diarrhea,"
+259,Invirase,"nausea,"
+260,Invirase,"vomiting,"
+261,Invirase,"stomach pain,"
+262,Invirase,"tiredness, or"
+263,Invirase,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist)."
+264,Invirase,"stabbing chest pain,"
+265,Invirase,"fever,"
+266,Invirase,"infection,"
+267,Invirase,"rapid heart rate,"
+268,Invirase,"weakness, or"
+269,Invirase,problems breathing or swallowing
+270,Kaletra,"Drugs A-Z List - by drug brand and generic 
+	name."
+271,Kaletra,"Pill Identifier Tool 
+	- identify drugs and medications by imprint, color, or shape. Includes drug 
+	pictures."
+272,Kaletra,"Picture Slideshows - 
+	interactive medical slideshow on important medical topics."
+273,Kaletra,"Image Gallery - 
+	learn about skin disorder, medical anatomy, tumors and more through images and illustrations ."
+274,Kaletra,"Latest Drug News - 
+	WebMD & FDA Updates and news releases on prescription medications and drug 
+	manufacturing/distribution."
+275,Kaletra,"Diseases, 
+	Condition and Tests - The RxList disease and condition listing contains 
+	explanations of many diseases, conditions, medical procedures and tests."
+276,Kaletra,"Drug Medical Dictionary 
+	- definitions and explanations of many medical terms including prescription 
+	medication abbreviations."
+277,Kaletra,Neurontin (gabapentin)
+278,Kaletra,Celexa (citalopram hydrobromide)
+279,Kaletra,Xanax (CIV alprazolam)
+280,Kaletra,Klonopin (clonazepam)
+281,Kaletra,Cipro (ciprofloxacin hydrochloride)
+282,Kaletra,Percocet (oxycodone and acetaminophen)
+283,Kaletra,"Vicodin ((hydrocodone bitartrate and 
+		acetaminophen)"
+284,Kaletra,Ultram (tramadol hydrochloride)
+285,Kaletra,Ativan (lorazepam)
+286,Kaletra,Lexapro (escitalopram oxalate)
+287,Lexiva,diarrhea
+288,Lexiva,nausea
+289,Lexiva,vomiting
+290,Lexiva,headache
+291,Lexiva,fatigue
+292,Lexiva,stomach or abdominal pain
+293,Lexiva,numbness or tingling (especially around your mouth)
+294,Lexiva,headache
+295,Lexiva,"mood changes, or"
+296,Lexiva,"changes in the shape or location of body fat (especially in your arms, 
+	legs, face, neck, breasts, and waist)"
+297,Norvir,"diarrhea,"
+298,Norvir,"nausea,"
+299,Norvir,"vomiting,"
+300,Norvir,"heartburn,"
+301,Norvir,"stomach pain,"
+302,Norvir,"loss of appetite,"
+303,Norvir,"headache,"
+304,Norvir,"dizziness,"
+305,Norvir,"tiredness,"
+306,Norvir,"weakness,"
+307,Norvir,"changes in taste,"
+308,Norvir,"tingling/numbness of hands/feet/mouth area,"
+309,Norvir,"mood changes, or"
+310,Norvir,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist)."
+311,Norvir,"unexplained weight loss,"
+312,Norvir,"persistent muscle aches or weakness,"
+313,Norvir,"joint pain,"
+314,Norvir,"severe tiredness,"
+315,Norvir,"vision changes,"
+316,Norvir,"severe or persistent headaches,"
+317,Norvir,"signs of infection (such as fever, chills, trouble breathing, cough, non-healing skin sores),"
+318,Norvir,"signs of an overactive thyroid (such as irritability, nervousness, heat intolerance, fast/pounding/irregular heartbeat, bulging eyes, unusual growth in the neck/thyroid known as a goiter), or"
+319,Norvir,"signs of a nerve problem known as Guillain-Barré Syndrome (such as difficulty breathing/swallowing/moving your eyes, drooping face, paralysis, or slurred speech)."
+320,Prezista,"diarrhea,"
+321,Prezista,"nausea,"
+322,Prezista,"vomiting,"
+323,Prezista,"heartburn,"
+324,Prezista,"stomach pain,"
+325,Prezista,"weakness,"
+326,Prezista,"headache,"
+327,Prezista,"skin rash, or"
+328,Prezista,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist)"
+329,Reyataz,"headache,"
+330,Reyataz,"nausea,"
+331,Reyataz,"vomiting,"
+332,Reyataz,"diarrhea,"
+333,Reyataz,"stomach pain,"
+334,Reyataz,"fatigue,"
+335,Reyataz,"fever,"
+336,Reyataz,"trouble sleeping,"
+337,Reyataz,"numbness or burning pain in your hands or feet,"
+338,Reyataz,"dizziness,"
+339,Reyataz,"depression, or"
+340,Reyataz,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist)."
+341,Reyataz,"unexplained weight loss,"
+342,Reyataz,"persistent muscle aches or weakness,"
+343,Reyataz,"joint pain,"
+344,Reyataz,"severe tiredness,"
+345,Reyataz,"vision changes,"
+346,Reyataz,"severe or persistent headaches,"
+347,Reyataz,"signs of infection (such as fever, chills, trouble breathing, cough, non-healing skin sores),"
+348,Reyataz,"signs of an overactive thyroid (such as irritability, nervousness, heat intolerance, fast/pounding/irregular heartbeat, bulging eyes, unusual growth in the neck/thyroid known as a goiter),"
+349,Reyataz,"signs of a certain nerve problem known as Guillain-Barre Syndrome (such as difficulty breathing/swallowing/moving your eyes, drooping face, paralysis, slurred speech),"
+350,Reyataz,"yellowing eyes or skin,"
+351,Reyataz,"increased thirst or urination,"
+352,Reyataz,"dizziness,"
+353,Reyataz,"lightheadedness, or"
+354,Reyataz,"signs of a kidney stone (such as pain in side/back/abdomen, painful urination, blood in the urine)."
+355,Isentress,"nausea,"
+356,Isentress,"vomiting,"
+357,Isentress,"diarrhea,"
+358,Isentress,"stomach pain,"
+359,Isentress,"headache,"
+360,Isentress,"tired feeling,"
+361,Isentress,"dizziness,"
+362,Isentress,"sleep problems (insomnia), or"
+363,Isentress,"changes in the shape or location of body fat (especially in arms, legs, face, neck, breasts, and trunk)."
+364,Isentress,"pale skin,"
+365,Isentress,"easy bruising or bleeding,"
+366,Isentress,"signs of a new infection (such as fever or chills, cough, or flu symptoms),"
+367,Isentress,"drowsiness,"
+368,Isentress,"confusion,"
+369,Isentress,"increased thirst,"
+370,Isentress,"lower back pain,"
+371,Isentress,"urinating less than usual or not at all,"
+372,Isentress,"depression,"
+373,Isentress,"thoughts about hurting yourself,"
+374,Isentress,"itching,"
+375,Isentress,"loss of appetite,"
+376,Isentress,"dark urine,"
+377,Isentress,"clay-colored stools,"
+378,Isentress,"yellowing of the skin or eyes,"
+379,Isentress,"muscle pain,"
+380,Isentress,"tenderness,"
+381,Isentress,weakness with fever or flu symptoms and
+382,Isentress,"dark colored urine, or"
+383,Isentress,a severe skin reaction.
+384,Tivicay,"trouble sleeping (insomnia),"
+385,Tivicay,"tiredness,"
+386,Tivicay,"headache,"
+387,Tivicay,"allergic reactions such as rash,"
+388,Tivicay,"changes in liver tests,"
+389,Tivicay,"changes in body fat (especially in your back, neck, and trunk),"
+390,Tivicay,"changes in your immune system,"
+391,Tivicay,"depression,"
+392,Tivicay,"abnormal dreams,"
+393,Tivicay,"dizziness,"
+394,Tivicay,"headache,"
+395,Tivicay,"nausea,"
+396,Tivicay,"diarrhea,"
+397,Tivicay,"skin rash,"
+398,Tivicay,"fatigue, and"
+399,Tivicay,spinning sensation (vertigo).
+400,Tivicay,other HIV/AIDS medicines;
+401,Tivicay,"antacids or laxatives that contain aluminum, magnesium or calcium;"
+402,Tivicay,sucralfate;
+403,Tivicay,"iron or calcium supplements, or"
+404,Tivicay,buffered medicines;
+405,Tivicay,"anti-seizure medicines,"
+406,Tivicay,"St. John's wort,"
+407,Tivicay,"metformin, or"
+408,Tivicay,rifampin
+409,Atripla,"dizziness,"
+410,Atripla,"trouble sleeping,"
+411,Atripla,"drowsiness,"
+412,Atripla,"unusual dreams, and"
+413,Atripla,trouble concentrating.
+414,Atripla,"tiredness,"
+415,Atripla,"headache,"
+416,Atripla,"nausea,"
+417,Atripla,"vomiting,"
+418,Atripla,"gas,"
+419,Atripla,"upset stomach,"
+420,Atripla,"diarrhea, and"
+421,Atripla,"skin discoloration (such as small spots/freckles, darkening of the palms of the hands/soles of the feet), and"
+422,Atripla,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist)."
+423,Atripla,"unexplained weight loss,"
+424,Atripla,"persistent muscle aches or weakness,"
+425,Atripla,"joint pain,"
+426,Atripla,"numbness or tingling of the hands/feet/arms/legs,"
+427,Atripla,"severe tiredness,"
+428,Atripla,"vision changes,"
+429,Atripla,"severe or persistent headaches,"
+430,Atripla,"signs of infection (such as fever, chills, trouble breathing, cough, non-healing skin sores),"
+431,Atripla,"signs of an overactive thyroid (such as irritability, nervousness, heat intolerance, fast/pounding/irregular heartbeat, bulging eyes, unusual growth in the neck or thyroid known as a goiter), or"
+432,Atripla,"signs of a certain nerve problem known as Guillain-Barre Syndrome (such as difficulty breathing/swallowing/moving your eyes, drooping face, paralysis, slurred speech)."
+433,Atripla,"acyclovir,"
+434,Atripla,"ganciclovir,"
+435,Atripla,"valacyclovir,"
+436,Atripla,"valganciclovir,"
+437,Atripla,"sertraline,"
+438,Atripla,"methadone,"
+439,Atripla,"adefovir,"
+440,Atripla,"cidofovir,"
+441,Atripla,"blood thinners,"
+442,Atripla,"cholesterol medications,"
+443,Atripla,"antibiotics,"
+444,Atripla,"calcium channel blockers,"
+445,Atripla,"seizure medicines, or"
+446,Atripla,other HIV medicines
+447,Biktarvy,"diarrhea,"
+448,Biktarvy,"nausea,"
+449,Biktarvy,"headache,"
+450,Biktarvy,"fatigue,"
+451,Biktarvy,"abnormal dreams,"
+452,Biktarvy,"dizziness, and"
+453,Biktarvy,insomnia
+454,Biktarvy,"other antiretroviral medications,"
+455,Biktarvy,"dofetilide,"
+456,Biktarvy,"anticonvulsants,"
+457,Biktarvy,"antimycobacterials,"
+458,Biktarvy,"St John's wort,"
+459,Biktarvy,"antacids containing aluminum or magnesium,"
+460,Biktarvy,"supplements containing calcium or iron,"
+461,Biktarvy,"metformin,"
+462,Biktarvy,"acyclovir,"
+463,Biktarvy,"cidofovir,"
+464,Biktarvy,"ganciclovir,"
+465,Biktarvy,"valacyclovir,"
+466,Biktarvy,"valganciclovir,"
+467,Biktarvy,"aminoglycosides (e.g., gentamicin), and"
+468,Biktarvy,high-dose or multiple nonsteroidal anti-inflammatory drugs (NSAIDs)
+469,Cimduo,"headache,"
+470,Cimduo,"pain,"
+471,Cimduo,"depression,"
+472,Cimduo,"diarrhea,"
+473,Cimduo,"rash,"
+474,Cimduo,"back pain,"
+475,Cimduo,"fever,"
+476,Cimduo,"nausea,"
+477,Cimduo,"abdominal pain,"
+478,Cimduo,"weakness,"
+479,Cimduo,"anxiety,"
+480,Cimduo,"vomiting,"
+481,Cimduo,"joint pain,"
+482,Cimduo,"insomnia,"
+483,Cimduo,"pneumonia,"
+484,Cimduo,"indigestion,"
+485,Cimduo,"muscle pain,"
+486,Cimduo,"dizziness,"
+487,Cimduo,"abnormal distribution of body fat, and"
+488,Cimduo,numbness and tingling of extremities
+489,Complera,"new or worsening renal impairment,"
+490,Complera,"depressive disorders, and"
+491,Complera,decreases in bone density
+492,Complera,"headache,"
+493,Complera,"tiredness,"
+494,Complera,"dizziness,"
+495,Complera,"sleep problems (insomnia),"
+496,Complera,"strange dreams,"
+497,Complera,"diarrhea,"
+498,Complera,"nausea,"
+499,Complera,"rash,"
+500,Complera,"depression, and"
+501,Complera,"changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist)"
+502,Complera,"lactic acidosis, and"
+503,Complera,severe hepatomegaly with steatosis
+504,Complera,"the anticonvulsants carbamazepine, oxcarbazepine, phenobarbital, phenytoin"
+505,Complera,"the antimycobacterials rifampin, rifapentine"
+506,Complera,"proton pump inhibitors, such as dexlansoprazole,
+    esomeprazole, lansoprazole, omeprazole, pantoprazole, rabeprazole"
+507,Complera,"the glucocorticoid systemic dexamethasone (more than a
+    single dose)"
+508,Complera,St. John's wort (Hypericum perforatum)
+509,Delstrigo,"dizziness,"
+510,Delstrigo,"nausea,"
+511,Delstrigo,"abnormal dreams,"
+512,Delstrigo,"insomnia,"
+513,Delstrigo,"diarrhea,"
+514,Delstrigo,"drowsiness, and"
+515,Delstrigo,rash
+516,Dovato,"headache,"
+517,Dovato,"diarrhea,"
+518,Dovato,"nausea,"
+519,Dovato,"insomnia,"
+520,Dovato,"fatigue, and"
+521,Dovato,dizziness
+522,Dovato,"other antiretroviral drugs for the treatment of HIV-1 infection,"
+523,Dovato,"dofetilide,"
+524,Dovato,"metformin,"
+525,Dovato,"anticonvulsants,"
+526,Dovato,"rifampin,"
+527,Dovato,"St. John's wort,"
+528,Dovato,"cation-containing antacids or laxatives,"
+529,Dovato,"sucralfate,"
+530,Dovato,"buffered medications,"
+531,Dovato,"oral calcium and iron supplements (including multivitamins containing calcium or iron), and"
+532,Dovato,sorbitol
+533,Genvoya,"nausea,"
+534,Genvoya,"diarrhea,"
+535,Genvoya,"fatigue,"
+536,Genvoya,"headache, and"
+537,Genvoya,body fat redistribution.
+538,Genvoya,"weakness,"
+539,Genvoya,"unusual muscle pain,"
+540,Genvoya,"difficulty breathing,"
+541,Genvoya,"feeling cold in the extremities,"
+542,Genvoya,"dizziness,"
+543,Genvoya,"lightheadedness, or"
+544,Genvoya,fast or irregular heartbeat
+545,Genvoya,"other antiretroviral medications,"
+546,Genvoya,"drugs metabolized by CYP3A or CYP2D6,"
+547,Genvoya,"alpha 1-adrenoreceptor antagonists,"
+548,Genvoya,"anticonvulsants,"
+549,Genvoya,"antimycobacterials,"
+550,Genvoya,"ergot derivatives,"
+551,Genvoya,"St. John's wort,"
+552,Genvoya,"cisapride,"
+553,Genvoya,"HMG-CoA reductase inhibitors,"
+554,Genvoya,"pimozide, sildenafil, and"
+555,Genvoya,sedative/hypnotics
+556,Evotaz,"yellowing of the skin or eyes (jaundice),"
+557,Evotaz,"itching and rash,"
+558,Evotaz,"hives,"
+559,Evotaz,"nausea,"
+560,Evotaz,"diarrhea,"
+561,Evotaz,"vomiting,"
+562,Evotaz,"abdominal pain,"
+563,Evotaz,"fatigue,"
+564,Evotaz,"muscle tissue breakdown (rhabdomyolysis),"
+565,Evotaz,"headache,"
+566,Evotaz,"depression,"
+567,Evotaz,"abnormal or strange dreams,"
+568,Evotaz,"insomnia, and"
+569,Evotaz,kidney disease.
+570,Juluca,diarrhea and
+571,Juluca,headache.
+572,Juluca,"other antiretroviral medications,"
+573,Juluca,"dofetilide,"
+574,Juluca,"metformin,"
+575,Juluca,"antacids,"
+576,Juluca,"anticonvulsants,"
+577,Juluca,"antimycobacterials,"
+578,Juluca,"glucocorticoids,"
+579,Juluca,"H2-receptor antagonists,"
+580,Juluca,"St John's wort,"
+581,Juluca,"macrolide or ketolide antibiotics,"
+582,Juluca,"cation-containing products or laxatives,"
+583,Juluca,"sucralfate,"
+584,Juluca,"buffered medications,"
+585,Juluca,"narcotic analgesics,"
+586,Juluca,"oral calcium and iron supplements (including multivitamins containing calcium or iron),"
+587,Juluca,and proton pump inhibitors (PPIs).
+588,Odefsey,"depressive disorders (depressed mood, depression, general unease, mood changes, negative thoughts, suicide attempts, suicidal ideation),"
+589,Odefsey,"insomnia,"
+590,Odefsey,"headache,"
+591,Odefsey,"nausea,"
+592,Odefsey,"drowsiness,"
+593,Odefsey,"dizziness,"
+594,Odefsey,"abdomincal pain,"
+595,Odefsey,"rash,"
+596,Odefsey,"weight gain, and"
+597,Odefsey,redistribution of body fat.
+598,Prezcobix,"diarrhea,"
+599,Prezcobix,"nausea,"
+600,Prezcobix,"rash,"
+601,Prezcobix,"headache,"
+602,Prezcobix,"abdominal pain,"
+603,Prezcobix,"vomiting, and"
+604,Prezcobix,changes in body fat distribution.
+605,Symfi,"trouble concentrating,"
+606,Symfi,"abnormal dreams,"
+607,Symfi,"headache,"
+608,Symfi,"nausea,"
+609,Symfi,"feeling unwell (malaise),"
+610,Symfi,"fatigue,"
+611,Symfi,"nasal signs and symptoms,"
+612,Symfi,"diarrhea,"
+613,Symfi,"rash,"
+614,Symfi,"dizziness,"
+615,Symfi,"trouble sleeping (insomnia),"
+616,Symfi,"pain,"
+617,Symfi,"depression,"
+618,Symfi,"weakness, and"
+619,Symfi,cough
+620,Stribild,"yellowing skin or eyes (jaundice),"
+621,Stribild,"diarrhea,"
+622,Stribild,"gas,"
+623,Stribild,"nausea,"
+624,Stribild,"fatigue,"
+625,Stribild,"drowsiness,"
+626,Stribild,"dizziness,"
+627,Stribild,"headache,"
+628,Stribild,"insomnia,"
+629,Stribild,"abnormal dreams,"
+630,Stribild,"rash,"
+631,Stribild,"bone problems,"
+632,Stribild,"changes in fat such as an increased amount of fat in the head and neck,"
+633,Stribild,"changes in the immune system that may result in a condition called immune reconstitution syndrome,"
+634,Stribild,"buildup of an acid in your blood (lactic acidosis),"
+635,Stribild,"serious liver problems, and"
+636,Stribild,worsening hepatitis B (HBV) infection.
+637,Symtuza,"diarrhea,"
+638,Symtuza,"rash,"
+639,Symtuza,"nausea,"
+640,Symtuza,"fatigue,"
+641,Symtuza,"headache,"
+642,Symtuza,"abdominal discomfort, and"
+643,Symtuza,gas
+644,Triumeq,"insomnia,"
+645,Triumeq,"headache,"
+646,Triumeq,"fatigue,"
+647,Triumeq,"diarrhea,"
+648,Triumeq,"nausea,"
+649,Triumeq,"vomiting,"
+650,Triumeq,"fever,"
+651,Triumeq,"loss of appetite,"
+652,Triumeq,"low energy,"
+653,Triumeq,"nightmares or abnormal dreams,"
+654,Triumeq,"abnormal body fat distribution,"
+655,Triumeq,"numbness and tingling,"
+656,Triumeq,"hypersensitivity reactions (fever, rash, shortness of breath, cough, or sore throat),"
+657,Triumeq,"joint pain or swelling,"
+658,Triumeq,"muscle pain,"
+659,Triumeq,"extremity swelling,"
+660,Triumeq,"depression,"
+661,Triumeq,"dizziness, and"
+662,Triumeq,spinning sensation (vertigo).
+663,Descovy,nausea
+664,Descovy,changes in body fat distribution
+665,Descovy,changes in your immune system
+666,Descovy,"new or worse kidney problems, including kidney failure,"
+667,Descovy,"bone problems such as bone pain, softening, or thinning and fractures, 
+	 or"
+668,Descovy,increased cholesterol.

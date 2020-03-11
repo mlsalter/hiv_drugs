@@ -1,0 +1,725 @@
+Drugs,Side_Effects,Reasons,Classify
+Combivir,headache,HIV,NRT
+Combivir,dizziness,HIV,NRT
+Combivir,nausea,HIV,NRT
+Combivir,loss of appetite,HIV,NRT
+Combivir,diarrhea,HIV,NRT
+Combivir,trouble sleeping,HIV,NRT
+Combivir,cold symptoms (stuffy nose sneezing sinus pain cough) or,HIV,NRT
+Combivir,changes in the shape or location of body fat (especially in your arms legs face neck breasts and trunk),HIV,NRT
+Combivir,mental mood changes (such as depression),HIV,NRT
+Combivir,signs of pancreatitis (such as vomiting stomach abdominal back pain fever),HIV,NRT
+Combivir,easy bruising or bleeding or,HIV,NRT
+Combivir,skin or nail color changes,HIV,NRT
+Emtriva,headache,HIV,NRT
+Emtriva,nausea,HIV,NRT
+Emtriva,upset stomach,HIV,NRT
+Emtriva,diarrhea,HIV,NRT
+Emtriva,trouble sleeping,HIV,NRT
+Emtriva,darkening skin color on palms of hands and soles of feet,HIV,NRT
+Emtriva,dizziness,HIV,NRT
+Emtriva,strange dreams,HIV,NRT
+Emtriva,cough,HIV,NRT
+Emtriva,runny nose,HIV,NRT
+Emtriva,"skin rash or changes in the shape or location of body fat (especially in the arms legs face neck breasts 
+	and trunk)",HIV,NRT
+Emtriva,unexplained weight loss,HIV,NRT
+Emtriva,persistent muscle aches or weakness,HIV,NRT
+Emtriva,joint pain,HIV,NRT
+Emtriva,numbness or tingling of the hands feet arms legs,HIV,NRT
+Emtriva,severe tiredness,HIV,NRT
+Emtriva,vision changes,HIV,NRT
+Emtriva,severe or persistent headaches,HIV,NRT
+Emtriva,signs of infection (such as fever chills trouble breathing cough non-healing skin sores),HIV,NRT
+Emtriva,signs of an overactive thyroid (such as irritability nervousness heat intolerance fast pounding irregular heartbeat bulging eyes unusual growth in the neck thyroid known as a goiter),HIV,NRT
+Emtriva,signs of a certain nerve problem known as Guillain-Barre Syndrome (such as difficulty breathing swallowing moving your eyes drooping face paralysis slurred speech) or,HIV,NRT
+Emtriva,mental mood changes (such as depression),HIV,NRT
+Epivir,headache,HIV,NRT
+Epivir,dizziness,HIV,NRT
+Epivir,nausea,HIV,NRT
+Epivir,diarrhea,HIV,NRT
+Epivir,trouble sleeping,HIV,NRT
+Epivir,cough,HIV,NRT
+Epivir,tired feeling,HIV,NRT
+Epivir,runny or stuffy nose or,HIV,NRT
+Epivir,changes in the shape or location of body fat (especially in your arms legs face neck breasts and trunk),HIV,NRT
+Epivir,mental mood changes (such as depression) or,HIV,NRT
+Epivir,stomach or back pain with nausea (pancreatitis),HIV,NRT
+Epizicom,"Drugs A-Z List - by drug brand and generic 
+	name",HIV,NRT
+Epizicom,"Pill Identifier Tool 
+	- identify drugs and medications by imprint color or shape Includes drug 
+	pictures",HIV,NRT
+Epizicom,"Picture Slideshows - 
+	interactive medical slideshow on important medical topics",HIV,NRT
+Epizicom,"Image Gallery - 
+	learn about skin disorder medical anatomy tumors and more through images and illustrations ",HIV,NRT
+Epizicom,"Latest Drug News - 
+	WebMD & FDA Updates and news releases on prescription medications and drug 
+	manufacturing distribution",HIV,NRT
+Epizicom,"Diseases 
+	Condition and Tests - The RxList disease and condition listing contains 
+	explanations of many diseases conditions medical procedures and tests",HIV,NRT
+Epizicom,"Drug Medical Dictionary 
+	- definitions and explanations of many medical terms including prescription 
+	medication abbreviations",HIV,NRT
+Epizicom,Neurontin (gabapentin),HIV,NRT
+Epizicom,Celexa (citalopram hydrobromide),HIV,NRT
+Epizicom,Xanax (CIV alprazolam),HIV,NRT
+Epizicom,Klonopin (clonazepam),HIV,NRT
+Epizicom,Cipro (ciprofloxacin hydrochloride),HIV,NRT
+Epizicom,Percocet (oxycodone and acetaminophen),HIV,NRT
+Epizicom,"Vicodin ((hydrocodone bitartrate and 
+		acetaminophen)",HIV,NRT
+Epizicom,Ultram (tramadol hydrochloride),HIV,NRT
+Epizicom,Ativan (lorazepam),HIV,NRT
+Epizicom,Lexapro (escitalopram oxalate),HIV,NRT
+Hivid,nausea,HIV,NRT
+Hivid,vomiting,HIV,NRT
+Hivid,stomach or abdominal pain,HIV,NRT
+Hivid,diarrhea,HIV,NRT
+Hivid,constipation,HIV,NRT
+Hivid,headache,HIV,NRT
+Hivid,fatigue,HIV,NRT
+Hivid,tired feeling,HIV,NRT
+Hivid,skin rash,HIV,NRT
+Hivid,itching,HIV,NRT
+Hivid,hives,HIV,NRT
+Hivid,changes in the shape or location of body fat (especially in your arms legs face neck breasts and trunk),HIV,NRT
+Hivid,fever,HIV,NRT
+Hivid,mouth sores,HIV,NRT
+Hivid,abnormal liver function,HIV,NRT
+Hivid,numbness or tingling in the hands and feet,HIV,NRT
+Hivid,depression,HIV,NRT
+Hivid,convulsions,HIV,NRT
+Hivid,dizziness or,HIV,NRT
+Hivid,painful and swollen joints,HIV,NRT
+Trizivir,headache,HIV,NRT
+Trizivir,tiredness,HIV,NRT
+Trizivir,weakness,HIV,NRT
+Trizivir,nausea,HIV,NRT
+Trizivir,vomiting,HIV,NRT
+Trizivir,loss of appetite,HIV,NRT
+Trizivir,diarrhea,HIV,NRT
+Trizivir,dizziness,HIV,NRT
+Trizivir,trouble sleeping,HIV,NRT
+Trizivir,joint pain,HIV,NRT
+Trizivir,depression,HIV,NRT
+Trizivir,nervousness,HIV,NRT
+Trizivir,cold symptoms (stuffy nose sneezing sinus pain) or,HIV,NRT
+Trizivir,changes in the shape or location of body fat (especially in your arms legs face neck breasts and trunk),HIV,NRT
+Trizivir,unexplained weight loss,HIV,NRT
+Trizivir,persistent muscle aches or weakness,HIV,NRT
+Trizivir,joint pain,HIV,NRT
+Trizivir,numbness or tingling of the hands feet arms legs,HIV,NRT
+Trizivir,severe tiredness,HIV,NRT
+Trizivir,vision changes,HIV,NRT
+Trizivir,severe or persistent headaches,HIV,NRT
+Trizivir,signs of infection (such as fever chills trouble breathing cough non-healing skin sores),HIV,NRT
+Trizivir,signs of an overactive thyroid (such as irritability nervousness heat intolerance fast pounding irregular heartbeat bulging eyes unusual growth in the neck thyroid known as a goiter),HIV,NRT
+Trizivir,signs of a certain nerve problem known as Guillain-Barre Syndrome (such as difficulty breathing swallowing moving your eyes drooping face paralysis slurred speech),HIV,NRT
+Trizivir,mental mood changes (such as depression anxiety),HIV,NRT
+Trizivir,easy bruising or bleeding or,HIV,NRT
+Trizivir,skin and nail color changes,HIV,NRT
+Truvada,nausea,HIV,NRT
+Truvada,vomiting,HIV,NRT
+Truvada,stomach pain,HIV,NRT
+Truvada,diarrhea,HIV,NRT
+Truvada,headache,HIV,NRT
+Truvada,dizziness,HIV,NRT
+Truvada,depression,HIV,NRT
+Truvada,joint pain,HIV,NRT
+Truvada,trouble sleeping,HIV,NRT
+Truvada,strange dreams,HIV,NRT
+Truvada,back pain,HIV,NRT
+Truvada,itching or skin rash,HIV,NRT
+Truvada,changes in the color of skin on your palms or soles of your feet or,HIV,NRT
+Truvada,changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist),HIV,NRT
+Truvada,mental mood changes (such as depression anxiety),HIV,NRT
+Truvada,loss of appetite,HIV,NRT
+Truvada,stomach or abdominal pain,HIV,NRT
+Truvada,pink or bloody urine or,HIV,NRT
+Truvada,changes in the amount of urine,HIV,NRT
+Videx,headache,HIV,NRT
+Videx,diarrhea,HIV,NRT
+Videx,mild skin rash or,HIV,NRT
+Videx,changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist),HIV,NRT
+Viread,nausea,HIV,NRT
+Viread,stomach pain,HIV,NRT
+Viread,diarrhea,HIV,NRT
+Viread,depression,HIV,NRT
+Viread,headache,HIV,NRT
+Viread,dizziness,HIV,NRT
+Viread,weakness,HIV,NRT
+Viread,trouble sleeping,HIV,NRT
+Viread,itching or rash or,HIV,NRT
+Viread,changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist),HIV,NRT
+Viread,mental mood changes (such as depression anxiety confusion),HIV,NRT
+Viread,signs of kidney problems (such as a change in the amount of urine) or,HIV,NRT
+Viread,unusual thirst,HIV,NRT
+Ziagen,trouble sleeping,HIV,NRT
+Ziagen,loss of appetite,HIV,NRT
+Ziagen,strange dreams,HIV,NRT
+Ziagen,headache,HIV,NRT
+Ziagen,ear pain,HIV,NRT
+Ziagen,cold symptoms (stuffy nose sneezing sinus pain) or,HIV,NRT
+Ziagen,changes in the shape or location of body fat (especially in your arms legs face neck breasts and trunk),HIV,NRT
+Ziagen,unexplained weight loss,HIV,NRT
+Ziagen,persistent muscle aches or weakness,HIV,NRT
+Ziagen,joint pain,HIV,NRT
+Ziagen,numbness or tingling of the hands feet arms legs,HIV,NRT
+Ziagen,severe tiredness,HIV,NRT
+Ziagen,vision changes,HIV,NRT
+Ziagen,severe or persistent headaches,HIV,NRT
+Ziagen,signs of infection (such as fever chills trouble breathing cough non-healing skin sores),HIV,NRT
+Ziagen,signs of an overactive thyroid (such as irritability nervousness heat intolerance fast pounding irregular heartbeat bulging eyes unusual growth in the neck thyroid known as a goiter),HIV,NRT
+Ziagen,signs of a certain nerve problem known as Guillain-Barre Syndrome (such as difficulty breathing swallowing moving your eyes drooping face paralysis slurred speech) or,HIV,NRT
+Ziagen,mental mood changes (depression anxiety),HIV,NRT
+Edurant,nausea,HIV,NNRTI
+Edurant,vomiting,HIV,NNRTI
+Edurant,stomach pain,HIV,NNRTI
+Edurant,diarrhea,HIV,NNRTI
+Edurant,fatigue,HIV,NNRTI
+Edurant,tiredness,HIV,NNRTI
+Edurant,headache,HIV,NNRTI
+Edurant,dizziness,HIV,NNRTI
+Edurant,skin rash,HIV,NNRTI
+Edurant,depressive disorders,HIV,NNRTI
+Edurant,sleep problems (insomnia),HIV,NNRTI
+Edurant,unusual dreams,HIV,NNRTI
+Edurant,changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist) and,HIV,NNRTI
+Edurant,wasting,HIV,NNRTI
+Edurant,mood changes,HIV,NNRTI
+Edurant,anxiety,HIV,NNRTI
+Edurant,severe depression,HIV,NNRTI
+Edurant,feeling hopeless,HIV,NNRTI
+Edurant,thoughts about suicide or hurting yourself,HIV,NNRTI
+Edurant,fever,HIV,NNRTI
+Edurant,chills,HIV,NNRTI
+Edurant,cough with yellow or green mucus,HIV,NNRTI
+Edurant,stabbing chest pain,HIV,NNRTI
+Edurant,wheezing,HIV,NNRTI
+Edurant,feeling short of breath,HIV,NNRTI
+Edurant,itching,HIV,NNRTI
+Edurant,loss of appetite,HIV,NNRTI
+Edurant,dark urine,HIV,NNRTI
+Edurant,clay-colored stools,HIV,NNRTI
+Edurant,yellowing of the skin or eyes (jaundice),HIV,NNRTI
+Edurant,severe pain in your upper stomach spreading to your shoulder or back,HIV,NNRTI
+Edurant,stomach bloating,HIV,NNRTI
+Edurant,sweating or,HIV,NNRTI
+Edurant,chills,HIV,NNRTI
+Rescriptor,nausea,HIV,NNRTI
+Rescriptor,diarrhea,HIV,NNRTI
+Rescriptor,headache,HIV,NNRTI
+Rescriptor,tiredness,HIV,NNRTI
+Rescriptor,changes in the shape and location of body fat (especially in your arms legs face neck breasts and waist),HIV,NNRTI
+Rescriptor,worsening of a previous medical condition (such as an old infection),HIV,NNRTI
+Rescriptor,itching,HIV,NNRTI
+Rescriptor,rash or,HIV,NNRTI
+Rescriptor,cold symptoms (stuffy nose sneezing or sore throat),HIV,NNRTI
+Pifeltro,nausea,HIV,NNRTI
+Pifeltro,dizziness,HIV,NNRTI
+Pifeltro,headache,HIV,NNRTI
+Pifeltro,fatigue,HIV,NNRTI
+Pifeltro,diarrhea,HIV,NNRTI
+Pifeltro,abdominal pain,HIV,NNRTI
+Pifeltro,abnormal dreams and,HIV,NNRTI
+Pifeltro,insomnia,HIV,NNRTI
+Sustiva,dizziness,HIV,NNRTI
+Sustiva,trouble sleeping (insomnia),HIV,NNRTI
+Sustiva,drowsiness,HIV,NNRTI
+Sustiva,unusual dreams,HIV,NNRTI
+Sustiva,trouble concentrating,HIV,NNRTI
+Sustiva,nausea,HIV,NNRTI
+Sustiva,vomiting,HIV,NNRTI
+Sustiva,stomach pain,HIV,NNRTI
+Sustiva,diarrhea,HIV,NNRTI
+Sustiva,constipation,HIV,NNRTI
+Sustiva,cough,HIV,NNRTI
+Sustiva,blurred vision,HIV,NNRTI
+Sustiva,headache,HIV,NNRTI
+Sustiva,tired feeling,HIV,NNRTI
+Sustiva,spinning sensation,HIV,NNRTI
+Sustiva,problems with balance or coordination,HIV,NNRTI
+Sustiva,muscle or joint pain or,HIV,NNRTI
+Sustiva,changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist),HIV,NNRTI
+Sustiva,persistent nausea or vomiting,HIV,NNRTI
+Sustiva,stomach or abdominal pain,HIV,NNRTI
+Sustiva,severe tiredness,HIV,NNRTI
+Sustiva,yellowing eyes or skin or,HIV,NNRTI
+Sustiva,dark urine,HIV,NNRTI
+Sustiva,cyclosporine,HIV,NNRTI
+Sustiva,itraconazole,HIV,NNRTI
+Sustiva,sirolimus,HIV,NNRTI
+Sustiva,tacrolimus,HIV,NNRTI
+Sustiva,St John's wort,HIV,NNRTI
+Sustiva,voriconazole,HIV,NNRTI
+Sustiva,blood thinners,HIV,NNRTI
+Sustiva,cholesterol medications,HIV,NNRTI
+Sustiva,antibiotics,HIV,NNRTI
+Sustiva,heart or blood pressure medications,HIV,NNRTI
+Sustiva,other HIV medicines or,HIV,NNRTI
+Sustiva,seizure medications,HIV,NNRTI
+Viramune,tiredness,HIV,NNRTI
+Viramune,nausea,HIV,NNRTI
+Viramune,vomiting,HIV,NNRTI
+Viramune,diarrhea,HIV,NNRTI
+Viramune,stomach pain,HIV,NNRTI
+Viramune,muscle pain,HIV,NNRTI
+Viramune,headache,HIV,NNRTI
+Viramune,changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist) or,HIV,NNRTI
+Viramune,rarely drowsiness,HIV,NNRTI
+Invirase,diarrhea,HIV,PI
+Invirase,nausea,HIV,PI
+Invirase,vomiting,HIV,PI
+Invirase,stomach pain,HIV,PI
+Invirase,tiredness or,HIV,PI
+Invirase,changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist),HIV,PI
+Invirase,stabbing chest pain,HIV,PI
+Invirase,fever,HIV,PI
+Invirase,infection,HIV,PI
+Invirase,rapid heart rate,HIV,PI
+Invirase,weakness or,HIV,PI
+Invirase,problems breathing or swallowing,HIV,PI
+Kaletra,"Drugs A-Z List - by drug brand and generic 
+	name",HIV,PI
+Kaletra,"Pill Identifier Tool 
+	- identify drugs and medications by imprint color or shape Includes drug 
+	pictures",HIV,PI
+Kaletra,"Picture Slideshows - 
+	interactive medical slideshow on important medical topics",HIV,PI
+Kaletra,"Image Gallery - 
+	learn about skin disorder medical anatomy tumors and more through images and illustrations ",HIV,PI
+Kaletra,"Latest Drug News - 
+	WebMD & FDA Updates and news releases on prescription medications and drug 
+	manufacturing distribution",HIV,PI
+Kaletra,"Diseases 
+	Condition and Tests - The RxList disease and condition listing contains 
+	explanations of many diseases conditions medical procedures and tests",HIV,PI
+Kaletra,"Drug Medical Dictionary 
+	- definitions and explanations of many medical terms including prescription 
+	medication abbreviations",HIV,PI
+Kaletra,Neurontin (gabapentin),HIV,PI
+Kaletra,Celexa (citalopram hydrobromide),HIV,PI
+Kaletra,Xanax (CIV alprazolam),HIV,PI
+Kaletra,Klonopin (clonazepam),HIV,PI
+Kaletra,Cipro (ciprofloxacin hydrochloride),HIV,PI
+Kaletra,Percocet (oxycodone and acetaminophen),HIV,PI
+Kaletra,"Vicodin ((hydrocodone bitartrate and 
+		acetaminophen)",HIV,PI
+Kaletra,Ultram (tramadol hydrochloride),HIV,PI
+Kaletra,Ativan (lorazepam),HIV,PI
+Kaletra,Lexapro (escitalopram oxalate),HIV,PI
+Lexiva,diarrhea,HIV,PI
+Lexiva,nausea,HIV,PI
+Lexiva,vomiting,HIV,PI
+Lexiva,headache,HIV,PI
+Lexiva,fatigue,HIV,PI
+Lexiva,stomach or abdominal pain,HIV,PI
+Lexiva,numbness or tingling (especially around your mouth),HIV,PI
+Lexiva,headache,HIV,PI
+Lexiva,mood changes or,HIV,PI
+Lexiva,"changes in the shape or location of body fat (especially in your arms 
+	legs face neck breasts and waist)",HIV,PI
+Norvir,diarrhea,HIV,PI
+Norvir,nausea,HIV,PI
+Norvir,vomiting,HIV,PI
+Norvir,heartburn,HIV,PI
+Norvir,stomach pain,HIV,PI
+Norvir,loss of appetite,HIV,PI
+Norvir,headache,HIV,PI
+Norvir,dizziness,HIV,PI
+Norvir,tiredness,HIV,PI
+Norvir,weakness,HIV,PI
+Norvir,changes in taste,HIV,PI
+Norvir,tingling numbness of hands feet mouth area,HIV,PI
+Norvir,mood changes or,HIV,PI
+Norvir,changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist),HIV,PI
+Norvir,unexplained weight loss,HIV,PI
+Norvir,persistent muscle aches or weakness,HIV,PI
+Norvir,joint pain,HIV,PI
+Norvir,severe tiredness,HIV,PI
+Norvir,vision changes,HIV,PI
+Norvir,severe or persistent headaches,HIV,PI
+Norvir,signs of infection (such as fever chills trouble breathing cough non-healing skin sores),HIV,PI
+Norvir,signs of an overactive thyroid (such as irritability nervousness heat intolerance fast pounding irregular heartbeat bulging eyes unusual growth in the neck thyroid known as a goiter) or,HIV,PI
+Norvir,signs of a nerve problem known as Guillain-Barré Syndrome (such as difficulty breathing swallowing moving your eyes drooping face paralysis or slurred speech),HIV,PI
+Prezista,diarrhea,HIV,PI
+Prezista,nausea,HIV,PI
+Prezista,vomiting,HIV,PI
+Prezista,heartburn,HIV,PI
+Prezista,stomach pain,HIV,PI
+Prezista,weakness,HIV,PI
+Prezista,headache,HIV,PI
+Prezista,skin rash or,HIV,PI
+Prezista,changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist),HIV,PI
+Reyataz,headache,HIV,PI
+Reyataz,nausea,HIV,PI
+Reyataz,vomiting,HIV,PI
+Reyataz,diarrhea,HIV,PI
+Reyataz,stomach pain,HIV,PI
+Reyataz,fatigue,HIV,PI
+Reyataz,fever,HIV,PI
+Reyataz,trouble sleeping,HIV,PI
+Reyataz,numbness or burning pain in your hands or feet,HIV,PI
+Reyataz,dizziness,HIV,PI
+Reyataz,depression or,HIV,PI
+Reyataz,changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist),HIV,PI
+Reyataz,unexplained weight loss,HIV,PI
+Reyataz,persistent muscle aches or weakness,HIV,PI
+Reyataz,joint pain,HIV,PI
+Reyataz,severe tiredness,HIV,PI
+Reyataz,vision changes,HIV,PI
+Reyataz,severe or persistent headaches,HIV,PI
+Reyataz,signs of infection (such as fever chills trouble breathing cough non-healing skin sores),HIV,PI
+Reyataz,signs of an overactive thyroid (such as irritability nervousness heat intolerance fast pounding irregular heartbeat bulging eyes unusual growth in the neck thyroid known as a goiter),HIV,PI
+Reyataz,signs of a certain nerve problem known as Guillain-Barre Syndrome (such as difficulty breathing swallowing moving your eyes drooping face paralysis slurred speech),HIV,PI
+Reyataz,yellowing eyes or skin,HIV,PI
+Reyataz,increased thirst or urination,HIV,PI
+Reyataz,dizziness,HIV,PI
+Reyataz,lightheadedness or,HIV,PI
+Reyataz,signs of a kidney stone (such as pain in side back abdomen painful urination blood in the urine),HIV,PI
+Isentress,nausea,HIV,INSTI
+Isentress,vomiting,HIV,INSTI
+Isentress,diarrhea,HIV,INSTI
+Isentress,stomach pain,HIV,INSTI
+Isentress,headache,HIV,INSTI
+Isentress,tired feeling,HIV,INSTI
+Isentress,dizziness,HIV,INSTI
+Isentress,sleep problems (insomnia) or,HIV,INSTI
+Isentress,changes in the shape or location of body fat (especially in arms legs face neck breasts and trunk),HIV,INSTI
+Isentress,pale skin,HIV,INSTI
+Isentress,easy bruising or bleeding,HIV,INSTI
+Isentress,signs of a new infection (such as fever or chills cough or flu symptoms),HIV,INSTI
+Isentress,drowsiness,HIV,INSTI
+Isentress,confusion,HIV,INSTI
+Isentress,increased thirst,HIV,INSTI
+Isentress,lower back pain,HIV,INSTI
+Isentress,urinating less than usual or not at all,HIV,INSTI
+Isentress,depression,HIV,INSTI
+Isentress,thoughts about hurting yourself,HIV,INSTI
+Isentress,itching,HIV,INSTI
+Isentress,loss of appetite,HIV,INSTI
+Isentress,dark urine,HIV,INSTI
+Isentress,clay-colored stools,HIV,INSTI
+Isentress,yellowing of the skin or eyes,HIV,INSTI
+Isentress,muscle pain,HIV,INSTI
+Isentress,tenderness,HIV,INSTI
+Isentress,weakness with fever or flu symptoms and,HIV,INSTI
+Isentress,dark colored urine or,HIV,INSTI
+Isentress,a severe skin reaction,HIV,INSTI
+Tivicay,trouble sleeping (insomnia),HIV,INSTI
+Tivicay,tiredness,HIV,INSTI
+Tivicay,headache,HIV,INSTI
+Tivicay,allergic reactions such as rash,HIV,INSTI
+Tivicay,changes in liver tests,HIV,INSTI
+Tivicay,changes in body fat (especially in your back neck and trunk),HIV,INSTI
+Tivicay,changes in your immune system,HIV,INSTI
+Tivicay,depression,HIV,INSTI
+Tivicay,abnormal dreams,HIV,INSTI
+Tivicay,dizziness,HIV,INSTI
+Tivicay,headache,HIV,INSTI
+Tivicay,nausea,HIV,INSTI
+Tivicay,diarrhea,HIV,INSTI
+Tivicay,skin rash,HIV,INSTI
+Tivicay,fatigue and,HIV,INSTI
+Tivicay,spinning sensation (vertigo),HIV,INSTI
+Tivicay,other HIV AIDS medicines;,HIV,INSTI
+Tivicay,antacids or laxatives that contain aluminum magnesium or calcium;,HIV,INSTI
+Tivicay,sucralfate;,HIV,INSTI
+Tivicay,iron or calcium supplements or,HIV,INSTI
+Tivicay,buffered medicines;,HIV,INSTI
+Tivicay,anti-seizure medicines,HIV,INSTI
+Tivicay,St John's wort,HIV,INSTI
+Tivicay,metformin or,HIV,INSTI
+Tivicay,rifampin,HIV,INSTI
+Atripla,dizziness,HIV,MMC
+Atripla,trouble sleeping,HIV,MMC
+Atripla,drowsiness,HIV,MMC
+Atripla,unusual dreams and,HIV,MMC
+Atripla,trouble concentrating,HIV,MMC
+Atripla,tiredness,HIV,MMC
+Atripla,headache,HIV,MMC
+Atripla,nausea,HIV,MMC
+Atripla,vomiting,HIV,MMC
+Atripla,gas,HIV,MMC
+Atripla,upset stomach,HIV,MMC
+Atripla,diarrhea and,HIV,MMC
+Atripla,skin discoloration (such as small spots freckles darkening of the palms of the hands soles of the feet) and,HIV,MMC
+Atripla,changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist),HIV,MMC
+Atripla,unexplained weight loss,HIV,MMC
+Atripla,persistent muscle aches or weakness,HIV,MMC
+Atripla,joint pain,HIV,MMC
+Atripla,numbness or tingling of the hands feet arms legs,HIV,MMC
+Atripla,severe tiredness,HIV,MMC
+Atripla,vision changes,HIV,MMC
+Atripla,severe or persistent headaches,HIV,MMC
+Atripla,signs of infection (such as fever chills trouble breathing cough non-healing skin sores),HIV,MMC
+Atripla,signs of an overactive thyroid (such as irritability nervousness heat intolerance fast pounding irregular heartbeat bulging eyes unusual growth in the neck or thyroid known as a goiter) or,HIV,MMC
+Atripla,signs of a certain nerve problem known as Guillain-Barre Syndrome (such as difficulty breathing swallowing moving your eyes drooping face paralysis slurred speech),HIV,MMC
+Atripla,acyclovir,HIV,MMC
+Atripla,ganciclovir,HIV,MMC
+Atripla,valacyclovir,HIV,MMC
+Atripla,valganciclovir,HIV,MMC
+Atripla,sertraline,HIV,MMC
+Atripla,methadone,HIV,MMC
+Atripla,adefovir,HIV,MMC
+Atripla,cidofovir,HIV,MMC
+Atripla,blood thinners,HIV,MMC
+Atripla,cholesterol medications,HIV,MMC
+Atripla,antibiotics,HIV,MMC
+Atripla,calcium channel blockers,HIV,MMC
+Atripla,seizure medicines or,HIV,MMC
+Atripla,other HIV medicines,HIV,MMC
+Biktarvy,diarrhea,HIV,MMC
+Biktarvy,nausea,HIV,MMC
+Biktarvy,headache,HIV,MMC
+Biktarvy,fatigue,HIV,MMC
+Biktarvy,abnormal dreams,HIV,MMC
+Biktarvy,dizziness and,HIV,MMC
+Biktarvy,insomnia,HIV,MMC
+Biktarvy,other antiretroviral medications,HIV,MMC
+Biktarvy,dofetilide,HIV,MMC
+Biktarvy,anticonvulsants,HIV,MMC
+Biktarvy,antimycobacterials,HIV,MMC
+Biktarvy,St John's wort,HIV,MMC
+Biktarvy,antacids containing aluminum or magnesium,HIV,MMC
+Biktarvy,supplements containing calcium or iron,HIV,MMC
+Biktarvy,metformin,HIV,MMC
+Biktarvy,acyclovir,HIV,MMC
+Biktarvy,cidofovir,HIV,MMC
+Biktarvy,ganciclovir,HIV,MMC
+Biktarvy,valacyclovir,HIV,MMC
+Biktarvy,valganciclovir,HIV,MMC
+Biktarvy,aminoglycosides (eg gentamicin) and,HIV,MMC
+Biktarvy,high-dose or multiple nonsteroidal anti-inflammatory drugs (NSAIDs),HIV,MMC
+Cimduo,headache,HIV,MMC
+Cimduo,pain,HIV,MMC
+Cimduo,depression,HIV,MMC
+Cimduo,diarrhea,HIV,MMC
+Cimduo,rash,HIV,MMC
+Cimduo,back pain,HIV,MMC
+Cimduo,fever,HIV,MMC
+Cimduo,nausea,HIV,MMC
+Cimduo,abdominal pain,HIV,MMC
+Cimduo,weakness,HIV,MMC
+Cimduo,anxiety,HIV,MMC
+Cimduo,vomiting,HIV,MMC
+Cimduo,joint pain,HIV,MMC
+Cimduo,insomnia,HIV,MMC
+Cimduo,pneumonia,HIV,MMC
+Cimduo,indigestion,HIV,MMC
+Cimduo,muscle pain,HIV,MMC
+Cimduo,dizziness,HIV,MMC
+Cimduo,abnormal distribution of body fat and,HIV,MMC
+Cimduo,numbness and tingling of extremities,HIV,MMC
+Complera,new or worsening renal impairment,HIV,MMC
+Complera,depressive disorders and,HIV,MMC
+Complera,decreases in bone density,HIV,MMC
+Complera,headache,HIV,MMC
+Complera,tiredness,HIV,MMC
+Complera,dizziness,HIV,MMC
+Complera,sleep problems (insomnia),HIV,MMC
+Complera,strange dreams,HIV,MMC
+Complera,diarrhea,HIV,MMC
+Complera,nausea,HIV,MMC
+Complera,rash,HIV,MMC
+Complera,depression and,HIV,MMC
+Complera,changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist),HIV,MMC
+Complera,lactic acidosis and,HIV,MMC
+Complera,severe hepatomegaly with steatosis,HIV,MMC
+Complera,the anticonvulsants carbamazepine oxcarbazepine phenobarbital phenytoin,HIV,MMC
+Complera,the antimycobacterials rifampin rifapentine,HIV,MMC
+Complera,"proton pump inhibitors such as dexlansoprazole
+    esomeprazole lansoprazole omeprazole pantoprazole rabeprazole",HIV,MMC
+Complera,"the glucocorticoid systemic dexamethasone (more than a
+    single dose)",HIV,MMC
+Complera,St John's wort (Hypericum perforatum),HIV,MMC
+Delstrigo,dizziness,HIV,MMC
+Delstrigo,nausea,HIV,MMC
+Delstrigo,abnormal dreams,HIV,MMC
+Delstrigo,insomnia,HIV,MMC
+Delstrigo,diarrhea,HIV,MMC
+Delstrigo,drowsiness and,HIV,MMC
+Delstrigo,rash,HIV,MMC
+Dovato,headache,HIV,MMC
+Dovato,diarrhea,HIV,MMC
+Dovato,nausea,HIV,MMC
+Dovato,insomnia,HIV,MMC
+Dovato,fatigue and,HIV,MMC
+Dovato,dizziness,HIV,MMC
+Dovato,other antiretroviral drugs for the treatment of HIV-1 infection,HIV,MMC
+Dovato,dofetilide,HIV,MMC
+Dovato,metformin,HIV,MMC
+Dovato,anticonvulsants,HIV,MMC
+Dovato,rifampin,HIV,MMC
+Dovato,St John's wort,HIV,MMC
+Dovato,cation-containing antacids or laxatives,HIV,MMC
+Dovato,sucralfate,HIV,MMC
+Dovato,buffered medications,HIV,MMC
+Dovato,oral calcium and iron supplements (including multivitamins containing calcium or iron) and,HIV,MMC
+Dovato,sorbitol,HIV,MMC
+Genvoya,nausea,HIV,MMC
+Genvoya,diarrhea,HIV,MMC
+Genvoya,fatigue,HIV,MMC
+Genvoya,headache and,HIV,MMC
+Genvoya,body fat redistribution,HIV,MMC
+Genvoya,weakness,HIV,MMC
+Genvoya,unusual muscle pain,HIV,MMC
+Genvoya,difficulty breathing,HIV,MMC
+Genvoya,feeling cold in the extremities,HIV,MMC
+Genvoya,dizziness,HIV,MMC
+Genvoya,lightheadedness or,HIV,MMC
+Genvoya,fast or irregular heartbeat,HIV,MMC
+Genvoya,other antiretroviral medications,HIV,MMC
+Genvoya,drugs metabolized by CYP3A or CYP2D6,HIV,MMC
+Genvoya,alpha 1-adrenoreceptor antagonists,HIV,MMC
+Genvoya,anticonvulsants,HIV,MMC
+Genvoya,antimycobacterials,HIV,MMC
+Genvoya,ergot derivatives,HIV,MMC
+Genvoya,St John's wort,HIV,MMC
+Genvoya,cisapride,HIV,MMC
+Genvoya,HMG-CoA reductase inhibitors,HIV,MMC
+Genvoya,pimozide sildenafil and,HIV,MMC
+Genvoya,sedative hypnotics,HIV,MMC
+Evotaz,yellowing of the skin or eyes (jaundice),HIV,MMC
+Evotaz,itching and rash,HIV,MMC
+Evotaz,hives,HIV,MMC
+Evotaz,nausea,HIV,MMC
+Evotaz,diarrhea,HIV,MMC
+Evotaz,vomiting,HIV,MMC
+Evotaz,abdominal pain,HIV,MMC
+Evotaz,fatigue,HIV,MMC
+Evotaz,muscle tissue breakdown (rhabdomyolysis),HIV,MMC
+Evotaz,headache,HIV,MMC
+Evotaz,depression,HIV,MMC
+Evotaz,abnormal or strange dreams,HIV,MMC
+Evotaz,insomnia and,HIV,MMC
+Evotaz,kidney disease,HIV,MMC
+Juluca,diarrhea and,HIV,MMC
+Juluca,headache,HIV,MMC
+Juluca,other antiretroviral medications,HIV,MMC
+Juluca,dofetilide,HIV,MMC
+Juluca,metformin,HIV,MMC
+Juluca,antacids,HIV,MMC
+Juluca,anticonvulsants,HIV,MMC
+Juluca,antimycobacterials,HIV,MMC
+Juluca,glucocorticoids,HIV,MMC
+Juluca,H2-receptor antagonists,HIV,MMC
+Juluca,St John's wort,HIV,MMC
+Juluca,macrolide or ketolide antibiotics,HIV,MMC
+Juluca,cation-containing products or laxatives,HIV,MMC
+Juluca,sucralfate,HIV,MMC
+Juluca,buffered medications,HIV,MMC
+Juluca,narcotic analgesics,HIV,MMC
+Juluca,oral calcium and iron supplements (including multivitamins containing calcium or iron),HIV,MMC
+Juluca,and proton pump inhibitors (PPIs),HIV,MMC
+Odefsey,depressive disorders (depressed mood depression general unease mood changes negative thoughts suicide attempts suicidal ideation),HIV,MMC
+Odefsey,insomnia,HIV,MMC
+Odefsey,headache,HIV,MMC
+Odefsey,nausea,HIV,MMC
+Odefsey,drowsiness,HIV,MMC
+Odefsey,dizziness,HIV,MMC
+Odefsey,abdomincal pain,HIV,MMC
+Odefsey,rash,HIV,MMC
+Odefsey,weight gain and,HIV,MMC
+Odefsey,redistribution of body fat,HIV,MMC
+Prezcobix,diarrhea,HIV,MMC
+Prezcobix,nausea,HIV,MMC
+Prezcobix,rash,HIV,MMC
+Prezcobix,headache,HIV,MMC
+Prezcobix,abdominal pain,HIV,MMC
+Prezcobix,vomiting and,HIV,MMC
+Prezcobix,changes in body fat distribution,HIV,MMC
+Symfi,trouble concentrating,HIV,MMC
+Symfi,abnormal dreams,HIV,MMC
+Symfi,headache,HIV,MMC
+Symfi,nausea,HIV,MMC
+Symfi,feeling unwell (malaise),HIV,MMC
+Symfi,fatigue,HIV,MMC
+Symfi,nasal signs and symptoms,HIV,MMC
+Symfi,diarrhea,HIV,MMC
+Symfi,rash,HIV,MMC
+Symfi,dizziness,HIV,MMC
+Symfi,trouble sleeping (insomnia),HIV,MMC
+Symfi,pain,HIV,MMC
+Symfi,depression,HIV,MMC
+Symfi,weakness and,HIV,MMC
+Symfi,cough,HIV,MMC
+Stribild,yellowing skin or eyes (jaundice),HIV,MMC
+Stribild,diarrhea,HIV,MMC
+Stribild,gas,HIV,MMC
+Stribild,nausea,HIV,MMC
+Stribild,fatigue,HIV,MMC
+Stribild,drowsiness,HIV,MMC
+Stribild,dizziness,HIV,MMC
+Stribild,headache,HIV,MMC
+Stribild,insomnia,HIV,MMC
+Stribild,abnormal dreams,HIV,MMC
+Stribild,rash,HIV,MMC
+Stribild,bone problems,HIV,MMC
+Stribild,changes in fat such as an increased amount of fat in the head and neck,HIV,MMC
+Stribild,changes in the immune system that may result in a condition called immune reconstitution syndrome,HIV,MMC
+Stribild,buildup of an acid in your blood (lactic acidosis),HIV,MMC
+Stribild,serious liver problems and,HIV,MMC
+Stribild,worsening hepatitis B (HBV) infection,HIV,MMC
+Symtuza,diarrhea,HIV,MMC
+Symtuza,rash,HIV,MMC
+Symtuza,nausea,HIV,MMC
+Symtuza,fatigue,HIV,MMC
+Symtuza,headache,HIV,MMC
+Symtuza,abdominal discomfort and,HIV,MMC
+Symtuza,gas,HIV,MMC
+Triumeq,insomnia,HIV,MMC
+Triumeq,headache,HIV,MMC
+Triumeq,fatigue,HIV,MMC
+Triumeq,diarrhea,HIV,MMC
+Triumeq,nausea,HIV,MMC
+Triumeq,vomiting,HIV,MMC
+Triumeq,fever,HIV,MMC
+Triumeq,loss of appetite,HIV,MMC
+Triumeq,low energy,HIV,MMC
+Triumeq,nightmares or abnormal dreams,HIV,MMC
+Triumeq,abnormal body fat distribution,HIV,MMC
+Triumeq,numbness and tingling,HIV,MMC
+Triumeq,hypersensitivity reactions (fever rash shortness of breath cough or sore throat),HIV,MMC
+Triumeq,joint pain or swelling,HIV,MMC
+Triumeq,muscle pain,HIV,MMC
+Triumeq,extremity swelling,HIV,MMC
+Triumeq,depression,HIV,MMC
+Triumeq,dizziness and,HIV,MMC
+Triumeq,spinning sensation (vertigo),HIV,MMC
+Descovy,nausea,HIV,NRT
+Descovy,changes in body fat distribution,HIV,NRT
+Descovy,changes in your immune system,HIV,NRT
+Descovy,new or worse kidney problems including kidney failure,HIV,NRT
+Descovy,"bone problems such as bone pain softening or thinning and fractures 
+	 or",HIV,NRT
+Descovy,increased cholesterol,HIV,NRT
+Truvada,nausea,PrEP,PrEP
+Truvada,vomiting,PrEP,PrEP
+Truvada,stomach pain,PrEP,PrEP
+Truvada,diarrhea,PrEP,PrEP
+Truvada,headache,PrEP,PrEP
+Truvada,dizziness,PrEP,PrEP
+Truvada,depression,PrEP,PrEP
+Truvada,joint pain,PrEP,PrEP
+Truvada,trouble sleeping,PrEP,PrEP
+Truvada,strange dreams,PrEP,PrEP
+Truvada,back pain,PrEP,PrEP
+Truvada,itching or skin rash,PrEP,PrEP
+Truvada,changes in the color of skin on your palms or soles of your feet or,PrEP,PrEP
+Truvada,changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist),PrEP,PrEP
+Truvada,mental mood changes (such as depression anxiety),PrEP,PrEP
+Truvada,loss of appetite,PrEP,PrEP
+Truvada,stomach or abdominal pain,PrEP,PrEP
+Truvada,pink or bloody urine or,PrEP,PrEP
+Truvada,changes in the amount of urine,PrEP,PrEP
+Descovy,nausea,PrEP,PrEP
+Descovy,changes in body fat distribution,PrEP,PrEP
+Descovy,changes in your immune system,PrEP,PrEP
+Descovy,new or worse kidney problems including kidney failure,PrEP,PrEP
+Descovy,"bone problems such as bone pain softening or thinning and fractures 
+	 or",PrEP,PrEP
+Descovy,increased cholesterol,PrEP,PrEP

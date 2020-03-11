@@ -16,23 +16,29 @@ from flask import (
     jsonify)
 
 
-# is_heroku = False
-# if 'IS_HEROKU' in os.environ:
-#     is_heroku = True
+is_heroku = False
+if 'IS_HEROKU' in os.environ:
+    is_heroku = True
 
 print(os.environ)
 
 #################################################
 # Database Setup
 #################################################
-# if is_heroku == False:
-#     from config import remote_db_endpoint, remote_db_port, remote_hiv_dbname, remote_hiv_dbpwd, remote_hiv_dbuser
-# else:
-username = os.environ.get('remote_hiv_dbuser')
-password = os.environ.get('remote_hiv_dbpwd')
-port = os.environ.get('remote_db_port')
-endpoint = os.environ.get('remote_db_endpoint')
-db = os.environ.get('remote_hiv_dbname')
+if is_heroku == False:
+    from config import remote_db_endpoint, remote_db_port, remote_hiv_dbname, remote_hiv_dbpwd, remote_hiv_dbuser
+
+    username = remote_hiv_dbuser
+    password = remote_hiv_dbpwd
+    port = remote_db_port
+    endpoint = remote_db_endpoint
+    db = remote_hiv_dbname
+else:
+    username = os.environ.get('remote_hiv_dbuser')
+    password = os.environ.get('remote_hiv_dbpwd')
+    port = os.environ.get('remote_db_port')
+    endpoint = os.environ.get('remote_db_endpoint')
+    db = os.environ.get('remote_hiv_dbname')
 
 engine = create_engine(f"mysql://{username}:{password}@{endpoint}:{port}/{db}")
 
