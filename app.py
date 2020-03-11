@@ -26,6 +26,19 @@ print(os.environ)
 # Database Setup
 #################################################
 if is_heroku == False:
+        username = os.environ.get('remote_hiv_dbuser')
+    password = os.environ.get('remote_hiv_dbpwd')
+    port = os.environ.get('remote_db_port')
+    endpoint = os.environ.get('remote_db_endpoint')
+    db = os.environ.get('remote_hiv_dbname')
+    # from config import remote_db_endpoint, remote_db_port, remote_hiv_dbname, remote_hiv_dbpwd, remote_hiv_dbuser
+
+    # username = remote_hiv_dbuser
+    # password = remote_hiv_dbpwd
+    # port = remote_db_port
+    # endpoint = remote_db_endpoint
+    # db = remote_hiv_dbname
+else:
     from config import remote_db_endpoint, remote_db_port, remote_hiv_dbname, remote_hiv_dbpwd, remote_hiv_dbuser
 
     username = remote_hiv_dbuser
@@ -33,12 +46,11 @@ if is_heroku == False:
     port = remote_db_port
     endpoint = remote_db_endpoint
     db = remote_hiv_dbname
-else:
-    username = os.environ.get('remote_hiv_dbuser')
-    password = os.environ.get('remote_hiv_dbpwd')
-    port = os.environ.get('remote_db_port')
-    endpoint = os.environ.get('remote_db_endpoint')
-    db = os.environ.get('remote_hiv_dbname')
+    # username = os.environ.get('remote_hiv_dbuser')
+    # password = os.environ.get('remote_hiv_dbpwd')
+    # port = os.environ.get('remote_db_port')
+    # endpoint = os.environ.get('remote_db_endpoint')
+    # db = os.environ.get('remote_hiv_dbname')
 
 engine = create_engine(f"mysql://{username}:{password}@{endpoint}:{port}/{db}")
 
