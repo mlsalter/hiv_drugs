@@ -1,4 +1,4 @@
-web: gunicorn hiv_prep.app:app
+web: gunicorn app:app
 
 # example for background apps
 worker: python app.py
