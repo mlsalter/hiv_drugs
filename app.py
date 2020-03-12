@@ -39,6 +39,7 @@ if is_heroku == False:
     port = os.environ.get('remote_db_port')
     endpoint = os.environ.get('remote_db_endpoint')
     db = os.environ.get('remote_hiv_dbname')
+    api_key = os.environ.get('api_key')
     # from config import remote_db_endpoint, remote_db_port, remote_hiv_dbname, remote_hiv_dbpwd, remote_hiv_dbuser
 
     # username = remote_hiv_dbuser
@@ -47,7 +48,7 @@ if is_heroku == False:
     # endpoint = remote_db_endpoint
     # db = remote_hiv_dbname
 else:
-    from config import remote_db_endpoint, remote_db_port, remote_hiv_dbname, remote_hiv_dbpwd, remote_hiv_dbuser
+    from config import remote_db_endpoint, remote_db_port, remote_hiv_dbname, remote_hiv_dbpwd, remote_hiv_dbuser, api_key
 
     username = remote_hiv_dbuser
     password = remote_hiv_dbpwd
