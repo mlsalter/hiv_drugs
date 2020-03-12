@@ -1,5 +1,3 @@
-from config import api_key
-
 // Creating map object
 var myMap = L.map("choromap", {
   center: [37.8, -96],
