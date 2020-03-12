@@ -1,19 +1,27 @@
 #Dependencies/Libraries necessary
 import os
+import json
 import pandas as pd
-from sqlalchemy import func
+import numpy as np
 
 # SQL Alchemy
+import sqlalchemy
+from sqlalchemy import func
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 
 # PyMySQL 
 import pymysql
 pymysql.install_as_MySQLdb()
 
-from flask import (
-    Flask,
-    render_template,
-    jsonify)
+from flask import Flask, jsonify, render_template, url_for, json, request, flash
+from flask_sqlalchemy import SQLAlchemy
+
+# from flask import (
+#     Flask,
+#     render_template,
+#     jsonify)
 
 
 is_heroku = False
