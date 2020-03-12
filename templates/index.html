@@ -192,13 +192,13 @@
   
   <!-- <script src="/static/js/app.js"></script> -->
 
-  <script src="../config.js"></script>
+  <script src="{{ url_for('static', filename='js/config.js') }}"></script>
 
-  <script src="../static/js/choropleth.js"></script>
+  <script src="{{ url_for('static', filename='js/choropleth.js') }}"></script>
 
   <!-- <script src="scatters.js"></script> -->
+  <script src="{{ url_for('static', filename='js/choro.js') }}"></script>
   
-  <script src="../static/js/choro.js"></script>
 </body>
 
 </html>
