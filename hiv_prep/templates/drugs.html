@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Drug Analysis</title>
+  <!--Style-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q==" crossorigin=""></script>
+  <!-- stylin' -->
+  <link rel="stylesheet" type="text/css" href="../static/css/styles.css">
+  <!--<link rel="stylesheet" type="text/css" href="../static/css/agency.css">-->
+  <!-- Custom fonts for this template -->
+  <!-- <link href="../vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css"> -->
+  <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans|Raleway|Roboto|Roboto+Mono|Roboto+Slab" rel="stylesheet">
+  <!-- sliders -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/css/bootstrap-slider.css">
+   <!-- libraries -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script> <!-- chart.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js"></script>
+  <!-- main visualizations -->
+ 
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/bootstrap-slider.js"></script>
+
+
+</head>
+
+<body>
+  <!-- navbar -->
+  <nav id="navbar">
+    <div class="navbar-header">
+      <a class="navbar-brand team-name" href="" style="padding-left:25px">HIV PrEP</a>
+    </div>
+    <div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="nav-item">
+          <a class="nav-link" target="#" href="https://github.com/mlsalter/hiv_drugs"><img src="{{ url_for('static', filename='images/GitHub-Mark-32px.png') }}"></a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+        <div class="hero hero-page3 text-center">
+          <h1>Drug Analysis and Reviews</h1>
+  </div>
+
+  <!-- Navigation -->
+  <div class="wrapper">
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            </button> <!---->              
+          </div>
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li ><a href="/"> Home</a></li>
+                <li><a href="/drug_analysis"> Drug Analysis</a></li>
+            </ul>              
+          </div>
+        </div>
+      </nav>
+  </div>
+
+
+  <div class="container">
+    <div class="row whitespace">
+
+      <div class="col-md-12">
+    <!-- Dropdown for Drug Class -->
+    <h2 class="row whitespace" id="drug-analysis-title">Side Effects by Classification</h2>
+    <div class="dropdown text-center">
+    <h2>Select which classification for analysis</h2>
+        <select id="selClassAnalysis" onchange="updateClassAnalysis()">
+        <option value="All">All</option>
+        <option value="PrEP">PrEPs: Pre-Exposure Prophylaxis</option>
+        <option value="NRT">NRTs:Nucleoside Reverse Transcriptase Inhibitor</option>
+        <option value="NNRTI">NNRTIs: Non-Nucleoside Reverse Transcriptase Inhibitor</option>
+        <option value="PI">PIs: Protease Inhibitor</option>
+        <option value="INSTI">INSTIs: Integrase Inhibitor</option>
+        <option value="MCC">MCCs: Multi-Class Combination</option>
+        <!--<option value="CA">CAs:CCR5 Antagonist</option>
+        <option value="PEP">PEPs: Post-Exposure Prophylaxis</option>-->
+    </select>
+    </div>
+
+    <br>
+
+    <div class="panel panel-default">
+        <div class="panel-body bar_chart">
+            <div class="col-sm12"
+        </div>
+    </div>
+
+    <div class="row whitespace" style="padding-bottom: 0px">
+        <div align="center" class="form-group">
+          <ul class="list-group" id="filters">
+            <li class="filter list-group-item">         
+              <label>Compare before after PrEP/</label><br>
+            </li>
+          </ul>
+        </div>
+      </div> 
+    </div>
+    <div class="row whitespace">
+      <div class="col-md-10">
+        <div id="choromap" style="height: 650px;" ></div>
+        <p> 
+        <br><i></i>
+        </p>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+  </div>
+
+  <!-- Line Graph -->
+  <section id="services">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <h3>LINE GRAPH</h3>
+        <html lang="en">
+
+    <script src="{{ url_for('static', filename='js/plotly-latest.min.js') }}"></script>
+
+    <div id="plot"></div>
+    <script src='static/js/lineGraph_USHIV.js'></script>
+
+        <p><SOURCE:media>SOURCE: https://www.cdc.gov/GIS/</SOURCE:media>
+      </p>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+  </section>
+  <section id="servicesalt">
+
+    <!-- Scatter Plots -->
+    <div class="row whitespace">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <h2>HIV CASE RATE VS INCOME SCATTER PLOT</h2>
+          <div id="scatter2"></div>
+          <select id="ddScatters" onchange="onchangeScatter()">
+            <option value="Income_Diag">2008-2012 HIV Case Rate vs Average Annual Income</option>
+            <option value="Education_Dig">2013-2018 HIV Case Rate vs Highschool Graduation Rate</option>
+            <option value="Unemploy_Dig">2013-2018 HIV Case Rate vs Unemployment Rate</option>
+            <!-- <option value="dataset3">2013-2018 vs 2008-2012 HIV Case Rate vs Average Annual Income</option> -->
+          </select>
+
+        <p><SOURCE:media>SOURCE: WHO HAS TIME TO DOCUMENT SOURCES?</SOURCE:media>
+      </p>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+  </section>
+  <section id="services">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <h3>HIV CASE RATE VS UNEMPLOYMENT SCATTER PLOT</h3>
+  
+          <div id="scatter3"></div>
+          <select id="selDataset2">
+            <option value="dataset21" font color="black">2008-2012 HIV Case Rate vs Unemployment Rate</option>
+            <option value="dataset22" font color="black"\>2013-2018 HIV Case Rate vs Unemployment Rate</option>
+            <!-- <option value="dataset23" font color="black"\>2013-2018 vs 2008-2012 HIV Case Rate vs Unemployment Rate</option> -->
+          </select>
+  
+          <p><SOURCE:media>SOURCE: TO BE REMEMBERED LATER</SOURCE:media> </p> 
+        </div>
+        <div class="col-md-1"></div>
+      </div>
+    </section>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">Project Number 2 Brought to you by Team HIV PrEP in the 2020 GW Analytics & Visualization Bootcamp.  Team members include Alex Black, Brett Schneider, Johar Najmi, Manuel Jean, and Michelle Salter</div>
+  <!-- libraries -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script> <!-- chart.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+  <!-- main visualizations -->
+
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/bootstrap-slider.js"></script>
+  
+  <!-- <script src="/static/js/app.js"></script> -->
+
+  <script src="../static/js/config.js"></script>
+
+  <script src="../static/js/choropleth.js"></script>
+
+  <!-- <script src="scatters.js"></script> -->
+  
+  <script src="../static/js/drug_plots.js"></script>
+</body>
+
+</html>
